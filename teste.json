@@ -25,7 +25,8 @@
         "SkillImg": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/abaddon_borrowed_time.png",
         "skillName": "BORROWED TIME"
       }
-    ]
+    ],
+    "gender": "Male"
   },
   {
     "type": "Strength",
@@ -53,7 +54,8 @@
         "SkillImg": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/alchemist_chemical_rage.png",
         "skillName": "CHEMICAL RAGE"
       }
-    ]
+    ],
+    "gender": "Male"
   },
   {
     "type": "Intelligence",
@@ -81,7 +83,8 @@
         "SkillImg": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/ancient_apparition_ice_blast.png",
         "skillName": "ICE BLAST"
       }
-    ]
+    ],
+    "gender": "Unknown"
   },
   {
     "type": "Agility",
@@ -109,7 +112,8 @@
         "SkillImg": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/antimage_mana_void.png",
         "skillName": "MANA VOID"
       }
-    ]
+    ],
+    "gender": "Male"
   },
   {
     "type": "Agility",
@@ -137,7 +141,8 @@
         "SkillImg": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/arc_warden_tempest_double.png",
         "skillName": "TEMPEST DOUBLE"
       }
-    ]
+    ],
+    "gender": "Unknown"
   },
   {
     "type": "Strength",
@@ -165,7 +170,8 @@
         "SkillImg": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/axe_culling_blade.png",
         "skillName": "CULLING BLADE"
       }
-    ]
+    ],
+    "gender": "Male"
   },
   {
     "type": "Universal",
@@ -193,7 +199,8 @@
         "SkillImg": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/bane_fiends_grip.png",
         "skillName": "FIEND'S GRIP"
       }
-    ]
+    ],
+    "gender": "Unknown"
   },
   {
     "type": "Universal",
@@ -221,7 +228,8 @@
         "SkillImg": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/batrider_flaming_lasso.png",
         "skillName": "FLAMING LASSO"
       }
-    ]
+    ],
+    "gender": "Male"
   },
   {
     "type": "Universal",
@@ -253,7 +261,8 @@
         "SkillImg": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/beastmaster_primal_roar.png",
         "skillName": "PRIMAL ROAR"
       }
-    ]
+    ],
+    "gender": "Male"
   },
   {
     "type": "Agility",
@@ -281,7 +290,8 @@
         "SkillImg": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/bloodseeker_rupture.png",
         "skillName": "RUPTURE"
       }
-    ]
+    ],
+    "gender": "Male"
   },
   {
     "type": "Agility",
@@ -309,7 +319,8 @@
         "SkillImg": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/bounty_hunter_track.png",
         "skillName": "TRACK"
       }
-    ]
+    ],
+    "gender": "Male"
   },
   {
     "type": "Universal",
@@ -337,7 +348,8 @@
         "SkillImg": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/brewmaster_primal_split.png",
         "skillName": "PRIMAL SPLIT"
       }
-    ]
+    ],
+    "gender": "Male"
   },
   {
     "type": "Strength",
@@ -365,7 +377,8 @@
         "SkillImg": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/bristleback_warpath.png",
         "skillName": "WARPATH"
       }
-    ]
+    ],
+    "gender": "Male"
   },
   {
     "type": "Universal",
@@ -393,7 +406,8 @@
         "SkillImg": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/broodmother_spawn_spiderlings.png",
         "skillName": "SPAWN SPIDERLINGS"
       }
-    ]
+    ],
+    "gender": "Female"
   },
   {
     "type": "Strength",
@@ -421,7 +435,8 @@
         "SkillImg": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/centaur_stampede.png",
         "skillName": "STAMPEDE"
       }
-    ]
+    ],
+    "gender": "Male"
   },
   {
     "type": "Strength",
@@ -449,7 +464,8 @@
         "SkillImg": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/chaos_knight_phantasm.png",
         "skillName": "PHANTASM"
       }
-    ]
+    ],
+    "gender": "Male"
   },
   {
     "type": "Universal",
@@ -477,7 +493,8 @@
         "SkillImg": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/chen_hand_of_god.png",
         "skillName": "HAND OF GOD"
       }
-    ]
+    ],
+    "gender": "Male"
   },
   {
     "type": "Agility",
@@ -505,7 +522,8 @@
         "SkillImg": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/clinkz_wind_walk.png",
         "skillName": "SKELETON WALK"
       }
-    ]
+    ],
+    "gender": "Male"
   },
   {
     "type": "Universal",
@@ -533,7 +551,8 @@
         "SkillImg": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/rattletrap_hookshot.png",
         "skillName": "HOOKSHOT"
       }
-    ]
+    ],
+    "gender": "Male"
   },
   {
     "type": "Intelligence",
@@ -561,7 +580,8 @@
         "SkillImg": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/crystal_maiden_freezing_field.png",
         "skillName": "FREEZING FIELD"
       }
-    ]
+    ],
+    "gender": "Female"
   },
   {
     "type": "Universal",
@@ -589,7 +609,8 @@
         "SkillImg": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/dark_seer_wall_of_replica.png",
         "skillName": "WALL OF REPLICA"
       }
-    ]
+    ],
+    "gender": "Male"
   },
   {
     "type": "Universal",
@@ -621,7 +642,8 @@
         "SkillImg": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/dark_willow_terrorize.png",
         "skillName": "TERRORIZE"
       }
-    ]
+    ],
+    "gender": "Female"
   },
   {
     "type": "Strength",
@@ -649,7 +671,8 @@
         "SkillImg": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/dawnbreaker_solar_guardian.png",
         "skillName": "SOLAR GUARDIAN"
       }
-    ]
+    ],
+    "gender": "Female"
   },
   {
     "type": "Universal",
@@ -677,7 +700,8 @@
         "SkillImg": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/dazzle_bad_juju.png",
         "skillName": "BAD JUJU"
       }
-    ]
+    ],
+    "gender": "Male"
   },
   {
     "type": "Intelligence",
@@ -705,7 +729,8 @@
         "SkillImg": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/death_prophet_exorcism.png",
         "skillName": "EXORCISM"
       }
-    ]
+    ],
+    "gender": "Female"
   },
   {
     "type": "Intelligence",
@@ -733,7 +758,8 @@
         "SkillImg": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/disruptor_static_storm.png",
         "skillName": "STATIC STORM"
       }
-    ]
+    ],
+    "gender": "Male"
   },
   {
     "type": "Strength",
@@ -761,7 +787,8 @@
         "SkillImg": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/doom_bringer_doom.png",
         "skillName": "DOOM"
       }
-    ]
+    ],
+    "gender": "Male"
   },
   {
     "type": "Strength",
@@ -789,7 +816,8 @@
         "SkillImg": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/dragon_knight_elder_dragon_form.png",
         "skillName": "ELDER DRAGON FORM"
       }
-    ]
+    ],
+    "gender": "Male"
   },
   {
     "type": "Agility",
@@ -817,7 +845,8 @@
         "SkillImg": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/drow_ranger_marksmanship.png",
         "skillName": "MARKSMANSHIP"
       }
-    ]
+    ],
+    "gender": "Female"
   },
   {
     "type": "Strength",
@@ -849,7 +878,8 @@
         "SkillImg": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/earth_spirit_magnetize.png",
         "skillName": "MAGNETIZE"
       }
-    ]
+    ],
+    "gender": "Male"
   },
   {
     "type": "Strength",
@@ -877,7 +907,8 @@
         "SkillImg": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/earthshaker_echo_slam.png",
         "skillName": "ECHO SLAM"
       }
-    ]
+    ],
+    "gender": "Male"
   },
   {
     "type": "Strength",
@@ -905,7 +936,8 @@
         "SkillImg": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/elder_titan_earth_splitter.png",
         "skillName": "EARTH SPLITTER"
       }
-    ]
+    ],
+    "gender": "Male"
   },
   {
     "type": "Agility",
@@ -937,7 +969,8 @@
         "SkillImg": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/ember_spirit_fire_remnant.png",
         "skillName": "FIRE REMNANT"
       }
-    ]
+    ],
+    "gender": "Male"
   },
   {
     "type": "Intelligence",
@@ -965,7 +998,8 @@
         "SkillImg": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/enchantress_untouchable.png",
         "skillName": "UNTOUCHABLE"
       }
-    ]
+    ],
+    "gender": "Female"
   },
   {
     "type": "Universal",
@@ -993,7 +1027,8 @@
         "SkillImg": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/enigma_black_hole.png",
         "skillName": "BLACK HOLE"
       }
-    ]
+    ],
+    "gender": "Unknown"
   },
   {
     "type": "Agility",
@@ -1021,7 +1056,8 @@
         "SkillImg": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/faceless_void_chronosphere.png",
         "skillName": "CHRONOSPHERE"
       }
-    ]
+    ],
+    "gender": "Male"
   },
   {
     "type": "Intelligence",
@@ -1049,7 +1085,8 @@
         "SkillImg": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/grimstroke_soul_chain.png",
         "skillName": "SOULBIND"
       }
-    ]
+    ],
+    "gender": "Male"
   },
   {
     "type": "Agility",
@@ -1077,7 +1114,8 @@
         "SkillImg": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/gyrocopter_call_down.png",
         "skillName": "CALL DOWN"
       }
-    ]
+    ],
+    "gender": "Male"
   },
   {
     "type": "Agility",
@@ -1105,7 +1143,8 @@
         "SkillImg": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/hoodwink_sharpshooter.png",
         "skillName": "SHARPSHOOTER"
       }
-    ]
+    ],
+    "gender": "Female"
   },
   {
     "type": "Strength",
@@ -1133,7 +1172,8 @@
         "SkillImg": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/huskar_life_break.png",
         "skillName": "LIFE BREAK"
       }
-    ]
+    ],
+    "gender": "Male"
   },
   {
     "type": "Intelligence",
@@ -1185,7 +1225,8 @@
         "SkillImg": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/invoker_deafening_blast.png",
         "skillName": "DEAFENING BLAST"
       }
-    ]
+    ],
+    "gender": "Male"
   },
   {
     "type": "Universal",
@@ -1221,7 +1262,8 @@
         "SkillImg": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/wisp_relocate.png",
         "skillName": "RELOCATE"
       }
-    ]
+    ],
+    "gender": "Unknown"
   },
   {
     "type": "Intelligence",
@@ -1249,7 +1291,8 @@
         "SkillImg": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/jakiro_macropyre.png",
         "skillName": "MACROPYRE"
       }
-    ]
+    ],
+    "gender": "Male"
   },
   {
     "type": "Agility",
@@ -1277,7 +1320,8 @@
         "SkillImg": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/juggernaut_omni_slash.png",
         "skillName": "OMNISLASH"
       }
-    ]
+    ],
+    "gender": "Male"
   },
   {
     "type": "Intelligence",
@@ -1313,7 +1357,8 @@
         "SkillImg": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/keeper_of_the_light_spirit_form_illuminate.png",
         "skillName": "ILLUMINATE"
       }
-    ]
+    ],
+    "gender": "Male"
   },
   {
     "type": "Strength",
@@ -1341,7 +1386,8 @@
         "SkillImg": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/kunkka_ghostship.png",
         "skillName": "GHOSTSHIP"
       }
-    ]
+    ],
+    "gender": "Male"
   },
   {
     "type": "Strength",
@@ -1369,7 +1415,8 @@
         "SkillImg": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/legion_commander_duel.png",
         "skillName": "DUEL"
       }
-    ]
+    ],
+    "gender": "Female"
   },
   {
     "type": "Intelligence",
@@ -1397,7 +1444,8 @@
         "SkillImg": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/leshrac_pulse_nova.png",
         "skillName": "PULSE NOVA"
       }
-    ]
+    ],
+    "gender": "Male"
   },
   {
     "type": "Intelligence",
@@ -1425,7 +1473,8 @@
         "SkillImg": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/lich_chain_frost.png",
         "skillName": "CHAIN FROST"
       }
-    ]
+    ],
+    "gender": "Male"
   },
   {
     "type": "Strength",
@@ -1453,7 +1502,8 @@
         "SkillImg": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/life_stealer_infest.png",
         "skillName": "INFEST"
       }
-    ]
+    ],
+    "gender": "Male"
   },
   {
     "type": "Intelligence",
@@ -1481,7 +1531,8 @@
         "SkillImg": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/lina_laguna_blade.png",
         "skillName": "LAGUNA BLADE"
       }
-    ]
+    ],
+    "gender": "Female"
   },
   {
     "type": "Intelligence",
@@ -1509,7 +1560,8 @@
         "SkillImg": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/lion_finger_of_death.png",
         "skillName": "FINGER OF DEATH"
       }
-    ]
+    ],
+    "gender": "Male"
   },
   {
     "type": "Universal",
@@ -1537,7 +1589,8 @@
         "SkillImg": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/lone_druid_true_form.png",
         "skillName": "TRUE FORM"
       }
-    ]
+    ],
+    "gender": "Male"
   },
   {
     "type": "Agility",
@@ -1565,7 +1618,8 @@
         "SkillImg": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/luna_eclipse.png",
         "skillName": "ECLIPSE"
       }
-    ]
+    ],
+    "gender": "Female"
   },
   {
     "type": "Universal",
@@ -1593,7 +1647,8 @@
         "SkillImg": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/lycan_shapeshift.png",
         "skillName": "SHAPESHIFT"
       }
-    ]
+    ],
+    "gender": "Male"
   },
   {
     "type": "Universal",
@@ -1621,7 +1676,8 @@
         "SkillImg": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/magnataur_reverse_polarity.png",
         "skillName": "REVERSE POLARITY"
       }
-    ]
+    ],
+    "gender": "Male"
   },
   {
     "type": "Universal",
@@ -1649,7 +1705,8 @@
         "SkillImg": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/marci_unleash.png",
         "skillName": "UNLEASH"
       }
-    ]
+    ],
+    "gender": "Female"
   },
   {
     "type": "Strength",
@@ -1677,7 +1734,8 @@
         "SkillImg": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/mars_arena_of_blood.png",
         "skillName": "ARENA OF BLOOD"
       }
-    ]
+    ],
+    "gender": "Male"
   },
   {
     "type": "Agility",
@@ -1705,7 +1763,8 @@
         "SkillImg": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/medusa_stone_gaze.png",
         "skillName": "STONE GAZE"
       }
-    ]
+    ],
+    "gender": "Female"
   },
   {
     "type": "Agility",
@@ -1733,7 +1792,8 @@
         "SkillImg": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/meepo_divided_we_stand.png",
         "skillName": "DIVIDED WE STAND"
       }
-    ]
+    ],
+    "gender": "Male"
   },
   {
     "type": "Universal",
@@ -1761,7 +1821,8 @@
         "SkillImg": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/mirana_invis.png",
         "skillName": "MOONLIGHT SHADOW"
       }
-    ]
+    ],
+    "gender": "Female"
   },
   {
     "type": "Agility",
@@ -1789,7 +1850,8 @@
         "SkillImg": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/monkey_king_wukongs_command.png",
         "skillName": "WUKONG'S COMMAND"
       }
-    ]
+    ],
+    "gender": "Male"
   },
   {
     "type": "Agility",
@@ -1825,7 +1887,8 @@
         "SkillImg": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/morphling_replicate.png",
         "skillName": "MORPH"
       }
-    ]
+    ],
+    "gender": "Unknown"
   },
   {
     "type": "Intelligence",
@@ -1853,7 +1916,8 @@
         "SkillImg": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/muerta_pierce_the_veil.png",
         "skillName": "PIERCE THE VEIL"
       }
-    ]
+    ],
+    "gender": "Female"
   },
   {
     "type": "Agility",
@@ -1881,7 +1945,8 @@
         "SkillImg": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/naga_siren_song_of_the_siren.png",
         "skillName": "SONG OF THE SIREN"
       }
-    ]
+    ],
+    "gender": "Female"
   },
   {
     "type": "Intelligence",
@@ -1909,7 +1974,8 @@
         "SkillImg": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/furion_wrath_of_nature.png",
         "skillName": "WRATH OF NATURE"
       }
-    ]
+    ],
+    "gender": "Male"
   },
   {
     "type": "Intelligence",
@@ -1937,7 +2003,8 @@
         "SkillImg": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/necrolyte_reapers_scythe.png",
         "skillName": "REAPER'S SCYTHE"
       }
-    ]
+    ],
+    "gender": "Male"
   },
   {
     "type": "Strength",
@@ -1965,7 +2032,8 @@
         "SkillImg": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/night_stalker_darkness.png",
         "skillName": "DARK ASCENSION"
       }
-    ]
+    ],
+    "gender": "Male"
   },
   {
     "type": "Universal",
@@ -1993,7 +2061,8 @@
         "SkillImg": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/nyx_assassin_vendetta.png",
         "skillName": "VENDETTA"
       }
-    ]
+    ],
+    "gender": "Male"
   },
   {
     "type": "Strength",
@@ -2025,7 +2094,8 @@
         "SkillImg": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/ogre_magi_dumb_luck.png",
         "skillName": "DUMB LUCK"
       }
-    ]
+    ],
+    "gender": "Male"
   },
   {
     "type": "Strength",
@@ -2053,7 +2123,8 @@
         "SkillImg": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/omniknight_guardian_angel.png",
         "skillName": "GUARDIAN ANGEL"
       }
-    ]
+    ],
+    "gender": "Male"
   },
   {
     "type": "Intelligence",
@@ -2081,7 +2152,8 @@
         "SkillImg": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/oracle_false_promise.png",
         "skillName": "FALSE PROMISE"
       }
-    ]
+    ],
+    "gender": "Male"
   },
   {
     "type": "Intelligence",
@@ -2109,7 +2181,8 @@
         "SkillImg": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/obsidian_destroyer_sanity_eclipse.png",
         "skillName": "SANITY'S ECLIPSE"
       }
-    ]
+    ],
+    "gender": "Male"
   },
   {
     "type": "Universal",
@@ -2137,7 +2210,8 @@
         "SkillImg": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/pangolier_gyroshell.png",
         "skillName": "ROLLING THUNDER"
       }
-    ]
+    ],
+    "gender": "Male"
   },
   {
     "type": "Agility",
@@ -2165,7 +2239,8 @@
         "SkillImg": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/phantom_assassin_coup_de_grace.png",
         "skillName": "COUP DE GRACE"
       }
-    ]
+    ],
+    "gender": "Female"
   },
   {
     "type": "Agility",
@@ -2193,7 +2268,8 @@
         "SkillImg": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/phantom_lancer_juxtapose.png",
         "skillName": "JUXTAPOSE"
       }
-    ]
+    ],
+    "gender": "Male"
   },
   {
     "type": "Universal",
@@ -2221,7 +2297,8 @@
         "SkillImg": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/phoenix_supernova.png",
         "skillName": "SUPERNOVA"
       }
-    ]
+    ],
+    "gender": "Unknown"
   },
   {
     "type": "Strength",
@@ -2249,7 +2326,8 @@
         "SkillImg": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/primal_beast_pulverize.png",
         "skillName": "PULVERIZE"
       }
-    ]
+    ],
+    "gender": "Male"
   },
   {
     "type": "Intelligence",
@@ -2277,7 +2355,8 @@
         "SkillImg": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/puck_dream_coil.png",
         "skillName": "DREAM COIL"
       }
-    ]
+    ],
+    "gender": "Unknown"
   },
   {
     "type": "Strength",
@@ -2305,7 +2384,8 @@
         "SkillImg": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/pudge_dismember.png",
         "skillName": "DISMEMBER"
       }
-    ]
+    ],
+    "gender": "Male"
   },
   {
     "type": "Intelligence",
@@ -2333,7 +2413,8 @@
         "SkillImg": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/pugna_life_drain.png",
         "skillName": "LIFE DRAIN"
       }
-    ]
+    ],
+    "gender": "Male"
   },
   {
     "type": "Intelligence",
@@ -2361,7 +2442,8 @@
         "SkillImg": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/queenofpain_sonic_wave.png",
         "skillName": "SONIC WAVE"
       }
-    ]
+    ],
+    "gender": "Female"
   },
   {
     "type": "Agility",
@@ -2389,7 +2471,8 @@
         "SkillImg": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/razor_eye_of_the_storm.png",
         "skillName": "EYE OF THE STORM"
       }
-    ]
+    ],
+    "gender": "Male"
   },
   {
     "type": "Agility",
@@ -2417,7 +2500,8 @@
         "SkillImg": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/riki_backstab.png",
         "skillName": "CLOAK AND DAGGER"
       }
-    ]
+    ],
+    "gender": "Male"
   },
   {
     "type": "Intelligence",
@@ -2445,7 +2529,8 @@
         "SkillImg": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/rubick_spell_steal.png",
         "skillName": "SPELL STEAL"
       }
-    ]
+    ],
+    "gender": "Male"
   },
   {
     "type": "Universal",
@@ -2473,7 +2558,8 @@
         "SkillImg": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/sandking_epicenter.png",
         "skillName": "EPICENTER"
       }
-    ]
+    ],
+    "gender": "Male"
   },
   {
     "type": "Intelligence",
@@ -2501,7 +2587,8 @@
         "SkillImg": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/shadow_demon_demonic_purge.png",
         "skillName": "DEMONIC PURGE"
       }
-    ]
+    ],
+    "gender": "Male"
   },
   {
     "type": "Agility",
@@ -2529,7 +2616,8 @@
         "SkillImg": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/nevermore_requiem.png",
         "skillName": "REQUIEM OF SOULS"
       }
-    ]
+    ],
+    "gender": "Male"
   },
   {
     "type": "Intelligence",
@@ -2557,7 +2645,8 @@
         "SkillImg": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/shadow_shaman_mass_serpent_ward.png",
         "skillName": "MASS SERPENT WARD"
       }
-    ]
+    ],
+    "gender": "Male"
   },
   {
     "type": "Intelligence",
@@ -2585,7 +2674,8 @@
         "SkillImg": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/silencer_global_silence.png",
         "skillName": "GLOBAL SILENCE"
       }
-    ]
+    ],
+    "gender": "Male"
   },
   {
     "type": "Intelligence",
@@ -2613,7 +2703,8 @@
         "SkillImg": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/skywrath_mage_mystic_flare.png",
         "skillName": "MYSTIC FLARE"
       }
-    ]
+    ],
+    "gender": "Male"
   },
   {
     "type": "Strength",
@@ -2641,7 +2732,8 @@
         "SkillImg": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/slardar_amplify_damage.png",
         "skillName": "CORROSIVE HAZE"
       }
-    ]
+    ],
+    "gender": "Male"
   },
   {
     "type": "Agility",
@@ -2669,7 +2761,8 @@
         "SkillImg": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/slark_shadow_dance.png",
         "skillName": "SHADOW DANCE"
       }
-    ]
+    ],
+    "gender": "Male"
   },
   {
     "type": "Universal",
@@ -2697,7 +2790,8 @@
         "SkillImg": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/snapfire_mortimer_kisses.png",
         "skillName": "MORTIMER KISSES"
       }
-    ]
+    ],
+    "gender": "Female"
   },
   {
     "type": "Agility",
@@ -2725,7 +2819,8 @@
         "SkillImg": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/sniper_assassinate.png",
         "skillName": "ASSASSINATE"
       }
-    ]
+    ],
+    "gender": "Male"
   },
   {
     "type": "Agility",
@@ -2753,7 +2848,8 @@
         "SkillImg": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/spectre_haunt.png",
         "skillName": "HAUNT"
       }
-    ]
+    ],
+    "gender": "Female"
   },
   {
     "type": "Strength",
@@ -2781,7 +2877,8 @@
         "SkillImg": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/spirit_breaker_nether_strike.png",
         "skillName": "NETHER STRIKE"
       }
-    ]
+    ],
+    "gender": "Male"
   },
   {
     "type": "Intelligence",
@@ -2809,7 +2906,8 @@
         "SkillImg": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/storm_spirit_ball_lightning.png",
         "skillName": "BALL LIGHTNING"
       }
-    ]
+    ],
+    "gender": "Male"
   },
   {
     "type": "Strength",
@@ -2837,7 +2935,8 @@
         "SkillImg": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/sven_gods_strength.png",
         "skillName": "GOD'S STRENGTH"
       }
-    ]
+    ],
+    "gender": "Male"
   },
   {
     "type": "Universal",
@@ -2869,7 +2968,8 @@
         "SkillImg": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/techies_land_mines.png",
         "skillName": "PROXIMITY MINES"
       }
-    ]
+    ],
+    "gender": "Male"
   },
   {
     "type": "Agility",
@@ -2897,7 +2997,8 @@
         "SkillImg": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/templar_assassin_psionic_trap.png",
         "skillName": "PSIONIC TRAP"
       }
-    ]
+    ],
+    "gender": "Female"
   },
   {
     "type": "Agility",
@@ -2925,7 +3026,8 @@
         "SkillImg": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/terrorblade_sunder.png",
         "skillName": "SUNDER"
       }
-    ]
+    ],
+    "gender": "Male"
   },
   {
     "type": "Strength",
@@ -2953,7 +3055,8 @@
         "SkillImg": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/tidehunter_ravage.png",
         "skillName": "RAVAGE"
       }
-    ]
+    ],
+    "gender": "Male"
   },
   {
     "type": "Universal",
@@ -2985,7 +3088,8 @@
         "SkillImg": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/shredder_chakram.png",
         "skillName": "CHAKRAM"
       }
-    ]
+    ],
+    "gender": "Male"
   },
   {
     "type": "Intelligence",
@@ -3017,7 +3121,8 @@
         "SkillImg": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/tinker_rearm.png",
         "skillName": "REARM"
       }
-    ]
+    ],
+    "gender": "Male"
   },
   {
     "type": "Strength",
@@ -3049,7 +3154,8 @@
         "SkillImg": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/tiny_toss_tree.png",
         "skillName": "TREE THROW"
       }
-    ]
+    ],
+    "gender": "Male"
   },
   {
     "type": "Strength",
@@ -3081,7 +3187,8 @@
         "SkillImg": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/treant_overgrowth.png",
         "skillName": "OVERGROWTH"
       }
-    ]
+    ],
+    "gender": "Male"
   },
   {
     "type": "Agility",
@@ -3113,7 +3220,8 @@
         "SkillImg": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/troll_warlord_battle_trance.png",
         "skillName": "BATTLE TRANCE"
       }
-    ]
+    ],
+    "gender": "Male"
   },
   {
     "type": "Strength",
@@ -3141,7 +3249,8 @@
         "SkillImg": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/tusk_frozen_sigil.png",
         "skillName": "FROZEN SIGIL"
       }
-    ]
+    ],
+    "gender": "Male"
   },
   {
     "type": "Strength",
@@ -3169,7 +3278,8 @@
         "SkillImg": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/abyssal_underlord_dark_portal.png",
         "skillName": "FIEND'S GATE"
       }
-    ]
+    ],
+    "gender": "Male"
   },
   {
     "type": "Strength",
@@ -3197,7 +3307,8 @@
         "SkillImg": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/undying_flesh_golem.png",
         "skillName": "FLESH GOLEM"
       }
-    ]
+    ],
+    "gender": "Male"
   },
   {
     "type": "Agility",
@@ -3225,7 +3336,8 @@
         "SkillImg": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/ursa_enrage.png",
         "skillName": "ENRAGE"
       }
-    ]
+    ],
+    "gender": "Male"
   },
   {
     "type": "Universal",
@@ -3253,7 +3365,8 @@
         "SkillImg": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/vengefulspirit_nether_swap.png",
         "skillName": "NETHER SWAP"
       }
-    ]
+    ],
+    "gender": "Female"
   },
   {
     "type": "Universal",
@@ -3281,7 +3394,8 @@
         "SkillImg": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/venomancer_noxious_plague.png",
         "skillName": "NOXIOUS PLAGUE"
       }
-    ]
+    ],
+    "gender": "Male"
   },
   {
     "type": "Agility",
@@ -3309,7 +3423,8 @@
         "SkillImg": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/viper_viper_strike.png",
         "skillName": "VIPER STRIKE"
       }
-    ]
+    ],
+    "gender": "Male"
   },
   {
     "type": "Universal",
@@ -3337,7 +3452,8 @@
         "SkillImg": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/visage_summon_familiars.png",
         "skillName": "SUMMON FAMILIARS"
       }
-    ]
+    ],
+    "gender": "Male"
   },
   {
     "type": "Universal",
@@ -3365,7 +3481,8 @@
         "SkillImg": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/void_spirit_astral_step.png",
         "skillName": "ASTRAL STEP"
       }
-    ]
+    ],
+    "gender": "Male"
   },
   {
     "type": "Intelligence",
@@ -3393,7 +3510,8 @@
         "SkillImg": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/warlock_rain_of_chaos.png",
         "skillName": "CHAOTIC OFFERING"
       }
-    ]
+    ],
+    "gender": "Male"
   },
   {
     "type": "Agility",
@@ -3421,7 +3539,8 @@
         "SkillImg": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/weaver_time_lapse.png",
         "skillName": "TIME LAPSE"
       }
-    ]
+    ],
+    "gender": "Male"
   },
   {
     "type": "Universal",
@@ -3449,7 +3568,8 @@
         "SkillImg": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/windrunner_focusfire.png",
         "skillName": "FOCUS FIRE"
       }
-    ]
+    ],
+    "gender": "Female"
   },
   {
     "type": "Universal",
@@ -3477,7 +3597,8 @@
         "SkillImg": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/winter_wyvern_winters_curse.png",
         "skillName": "WINTER'S CURSE"
       }
-    ]
+    ],
+    "gender": "Female"
   },
   {
     "type": "Intelligence",
@@ -3505,7 +3626,8 @@
         "SkillImg": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/witch_doctor_death_ward.png",
         "skillName": "DEATH WARD"
       }
-    ]
+    ],
+    "gender": "Male"
   },
   {
     "type": "Strength",
@@ -3533,7 +3655,8 @@
         "SkillImg": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/skeleton_king_reincarnation.png",
         "skillName": "REINCARNATION"
       }
-    ]
+    ],
+    "gender": "Male"
   },
   {
     "type": "Intelligence",
@@ -3561,6 +3684,7 @@
         "SkillImg": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/zuus_thundergods_wrath.png",
         "skillName": "THUNDERGOD'S WRATH"
       }
-    ]
+    ],
+    "gender": "Male"
   }
 ]
