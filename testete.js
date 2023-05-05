@@ -1,1 +1,0 @@
-const a = "'ada\asd\'"

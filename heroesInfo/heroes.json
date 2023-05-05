@@ -1,0 +1,296 @@
+[
+  {
+    "name": "Abaddon",
+    "primaryAttr": "Universal",
+    "attackType": "Melee",
+    "img": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/abaddon.png",
+    "baseHp": "604",
+    "baseMp": "291",
+    "baseAttack": "9-19",
+    "baseDefense": "2.8",
+    "moveSpeed": "325",
+    "skills": [
+      {
+        "skillImg": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/abaddon_death_coil.png",
+        "skillName": "MIST COIL"
+      },
+      {
+        "skillImg": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/abaddon_aphotic_shield.png",
+        "skillName": "APHOTIC SHIELD"
+      },
+      {
+        "skillImg": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/abaddon_frostmourne.png",
+        "skillName": "CURSE OF AVERNUS"
+      },
+      {
+        "skillImg": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/abaddon_borrowed_time.png",
+        "skillName": "BORROWED TIME"
+      }
+    ]
+  },
+  {
+    "name": "Alchemist",
+    "primaryAttr": "Strength",
+    "attackType": "Melee",
+    "img": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/alchemist.png",
+    "baseHp": "626",
+    "baseMp": "375",
+    "baseAttack": "50-56",
+    "baseDefense": "2.7",
+    "moveSpeed": "300",
+    "skills": [
+      {
+        "skillImg": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/alchemist_acid_spray.png",
+        "skillName": "ACID SPRAY"
+      },
+      {
+        "skillImg": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/alchemist_unstable_concoction.png",
+        "skillName": "UNSTABLE CONCOCTION"
+      },
+      {
+        "skillImg": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/alchemist_corrosive_weaponry.png",
+        "skillName": "CORROSIVE WEAPONRY"
+      },
+      {
+        "skillImg": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/alchemist_chemical_rage.png",
+        "skillName": "CHEMICAL RAGE"
+      }
+    ]
+  },
+  {
+    "name": "Ancient Apparition",
+    "primaryAttr": "Intelligence",
+    "attackType": "Ranged",
+    "img": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/ancient_apparition.png",
+    "baseHp": "560",
+    "baseMp": "351",
+    "baseAttack": "44-54",
+    "baseDefense": "2.3",
+    "moveSpeed": "285",
+    "skills": [
+      {
+        "skillImg": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/ancient_apparition_cold_feet.png",
+        "skillName": "COLD FEET"
+      },
+      {
+        "skillImg": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/ancient_apparition_ice_vortex.png",
+        "skillName": "ICE VORTEX"
+      },
+      {
+        "skillImg": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/ancient_apparition_chilling_touch.png",
+        "skillName": "CHILLING TOUCH"
+      },
+      {
+        "skillImg": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/ancient_apparition_ice_blast.png",
+        "skillName": "ICE BLAST"
+      }
+    ]
+  },
+  {
+    "name": "Anti-Mage",
+    "primaryAttr": "Agility",
+    "attackType": "Melee",
+    "img": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/antimage.png",
+    "baseHp": "538",
+    "baseMp": "219",
+    "baseAttack": "53-57",
+    "baseDefense": "4.0",
+    "moveSpeed": "310",
+    "skills": [
+      {
+        "skillImg": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/antimage_mana_break.png",
+        "skillName": "MANA BREAK"
+      },
+      {
+        "skillImg": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/antimage_blink.png",
+        "skillName": "BLINK"
+      },
+      {
+        "skillImg": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/antimage_counterspell.png",
+        "skillName": "COUNTERSPELL"
+      },
+      {
+        "skillImg": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/antimage_mana_void.png",
+        "skillName": "MANA VOID"
+      }
+    ]
+  },
+  {
+    "name": "Arc Warden",
+    "primaryAttr": "Agility",
+    "attackType": "Ranged",
+    "img": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/arc_warden.png",
+    "baseHp": "604",
+    "baseMp": "363",
+    "baseAttack": "51-57",
+    "baseDefense": "2.3",
+    "moveSpeed": "285",
+    "skills": [
+      {
+        "skillImg": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/arc_warden_flux.png",
+        "skillName": "FLUX"
+      },
+      {
+        "skillImg": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/arc_warden_magnetic_field.png",
+        "skillName": "MAGNETIC FIELD"
+      },
+      {
+        "skillImg": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/arc_warden_spark_wraith.png",
+        "skillName": "SPARK WRAITH"
+      },
+      {
+        "skillImg": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/arc_warden_tempest_double.png",
+        "skillName": "TEMPEST DOUBLE"
+      }
+    ]
+  },
+  {
+    "name": "Axe",
+    "primaryAttr": "Strength",
+    "attackType": "Melee",
+    "img": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/axe.png",
+    "baseHp": "670",
+    "baseMp": "291",
+    "baseAttack": "55-59",
+    "baseDefense": "2.3",
+    "moveSpeed": "315",
+    "skills": [
+      {
+        "skillImg": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/axe_berserkers_call.png",
+        "skillName": "BERSERKER'S CALL"
+      },
+      {
+        "skillImg": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/axe_battle_hunger.png",
+        "skillName": "BATTLE HUNGER"
+      },
+      {
+        "skillImg": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/axe_counter_helix.png",
+        "skillName": "COUNTER HELIX"
+      },
+      {
+        "skillImg": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/axe_culling_blade.png",
+        "skillName": "CULLING BLADE"
+      }
+    ]
+  },
+  {
+    "name": "Bane",
+    "primaryAttr": "Universal",
+    "attackType": "Ranged",
+    "img": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/bane.png",
+    "baseHp": "626",
+    "baseMp": "351",
+    "baseAttack": "4-10",
+    "baseDefense": "4.8",
+    "moveSpeed": "305",
+    "skills": [
+      {
+        "skillImg": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/bane_enfeeble.png",
+        "skillName": "ENFEEBLE"
+      },
+      {
+        "skillImg": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/bane_brain_sap.png",
+        "skillName": "BRAIN SAP"
+      },
+      {
+        "skillImg": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/bane_nightmare.png",
+        "skillName": "NIGHTMARE"
+      },
+      {
+        "skillImg": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/bane_fiends_grip.png",
+        "skillName": "FIEND'S GRIP"
+      }
+    ]
+  },
+  {
+    "name": "Batrider",
+    "primaryAttr": "Universal",
+    "attackType": "Ranged",
+    "img": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/batrider.png",
+    "baseHp": "736",
+    "baseMp": "339",
+    "baseAttack": "0-4",
+    "baseDefense": "4.5",
+    "moveSpeed": "330",
+    "skills": [
+      {
+        "skillImg": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/batrider_sticky_napalm.png",
+        "skillName": "STICKY NAPALM"
+      },
+      {
+        "skillImg": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/batrider_flamebreak.png",
+        "skillName": "FLAMEBREAK"
+      },
+      {
+        "skillImg": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/batrider_firefly.png",
+        "skillName": "FIREFLY"
+      },
+      {
+        "skillImg": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/batrider_flaming_lasso.png",
+        "skillName": "FLAMING LASSO"
+      }
+    ]
+  },
+  {
+    "name": "Beastmaster",
+    "primaryAttr": "Universal",
+    "attackType": "Melee",
+    "img": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/beastmaster.png",
+    "baseHp": "670",
+    "baseMp": "267",
+    "baseAttack": "12-16",
+    "baseDefense": "3.0",
+    "moveSpeed": "305",
+    "skills": [
+      {
+        "skillImg": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/beastmaster_wild_axes.png",
+        "skillName": "WILD AXES"
+      },
+      {
+        "skillImg": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/beastmaster_call_of_the_wild_boar.png",
+        "skillName": "CALL OF THE WILD BOAR"
+      },
+      {
+        "skillImg": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/beastmaster_call_of_the_wild_hawk.png",
+        "skillName": "CALL OF THE WILD HAWK"
+      },
+      {
+        "skillImg": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/beastmaster_inner_beast.png",
+        "skillName": "INNER BEAST"
+      },
+      {
+        "skillImg": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/beastmaster_primal_roar.png",
+        "skillName": "PRIMAL ROAR"
+      }
+    ]
+  },
+  {
+    "name": "Bloodseeker",
+    "primaryAttr": "Agility",
+    "attackType": "Melee",
+    "img": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/bloodseeker.png",
+    "baseHp": "648",
+    "baseMp": "279",
+    "baseAttack": "57-63",
+    "baseDefense": "5.7",
+    "moveSpeed": "300",
+    "skills": [
+      {
+        "skillImg": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/bloodseeker_bloodrage.png",
+        "skillName": "BLOODRAGE"
+      },
+      {
+        "skillImg": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/bloodseeker_blood_bath.png",
+        "skillName": "BLOOD RITE"
+      },
+      {
+        "skillImg": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/bloodseeker_thirst.png",
+        "skillName": "THIRST"
+      },
+      {
+        "skillImg": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/bloodseeker_rupture.png",
+        "skillName": "RUPTURE"
+      }
+    ]
+  }
+]

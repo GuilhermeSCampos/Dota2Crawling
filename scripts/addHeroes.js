@@ -8,7 +8,7 @@ const sixSkillHeros = ['Io', 'Keeper of the Light', 'Morphling']
 
 const URL = 'https://www.dota2.com/hero/abaddon'
 
-const teste = async () => {
+const addHeroes = async () => {
   const heroes = []
   const browser = await puppeteer.launch({
     headless: "new",
@@ -40,8 +40,12 @@ const teste = async () => {
       return document.querySelector('.heropage_Portrait_CR-Bb')?.src
     })
 
-    let type = await page.evaluate(() => {
+    let primaryAttr = await page.evaluate(() => {
       return document.querySelector('.heropage_PrimaryStat_3HGWJ')?.innerHTML
+    })
+
+    let attackType = await page.evaluate(() => {
+      return document.querySelector('.heropage_Value_3ce-D')?.innerHTML
     })
 
     let baseHp = await page.evaluate(() => {
@@ -90,7 +94,7 @@ const teste = async () => {
     for (let i = initialSkill; i < numberOfSkills; i++) {
       const child = await divChildren.$(`div:nth-child(${i + 1})`)
       await child.click()
-      let SkillImg = await page.evaluate(() => {
+      let skillImg = await page.evaluate(() => {
         return document.querySelector('.heropage_AbilityImage_171zq')?.src
       })
 
@@ -99,7 +103,7 @@ const teste = async () => {
       })
 
       skills.push({
-        SkillImg,
+        skillImg,
         skillName
       })
     }
@@ -107,8 +111,9 @@ const teste = async () => {
     console.log(name)
 
     const newHero = {
-      type,
       name,
+      primaryAttr,
+      attackType,
       img,
       baseHp,
       baseMp,
@@ -130,7 +135,10 @@ const teste = async () => {
     await page.click(nextHeroSelector)
   }
   await browser.close();
-  fs.writeFileSync(__dirname + '/teste.json', JSON.stringify(heroes))
+  fs.writeFileSync(__dirname + '/../heroesInfo/heroes.json', JSON.stringify(heroes))
+  console.log('Heroes added!')
 }
 
-teste();
+module.exports = {
+  addHeroes
+}

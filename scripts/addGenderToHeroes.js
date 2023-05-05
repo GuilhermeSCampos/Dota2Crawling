@@ -59,4 +59,6 @@ const addGenderToHeroes = (filePath) => {
     });
   };
 
-addGenderToHeroes('./teste.json');
+module.exports = {
+  addGenderToHeroes,
+}
