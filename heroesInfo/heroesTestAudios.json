@@ -3,48 +3,16 @@
     "name": "Abaddon",
     "responses": [
       {
-        "text": "Abaddon.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/8/89/Vo_abaddon_abad_spawn_01.mp3/revision/latest?cb=20201004184623"
-      },
-      {
-        "text": "Lord of Avernus.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/0/05/Vo_abaddon_abad_spawn_02.mp3/revision/latest?cb=20201004184624"
-      },
-      {
         "text": "This place appears like a vision in the mist.",
         "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/1/1b/Vo_abaddon_abad_spawn_03.mp3/revision/latest?cb=20201004184625"
-      },
-      {
-        "text": "From House Avernus, I set forth.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/f/f9/Vo_abaddon_abad_spawn_05.mp3/revision/latest?cb=20201004184629"
       },
       {
         "text": "The fog of war is no match for the mist of fate.",
         "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/a/a5/Vo_abaddon_abad_begin_02.mp3/revision/latest?cb=20201004183857"
       },
       {
-        "text": "Chosen of Avernus.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/6/68/Vo_abaddon_abad_move_05.mp3/revision/latest?cb=20201004184414"
-      },
-      {
-        "text": "By the House Avernus.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/0/05/Vo_abaddon_abad_attack_08.mp3/revision/latest?cb=20201004183844"
-      },
-      {
-        "text": "You have called death upon yourself.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/7/71/Vo_abaddon_abad_cast_02.mp3/revision/latest?cb=20201004183938"
-      },
-      {
-        "text": "For the House Avernus!",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/5/54/Vo_abaddon_abad_levelup_01.mp3/revision/latest?cb=20201004184344"
-      },
-      {
         "text": "Look upon the Lord of Avernus and beware.",
         "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/1/19/Vo_abaddon_abad_levelup_06.mp3/revision/latest?cb=20201004184352"
-      },
-      {
-        "text": "For the House Avernus!",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/d/d3/Vo_abaddon_abad_purch_01.mp3/revision/latest?cb=20201004184533"
       }
     ]
   },
@@ -52,24 +20,8 @@
     "name": "Alchemist",
     "responses": [
       {
-        "text": "Alchemist!",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/f/fd/Vo_alchemist_alch_spawn_01.mp3/revision/latest?cb=20201004191423"
-      },
-      {
-        "text": "Yeah, I'm here.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/1/13/Vo_alchemist_alch_spawn_02.mp3/revision/latest?cb=20201004191425"
-      },
-      {
-        "text": "I'll be the catalyst!",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/7/73/Vo_alchemist_alch_spawn_03.mp3/revision/latest?cb=20201004191426"
-      },
-      {
         "text": "Now we're cookin!",
         "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/c/c8/Vo_alchemist_alch_attack_05.mp3/revision/latest?cb=20201004190719"
-      },
-      {
-        "text": "I'm feeling punchy.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/0/04/Vo_alchemist_alch_attack_17.mp3/revision/latest?cb=20201004190744"
       },
       {
         "text": "You're the boss.",
@@ -80,87 +32,31 @@
         "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/d/d2/Vo_alchemist_alch_level_05.mp3/revision/latest?cb=20201004191110"
       },
       {
-        "text": "Alchemy is the future!",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/c/ca/Vo_alchemist_alch_respawn_02.mp3/revision/latest?cb=20201004191331"
-      },
-      {
         "text": "You point, I'll punch!",
         "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/1/13/Vo_alchemist_alch_attack_13.mp3/revision/latest?cb=20201004190736"
       },
       {
         "text": "Easy now, this stuff is explosive!",
         "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/9/95/Vo_alchemist_alch_move_20.mp3/revision/latest?cb=20201004191200"
-      },
-      {
-        "text": "Come take some punches.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/b/b1/Vo_alchemist_alch_attack_18.mp3/revision/latest?cb=20201004190747"
-      },
-      {
-        "text": "My little friend wants a word with you.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/0/09/Vo_alchemist_alch_cast_01.mp3/revision/latest?cb=20201004190808"
-      }
+      } 
     ]
   },
   {
     "name": "Ancient_Apparition",
     "responses": [
       {
-        "text": "Ancient Apparition!",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/f/fd/Vo_ancient_apparition_appa_spawn_01.mp3/revision/latest?cb=20201004192433"
-      },
-      {
         "text": "The Age of Ice begins!",
         "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/a/ac/Vo_ancient_apparition_appa_spawn_02.mp3/revision/latest?cb=20201004192435"
       },
       {
-        "text": "A cold wind blows.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/f/f6/Vo_ancient_apparition_appa_spawn_03.mp3/revision/latest?cb=20201004192437"
-      },
-      {
         "text": "Ice elemental.",
         "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/c/c9/Vo_ancient_apparition_appa_spawn_04.mp3/revision/latest?cb=20201004192438"
-      },
-      {
-        "text": "I run cold!",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/f/f9/Vo_ancient_apparition_appa_move_10.mp3/revision/latest?cb=20201004192302"
-      },
-      {
-        "text": "Cold blooded!",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/c/ca/Vo_ancient_apparition_appa_firstblood_02.mp3/revision/latest?cb=20201004192032"
-      },
-      {
-        "text": "In cold blood.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/0/0b/Vo_ancient_apparition_appa_attack_04.mp3/revision/latest?cb=20201004191850"
-      },
-      {
-        "text": "Behold the apparition.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/7/74/Vo_ancient_apparition_appa_attack_10.mp3/revision/latest?cb=20201004191859"
-      },
-      {
-        "text": "Ancient onslaught.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/6/69/Vo_ancient_apparition_appa_attack_11.mp3/revision/latest?cb=20201004191900"
-      },
-      {
-        "text": "I come for you.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/2/29/Vo_ancient_apparition_appa_cast_02.mp3/revision/latest?cb=20201004191915"
-      },
-      {
-        "text": "Feel the chill!",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/8/88/Vo_ancient_apparition_appa_ability_touch_01.mp3/revision/latest?cb=20201004191813"
-      },
-      {
-        "text": "A dark summons!",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/9/97/Vo_ancient_apparition_appa_ability_iceblast_03.mp3/revision/latest?cb=20201004191756"
       }
     ]
   },
   {
     "name": "Anti-Mage",
     "responses": [
-      {
-        "text": "Antimage.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/d/d3/Vo_antimage_anti_spawn_01.mp3/revision/latest?cb=20200711080154"
-      },
       {
         "text": "All magic flies before me.",
         "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/5/57/Vo_antimage_anti_spawn_02.mp3/revision/latest?cb=20200711080155"
@@ -170,24 +66,8 @@
         "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/d/d1/Vo_antimage_anti_spawn_03.mp3/revision/latest?cb=20200711080157"
       },
       {
-        "text": "The magic ends here.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/9/9d/Vo_antimage_anti_spawn_04.mp3/revision/latest?cb=20200711080158"
-      },
-      {
-        "text": "Truth compels me.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/2/29/Vo_antimage_anti_move_08.mp3/revision/latest?cb=20200711080055"
-      },
-      {
-        "text": "The true path!",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/c/c2/Vo_antimage_anti_move_11.mp3/revision/latest?cb=20200711080058"
-      },
-      {
         "text": "Magic shall not prevail!",
         "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/1/1b/Vo_antimage_anti_attack_03.mp3/revision/latest?cb=20200711075848"
-      },
-      {
-        "text": "I turn magic aside!",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/3/30/Vo_antimage_anti_level_05.mp3/revision/latest?cb=20200711080031"
       },
       {
         "text": "Such sorcery shall not prevail.",
@@ -197,10 +77,7 @@
         "text": "Magic is an abomination.",
         "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/a/a0/Vo_antimage_anti_magicuser_01.mp3/revision/latest?cb=20200711080040"
       },
-      {
-        "text": "Prepare thyself!",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/4/47/Vo_antimage_anti_cast_01.mp3/revision/latest?cb=20200711075903"
-      },
+
       {
         "text": "I fear no vile sorcery!",
         "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/8/8f/Vo_antimage_anti_respawn_03.mp3/revision/latest?cb=20200711080143"
@@ -210,14 +87,6 @@
   {
     "name": "Arc_Warden",
     "responses": [
-      {
-        "text": "Arc Warden.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/4/4a/Vo_arc_warden_arcwar_spawn_01.mp3/revision/latest?cb=20201009174343"
-      },
-      {
-        "text": "Zet is the Self, and the Self is Zet.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/b/ba/Vo_arc_warden_arcwar_spawn_02.mp3/revision/latest?cb=20201009174346"
-      },
       {
         "text": "The Self seeks to end the great schism.",
         "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/4/40/Vo_arc_warden_arcwar_spawn_03.mp3/revision/latest?cb=20201009174348"
@@ -229,87 +98,20 @@
       {
         "text": "Splinter of the Primordial Origin.",
         "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/1/17/Vo_arc_warden_arcwar_spawn_05.mp3/revision/latest?cb=20201009174352"
-      },
-      {
-        "text": "Self unites with Radiant self. For now.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/a/a1/Vo_arc_warden_arcwar_spawn_06.mp3/revision/latest?cb=20201009174353"
-      },
-      {
-        "text": "A radiant alliance.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/8/8f/Vo_arc_warden_arcwar_spawn_07.mp3/revision/latest?cb=20201009174355"
-      },
-      {
-        "text": "Self bonds with Dire self. For the moment.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/f/fb/Vo_arc_warden_arcwar_spawn_08.mp3/revision/latest?cb=20201009174357"
-      },
-      {
-        "text": "A Dire unification indeed.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/6/6c/Vo_arc_warden_arcwar_spawn_09.mp3/revision/latest?cb=20201009174359"
-      },
-      {
-        "text": "The Self arrives at last.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/1/1c/Vo_arc_warden_arcwar_battlebegins_03.mp3/revision/latest?cb=20201009173117"
-      },
-      {
-        "text": "Self will crush the Dire.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/4/4e/Vo_arc_warden_arcwar_battlebegins_05.mp3/revision/latest?cb=20201009173120"
-      },
-      {
-        "text": "The Self knows this power.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/1/1b/Vo_arc_warden_arcwar_levelup_04.mp3/revision/latest?cb=20201009173900"
-      }
+      } 
     ]
   },
   {
     "name": "Axe",
     "responses": [
-      {
-        "text": "Axe!",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/5/5e/Vo_axe_axe_spawn_01.mp3/revision/latest?cb=20201009175754"
-      },
-      {
-        "text": "There is no team in Axe!",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/1/15/Vo_axe_axe_spawn_02.mp3/revision/latest?cb=20201009175757"
-      },
-      {
-        "text": "Axe here!",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/c/c9/Vo_axe_axe_spawn_03.mp3/revision/latest?cb=20201009175759"
-      },
+  
       {
         "text": "Enemies need killing!",
         "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/1/1c/Vo_axe_axe_move_10.mp3/revision/latest?cb=20201009175408"
       },
       {
-        "text": "Taste my blade!",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/e/e5/Vo_axe_axe_attack_02.mp3/revision/latest?cb=20201009174726"
-      },
-      {
-        "text": "Here comes the axe!",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/7/79/Vo_axe_axe_attack_04.mp3/revision/latest?cb=20201009174731"
-      },
-      {
-        "text": "Axe swings his blade.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/1/18/Vo_axe_axe_spawn_07.mp3/revision/latest?cb=20201009175810"
-      },
-      {
         "text": "Let the carnage begin.",
         "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/5/57/Vo_axe_axe_spawn_08.mp3/revision/latest?cb=20201009175812"
-      },
-      {
-        "text": "Axe is ready!",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/b/b8/Vo_axe_axe_spawn_09.mp3/revision/latest?cb=20201009175815"
-      },
-      {
-        "text": "The Axe-man comes!",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/2/2b/Vo_axe_axe_spawn_10.mp3/revision/latest?cb=20201009175818"
-      },
-      {
-        "text": "Axe charges!",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/c/c1/Vo_axe_axe_move_06.mp3/revision/latest?cb=20201009175357"
-      },
-      {
-        "text": "Axe is a cut above!",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/f/fc/Vo_axe_axe_level_04.mp3/revision/latest?cb=20201009175300"
       }
     ]
   },
@@ -317,40 +119,12 @@
     "name": "Bane",
     "responses": [
       {
-        "text": "Bane of your existence…",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/2/20/Vo_bane_bane_spawn_02.mp3/revision/latest?cb=20201009192057"
-      },
-      {
-        "text": "Bane… Elemental…",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/8/88/Vo_bane_bane_spawn_03.mp3/revision/latest?cb=20201009192059"
-      },
-      {
-        "text": "Your Nightmare is here.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/5/51/Vo_bane_bane_spawn_05.mp3/revision/latest?cb=20201009192102"
-      },
-      {
-        "text": "I bring nightmares.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/5/5b/Vo_bane_bane_spawn_06.mp3/revision/latest?cb=20201009192104"
-      },
-      {
         "text": "I come with evil dreams.",
         "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/0/06/Vo_bane_bane_spawn_07.mp3/revision/latest?cb=20201009192105"
       },
       {
-        "text": "Bane.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/c/cd/Vo_bane_bane_spawn_01.mp3/revision/latest?cb=20201009192055"
-      },
-      {
-        "text": "Atropos…",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/f/f6/Vo_bane_bane_spawn_04.mp3/revision/latest?cb=20201009192100"
-      },
-      {
         "text": "See you in your dreams.",
         "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/5/5a/Vo_bane_bane_move_16.mp3/revision/latest?cb=20201009191848"
-      },
-      {
-        "text": "By the ichor of Nyctasha!",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/c/c3/Vo_bane_bane_attack_13.mp3/revision/latest?cb=20201009191505"
       },
       {
         "text": "Nightmares, follow me into the light.",
@@ -370,48 +144,12 @@
     "name": "Batrider",
     "responses": [
       {
-        "text": "Batrider!",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/1/1a/Vo_batrider_bat_spawn_01.mp3/revision/latest?cb=20201009200022"
-      },
-      {
-        "text": "There's no taming me!",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/9/91/Vo_batrider_bat_spawn_02.mp3/revision/latest?cb=20201009200025"
-      },
-      {
-        "text": "I rode mine here!",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/6/6d/Vo_batrider_bat_spawn_03.mp3/revision/latest?cb=20201009200029"
-      },
-      {
-        "text": "Got a bat's eye view of the battle.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/9/90/Vo_batrider_bat_spawn_04.mp3/revision/latest?cb=20201009200031"
-      },
-      {
         "text": "If you don't ride into battle, you don't ride at all.",
         "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/4/48/Vo_batrider_bat_spawn_05.mp3/revision/latest?cb=20201009200034"
       },
       {
-        "text": "Ee-haw! That's my signal.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/2/2a/Vo_batrider_bat_battlebegins_01.mp3/revision/latest?cb=20201009194952"
-      },
-      {
-        "text": "Life just got interesting!",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/8/85/Vo_batrider_bat_battlebegins_02.mp3/revision/latest?cb=20201009194955"
-      },
-      {
-        "text": "Here I come, baby!",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/d/d0/Vo_batrider_bat_attack_02.mp3/revision/latest?cb=20201009194916"
-      },
-      {
-        "text": "Death from above!",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/3/3e/Vo_batrider_bat_attack_03.mp3/revision/latest?cb=20201009194919"
-      },
-      {
         "text": "Gonna ride this bat outta Hell like a bat outta Hell!",
         "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/5/52/Vo_batrider_bat_respawn_02.mp3/revision/latest?cb=20201009195812"
-      },
-      {
-        "text": "Ho, bat! Let's fly!",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/7/7f/Vo_batrider_bat_respawn_14.mp3/revision/latest?cb=20201009195846"
       },
       {
         "text": "Let's go for a ride.",
@@ -423,40 +161,12 @@
     "name": "Beastmaster",
     "responses": [
       {
-        "text": "Beastmaster!",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/a/a4/Vo_beastmaster_beas_spawn_01.mp3/revision/latest?cb=20201010172340"
-      },
-      {
-        "text": "Master of beasts!",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/6/6f/Vo_beastmaster_beas_spawn_02.mp3/revision/latest?cb=20201010172342"
-      },
-      {
-        "text": "Meet your master…snuhg… beastmaster.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/3/3f/Vo_beastmaster_beas_spawn_03.mp3/revision/latest?cb=20201010172344"
-      },
-      {
-        "text": "My beasts and I hunt our prey.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/5/56/Vo_beastmaster_beas_spawn_04.mp3/revision/latest?cb=20201010172347"
-      },
-      {
-        "text": "Unleash the beasts of war.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/8/85/Vo_beastmaster_beas_spawn_05.mp3/revision/latest?cb=20201010172350"
-      },
-      {
         "text": "I'm a natural disaster.",
         "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/3/30/Vo_beastmaster_beas_spawn_06.mp3/revision/latest?cb=20201010172353"
       },
       {
         "text": "Even my axes are trained.",
         "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/0/08/Vo_beastmaster_beas_ability_axes_02.mp3/revision/latest?cb=20201010171339"
-      },
-      {
-        "text": "Feed the beast within!",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/3/34/Vo_beastmaster_beas_level_04.mp3/revision/latest?cb=20201010171958"
-      },
-      {
-        "text": "Nature, red in tooth and talon.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/e/e3/Vo_beastmaster_beas_kill_02.mp3/revision/latest?cb=20201010171819"
       },
       {
         "text": "Welcome to the food chain.",
@@ -476,14 +186,6 @@
     "name": "Bloodseeker",
     "responses": [
       {
-        "text": "Bloodseeker.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/4/48/Vo_bloodseeker_blod_spawn_01.mp3/revision/latest?cb=20201010180008"
-      },
-      {
-        "text": "I am Bloodseeker.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/1/13/Vo_bloodseeker_blod_spawn_02.mp3/revision/latest?cb=20201010180010"
-      },
-      {
         "text": "The search for blood begins.",
         "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/c/c9/Vo_bloodseeker_blod_spawn_03.mp3/revision/latest?cb=20201010180012"
       },
@@ -496,32 +198,8 @@
         "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/3/36/Vo_bloodseeker_blod_spawn_05.mp3/revision/latest?cb=20201010180015"
       },
       {
-        "text": "I am called Bloodseeker.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/5/5d/Vo_bloodseeker_blod_spawn_06.mp3/revision/latest?cb=20201010180017"
-      },
-      {
-        "text": "For the Flayed Twins, I seek blood.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/a/a2/Vo_bloodseeker_blod_spawn_07.mp3/revision/latest?cb=20201010180019"
-      },
-      {
-        "text": "I smell blood.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/7/70/Vo_bloodseeker_blod_spawn_08.mp3/revision/latest?cb=20201010180021"
-      },
-      {
-        "text": "Out for blood.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/b/bf/Vo_bloodseeker_blod_attack_03.mp3/revision/latest?cb=20201010175328"
-      },
-      {
         "text": "Let the seas run red.",
         "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/0/06/Vo_bloodseeker_blod_rival_02.mp3/revision/latest?cb=20201010175935"
-      },
-      {
-        "text": "Blood calls for blood.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/4/4b/Vo_bloodseeker_blod_respawn_02.mp3/revision/latest?cb=20201010175915"
-      },
-      {
-        "text": "Your blood is mine.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/6/65/Vo_bloodseeker_blod_attack_04.mp3/revision/latest?cb=20201010175330"
       }
     ]
   },
@@ -529,20 +207,12 @@
     "name": "Bounty_Hunter",
     "responses": [
       {
-        "text": "Bounty Hunter!",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/1/1e/Vo_bounty_hunter_bount_spawn_01.mp3/revision/latest?cb=20201010181326"
-      },
-      {
         "text": "There's a price on all their heads.",
         "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/1/14/Vo_bounty_hunter_bount_spawn_02.mp3/revision/latest?cb=20201010181327"
       },
       {
         "text": "For the right price, anything.",
         "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/a/a2/Vo_bounty_hunter_bount_spawn_03.mp3/revision/latest?cb=20201010181329"
-      },
-      {
-        "text": "I'll take the job.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/4/4e/Vo_bounty_hunter_bount_spawn_04.mp3/revision/latest?cb=20201010181331"
       },
       {
         "text": "No job is too big, no fee is too big.",
@@ -553,24 +223,8 @@
         "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/0/0d/Vo_bounty_hunter_bount_move_06.mp3/revision/latest?cb=20201010181054"
       },
       {
-        "text": "I've come to collect.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/8/88/Vo_bounty_hunter_bount_attack_08.mp3/revision/latest?cb=20201010180555"
-      },
-      {
-        "text": "They'll tell tales of this.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/3/33/Vo_bounty_hunter_bount_level_09.mp3/revision/latest?cb=20201010181035"
-      },
-      {
-        "text": "By authority of the realm, I shall hunt them down.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/8/85/Vo_bounty_hunter_bount_respawn_04.mp3/revision/latest?cb=20201010181222"
-      },
-      {
         "text": "Time to collect my bounty!",
         "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/6/67/Vo_bounty_hunter_bount_win_03.mp3/revision/latest?cb=20201010181341"
-      },
-      {
-        "text": "Now there's nowhere left to hide.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/8/88/Vo_bounty_hunter_bount_blink_03.mp3/revision/latest?cb=20201010180620"
       },
       {
         "text": "You can run but you can't hide.",
@@ -582,22 +236,6 @@
     "name": "Brewmaster",
     "responses": [
       {
-        "text": "Brewmaster.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/8/8e/Vo_brewmaster_brew_spawn_01.mp3/revision/latest?cb=20201010183122"
-      },
-      {
-        "text": "The master arrives.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/4/47/Vo_brewmaster_brew_spawn_02.mp3/revision/latest?cb=20201010183124"
-      },
-      {
-        "text": "This one's on me.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/c/ca/Vo_brewmaster_brew_spawn_03.mp3/revision/latest?cb=20201010183126"
-      },
-      {
-        "text": "I'll drink to that.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/5/59/Vo_brewmaster_brew_spawn_04.mp3/revision/latest?cb=20201010183127"
-      },
-      {
         "text": "What kind of pub is this?",
         "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/e/e1/Vo_brewmaster_brew_spawn_05.mp3/revision/latest?cb=20201010183129"
       },
@@ -606,28 +244,12 @@
         "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/9/98/Vo_brewmaster_brew_spawn_06.mp3/revision/latest?cb=20201010183131"
       },
       {
-        "text": "There's trouble abrewing.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/f/f9/Vo_brewmaster_brew_battlebegins_01.mp3/revision/latest?cb=20201010183217"
-      },
-      {
-        "text": "It's brawlin' time.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/2/27/Vo_brewmaster_brew_ability_drunkenbrawler_02.mp3/revision/latest?cb=20201010183148"
-      },
-      {
         "text": "I fight any thing in the house.",
         "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/9/90/Vo_brewmaster_brew_ability_drunkenbrawler_04.mp3/revision/latest?cb=20201010183152"
       },
       {
         "text": "Here's beer in your eye.",
         "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/7/7d/Vo_brewmaster_brew_ability_drunkenhaze_01.mp3/revision/latest?cb=20201010183153"
-      },
-      {
-        "text": "Raise em high, friends!",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/1/17/Vo_brewmaster_brew_level_02.mp3/revision/latest?cb=20201010182628"
-      },
-      {
-        "text": "I'm coming out swinging.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/1/15/Vo_brewmaster_brew_respawn_06.mp3/revision/latest?cb=20201010182936"
       }
     ]
   },
@@ -635,40 +257,12 @@
     "name": "Bristleback",
     "responses": [
       {
-        "text": "Bristleback!",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/1/1d/Vo_bristleback_bristle_spawn_01.mp3/revision/latest?cb=20201010184353"
-      },
-      {
-        "text": "Look who's here, hahaha…",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/2/21/Vo_bristleback_bristle_spawn_02.mp3/revision/latest?cb=20201010184355"
-      },
-      {
-        "text": "Well, what have we here.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/1/16/Vo_bristleback_bristle_spawn_03.mp3/revision/latest?cb=20201010184357"
-      },
-      {
-        "text": "I cut quite a figure, don't I?",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/a/a2/Vo_bristleback_bristle_spawn_04.mp3/revision/latest?cb=20201010184359"
-      },
-      {
-        "text": "Bristleback here! Ha ha!",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/5/54/Vo_bristleback_bristle_spawn_05.mp3/revision/latest?cb=20201010184401"
-      },
-      {
         "text": "Time to mash some faces, I'd say.",
         "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/9/98/Vo_bristleback_bristle_begin_03.mp3/revision/latest?cb=20201010183517"
       },
       {
         "text": "Time for a good scrap.",
         "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/7/74/Vo_bristleback_bristle_move_11.mp3/revision/latest?cb=20201010183911"
-      },
-      {
-        "text": "Yeah, I'm getting me blood up now.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/a/a8/Vo_bristleback_bristle_attack_03.mp3/revision/latest?cb=20201010183437"
-      },
-      {
-        "text": "Come on, have at me!",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/a/aa/Vo_bristleback_bristle_bristleback_01.mp3/revision/latest?cb=20201010183531"
       },
       {
         "text": "Oh, you want some of this… eh?",
@@ -688,34 +282,6 @@
     "name": "Broodmother",
     "responses": [
       {
-        "text": "Broodmother.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/8/86/Vo_broodmother_broo_spawn_01.mp3/revision/latest?cb=20201010185124"
-      },
-      {
-        "text": "My broodcase opens.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/a/a8/Vo_broodmother_broo_spawn_02.mp3/revision/latest?cb=20201010185127"
-      },
-      {
-        "text": "The spider comes.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/f/fe/Vo_broodmother_broo_spawn_03.mp3/revision/latest?cb=20201010185129"
-      },
-      {
-        "text": "My kind are legion.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/5/56/Vo_broodmother_broo_spawn_04.mp3/revision/latest?cb=20201010185132"
-      },
-      {
-        "text": "Mother of all evil.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/8/82/Vo_broodmother_broo_spawn_05.mp3/revision/latest?cb=20201010185135"
-      },
-      {
-        "text": "The hunt starts now.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/2/25/Vo_broodmother_broo_battlebegins_01.mp3/revision/latest?cb=20201010184408"
-      },
-      {
-        "text": "My brood needs food.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/8/84/Vo_broodmother_broo_attack_10.mp3/revision/latest?cb=20201010184359"
-      },
-      {
         "text": "Mother is angry.",
         "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/4/46/Vo_broodmother_broo_attack_11.mp3/revision/latest?cb=20201010184401"
       },
@@ -730,40 +296,12 @@
       {
         "text": "Mother knows best.",
         "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/2/2f/Vo_broodmother_broo_lasthit_01.mp3/revision/latest?cb=20201010184711"
-      },
-      {
-        "text": "Feeding time.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/8/8e/Vo_broodmother_broo_ability_hunger_03.mp3/revision/latest?cb=20201010185159"
       }
     ]
   },
   {
     "name": "Centaur_Warrunner",
     "responses": [
-      {
-        "text": "Centaur.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/4/48/Vo_centaur_cent_spawn_01.mp3/revision/latest?cb=20201010190447"
-      },
-      {
-        "text": "Bradwarden.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/9/99/Vo_centaur_cent_spawn_02.mp3/revision/latest?cb=20201010190449"
-      },
-      {
-        "text": "Warchief.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/c/c0/Vo_centaur_cent_spawn_03.mp3/revision/latest?cb=20201010190451"
-      },
-      {
-        "text": "I step into a new arena.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/7/7b/Vo_centaur_cent_spawn_06.mp3/revision/latest?cb=20201010190454"
-      },
-      {
-        "text": "What proving ground is this?",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/f/fd/Vo_centaur_cent_spawn_07.mp3/revision/latest?cb=20201010190456"
-      },
-      {
-        "text": "The tournament is mine.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/1/1a/Vo_centaur_cent_battlebegins_02.mp3/revision/latest?cb=20201010185612"
-      },
       {
         "text": "My steel thirsts.",
         "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/c/c5/Vo_centaur_cent_move_04.mp3/revision/latest?cb=20201010190138"
@@ -783,10 +321,6 @@
       {
         "text": "I will stomp them to dust.",
         "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/e/e7/Vo_centaur_cent_respawn_10.mp3/revision/latest?cb=20201010190336"
-      },
-      {
-        "text": "Long shall my name be remembered.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/4/4a/Vo_centaur_cent_win_03.mp3/revision/latest?cb=20201010190511"
       }
     ]
   },
@@ -794,28 +328,8 @@
     "name": "Chaos_Knight",
     "responses": [
       {
-        "text": "A knight of chaos.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/4/40/Vo_chaos_knight_chaknight_spawn_01.mp3/revision/latest?cb=20201010191541"
-      },
-      {
-        "text": "Chaos Knight.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/1/1f/Vo_chaos_knight_chaknight_spawn_02.mp3/revision/latest?cb=20201010191543"
-      },
-      {
-        "text": "Chaos rides.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/3/3f/Vo_chaos_knight_chaknight_spawn_03.mp3/revision/latest?cb=20201010191545"
-      },
-      {
-        "text": "Chaos rides.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/8/80/Vo_chaos_knight_chaknight_spawn_04.mp3/revision/latest?cb=20201010191547"
-      },
-      {
         "text": "Knight in blackest armor.",
         "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/c/cc/Vo_chaos_knight_chaknight_spawn_05.mp3/revision/latest?cb=20201010191548"
-      },
-      {
-        "text": "We descend into chaos.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/3/38/Vo_chaos_knight_chaknight_battlebegins_01.mp3/revision/latest?cb=20201010190820"
       },
       {
         "text": "Armageddon comes.",
@@ -824,18 +338,6 @@
       {
         "text": "By shield and blade.",
         "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/3/36/Vo_chaos_knight_chaknight_move_15.mp3/revision/latest?cb=20201010191304"
-      },
-      {
-        "text": "I bequeath chaos!",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/2/27/Vo_chaos_knight_chaknight_cast_01.mp3/revision/latest?cb=20201010190835"
-      },
-      {
-        "text": "Feel the chaos.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/6/6f/Vo_chaos_knight_chaknight_levelup_06.mp3/revision/latest?cb=20201010191227"
-      },
-      {
-        "text": "Chaos reigns.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/8/80/Vo_chaos_knight_chaknight_levelup_07.mp3/revision/latest?cb=20201010191229"
       },
       {
         "text": "All that is light shall be cast in darkness.",
@@ -847,18 +349,6 @@
     "name": "Chen",
     "responses": [
       {
-        "text": "Chen!",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/b/bc/Vo_chen_chen_spawn_01.mp3/revision/latest?cb=20201010191727"
-      },
-      {
-        "text": "So begins the persecution.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/1/11/Vo_chen_chen_spawn_02.mp3/revision/latest?cb=20201010191729"
-      },
-      {
-        "text": "For Obelis, the one god.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/3/39/Vo_chen_chen_spawn_03.mp3/revision/latest?cb=20201010191732"
-      },
-      {
         "text": "The Inquisitor has arrived.",
         "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/e/e7/Vo_chen_chen_spawn_04.mp3/revision/latest?cb=20201010191735"
       },
@@ -867,32 +357,8 @@
         "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/f/f2/Vo_chen_chen_spawn_05.mp3/revision/latest?cb=20201010191738"
       },
       {
-        "text": "Leap of faith.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/c/c2/Vo_chen_chen_move_04.mp3/revision/latest?cb=20201010192341"
-      },
-      {
-        "text": "Obelis guide me.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/4/42/Vo_chen_chen_move_05.mp3/revision/latest?cb=20201010192343"
-      },
-      {
-        "text": "Obelis infuses me.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/8/85/Vo_chen_chen_level_05.mp3/revision/latest?cb=20201010192327"
-      },
-      {
-        "text": "A fulfillment of the prophecy.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/2/24/Vo_chen_chen_respawn_06.mp3/revision/latest?cb=20201010192511"
-      },
-      {
-        "text": "Test your faith.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/1/14/Vo_chen_chen_attack_03.mp3/revision/latest?cb=20201010191910"
-      },
-      {
         "text": "Say your prayers.",
         "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/9/9d/Vo_chen_chen_cast_01.mp3/revision/latest?cb=20201010191952"
-      },
-      {
-        "text": "The recusant shall pay!",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/0/05/Vo_chen_chen_cast_02.mp3/revision/latest?cb=20201010191954"
       },
       {
         "text": "Your judgment comes.",
@@ -904,66 +370,18 @@
     "name": "Clinkz",
     "responses": [
       {
-        "text": "Clinkz.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/9/91/Vo_clinkz_clinkz_spawn_01.mp3/revision/latest?cb=20201010194212"
-      },
-      {
-        "text": "I am Clinkz.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/7/79/Vo_clinkz_clinkz_spawn_02.mp3/revision/latest?cb=20201010194213"
-      },
-      {
-        "text": "Flesh is but a garment.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/6/64/Vo_clinkz_clinkz_spawn_03.mp3/revision/latest?cb=20201010194216"
-      },
-      {
         "text": "Where goes my eye, goes my arrow.",
         "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/7/77/Vo_clinkz_clinkz_spawn_04.mp3/revision/latest?cb=20201010194218"
       },
       {
-        "text": "Clink goes my bones.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/4/4a/Vo_clinkz_clinkz_move_11.mp3/revision/latest?cb=20201010194002"
-      },
-      {
-        "text": "The fire of war is set.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/4/46/Vo_clinkz_clinkz_battlebegins_01.mp3/revision/latest?cb=20201010193556"
-      },
-      {
-        "text": "An arrow lights my way.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/7/7b/Vo_clinkz_clinkz_attack_09.mp3/revision/latest?cb=20201010193541"
-      },
-      {
-        "text": "My arrow shall find its target.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/e/e6/Vo_clinkz_clinkz_cast_02.mp3/revision/latest?cb=20201010193610"
-      },
-      {
-        "text": "Death comes for you.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/6/6e/Vo_clinkz_clinkz_cast_03.mp3/revision/latest?cb=20201010193611"
-      },
-      {
-        "text": "They will burn.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/8/81/Vo_clinkz_clinkz_level_06.mp3/revision/latest?cb=20201010193929"
-      },
-      {
         "text": "A light to guide my way. A light to burn my foes.",
         "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/6/6c/Vo_clinkz_clinkz_level_07.mp3/revision/latest?cb=20201010193931"
-      },
-      {
-        "text": "Notched and ready.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/e/e4/Vo_clinkz_clinkz_attack_14.mp3/revision/latest?cb=20201010193550"
       }
     ]
   },
   {
     "name": "Clockwerk",
     "responses": [
-      {
-        "text": "Rattletrap!",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/e/eb/Vo_rattletrap_ratt_spawn_01.mp3/revision/latest?cb=20201018151906"
-      },
-      {
-        "text": "Some assembly required.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/6/6d/Vo_rattletrap_ratt_spawn_02.mp3/revision/latest?cb=20201018151908"
-      },
       {
         "text": "I've a mind like a steel trap, and the physique to go with it!",
         "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/2/20/Vo_rattletrap_ratt_spawn_03.mp3/revision/latest?cb=20201018151909"
@@ -973,32 +391,12 @@
         "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/2/24/Vo_rattletrap_ratt_spawn_04.mp3/revision/latest?cb=20201018151911"
       },
       {
-        "text": "Clockwerk!",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/e/e7/Vo_rattletrap_ratt_spawn_05.mp3/revision/latest?cb=20201018151913"
-      },
-      {
-        "text": "I run like a clock!",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/6/6f/Vo_rattletrap_ratt_move_14.mp3/revision/latest?cb=20201018151702"
-      },
-      {
-        "text": "My gears turn!",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/f/f8/Vo_rattletrap_ratt_move_15.mp3/revision/latest?cb=20201018151704"
-      },
-      {
-        "text": "Rattle and roll!",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/0/00/Vo_rattletrap_ratt_move_18.mp3/revision/latest?cb=20201018151709"
-      },
-      {
         "text": "I'm well oiled.",
         "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/8/81/Vo_rattletrap_ratt_move_25.mp3/revision/latest?cb=20201018151721"
       },
       {
         "text": "This'll gum your gears!",
         "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/1/15/Vo_rattletrap_ratt_attack_06.mp3/revision/latest?cb=20201018151217"
-      },
-      {
-        "text": "Prepare for repairs!",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/5/50/Vo_rattletrap_ratt_attack_08.mp3/revision/latest?cb=20201018151222"
       },
       {
         "text": "The gears are in motion!",
@@ -1010,32 +408,12 @@
     "name": "Crystal_Maiden",
     "responses": [
       {
-        "text": "Crystal Maiden!",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/b/b2/Vo_crystalmaiden_cm_spawn_01.mp3/revision/latest?cb=20201010195845"
-      },
-      {
-        "text": "Who calls the Crystal Maiden?",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/6/6e/Vo_crystalmaiden_cm_spawn_02.mp3/revision/latest?cb=20201010195847"
-      },
-      {
         "text": "Ice is nice!",
         "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/b/b4/Vo_crystalmaiden_cm_spawn_04.mp3/revision/latest?cb=20201010195851"
       },
       {
-        "text": "Feel the chill!",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/a/ac/Vo_crystalmaiden_cm_spawn_05.mp3/revision/latest?cb=20201010195852"
-      },
-      {
         "text": "Behold the scourge of Icewrack!",
         "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/a/ab/Vo_crystalmaiden_cm_spawn_06.mp3/revision/latest?cb=20201010195854"
-      },
-      {
-        "text": "Let it begin!",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/7/77/Vo_crystalmaiden_cm_spawn_07.mp3/revision/latest?cb=20201010195856"
-      },
-      {
-        "text": "The battle begins!",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/b/b2/Vo_crystalmaiden_cm_spawn_08.mp3/revision/latest?cb=20201010195857"
       },
       {
         "text": "It's all fun and games until someone's frozen solid.",
@@ -1051,22 +429,6 @@
     "name": "Dark_Seer",
     "responses": [
       {
-        "text": "Dark seer.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/0/0a/Vo_dark_seer_dkseer_spawn_01.mp3/revision/latest?cb=20201010200747"
-      },
-      {
-        "text": "The darkling seer.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/0/00/Vo_dark_seer_dkseer_spawn_02.mp3/revision/latest?cb=20201010200748"
-      },
-      {
-        "text": "An enemy destroyed cannot rise against you.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/c/cb/Vo_dark_seer_dkseer_spawn_03.mp3/revision/latest?cb=20201010200751"
-      },
-      {
-        "text": "The seer is here.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/6/69/Vo_dark_seer_dkseer_spawn_04.mp3/revision/latest?cb=20201010200754"
-      },
-      {
         "text": "From the land behind the wall, I come.",
         "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/2/28/Vo_dark_seer_dkseer_spawn_05.mp3/revision/latest?cb=20201010200757"
       },
@@ -1079,42 +441,14 @@
         "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/6/67/Vo_dark_seer_dkseer_move_12.mp3/revision/latest?cb=20201010200552"
       },
       {
-        "text": "Damathryx guides me.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/8/8a/Vo_dark_seer_dkseer_move_13.mp3/revision/latest?cb=20201010200554"
-      },
-      {
         "text": "Master of the dark arts.",
         "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/4/4a/Vo_dark_seer_dkseer_attack_05.mp3/revision/latest?cb=20201010200057"
-      },
-      {
-        "text": "Your fate arrives.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/0/02/Vo_dark_seer_dkseer_attack_06.mp3/revision/latest?cb=20201010200100"
-      },
-      {
-        "text": "Your end is coming.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/9/97/Vo_dark_seer_dkseer_cast_03.mp3/revision/latest?cb=20201010200151"
-      },
-      {
-        "text": "Magic abounds.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/e/e0/Vo_dark_seer_dkseer_level_01.mp3/revision/latest?cb=20201010200510"
       }
     ]
   },
   {
     "name": "Dark_Willow",
     "responses": [
-      {
-        "text": "Let's have some fun, shall we...",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/6/6b/Vo_dark_willow_sylph_spawn_06.mp3/revision/latest?cb=20201010205013"
-      },
-      {
-        "text": "u Mireska is here.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/c/c4/Vo_dark_willow_sylph_hero_intro_01.mp3/revision/latest?cb=20201010203043"
-      },
-      {
-        "text": "u Are you ready to have some fun, ya?",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/b/b0/Vo_dark_willow_sylph_hero_intro_02.mp3/revision/latest?cb=20201010203044"
-      },
       {
         "text": "u Whaddya say Jex, you ready to play?",
         "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/e/e5/Vo_dark_willow_sylph_hero_intro_03.mp3/revision/latest?cb=20201010203046"
@@ -1146,30 +480,6 @@
     "name": "Dazzle",
     "responses": [
       {
-        "text": "Dazzle!",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/f/f8/Vo_dazzle_dazz_spawn_01.mp3/revision/latest?cb=20201010210229"
-      },
-      {
-        "text": "Shadow Priest!",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/d/d7/Vo_dazzle_dazz_spawn_02.mp3/revision/latest?cb=20201010210232"
-      },
-      {
-        "text": "I cast a long shadow.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/2/21/Vo_dazzle_dazz_spawn_03.mp3/revision/latest?cb=20201010210235"
-      },
-      {
-        "text": "The enemy pales when they see the face of Dazzle!",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/e/ec/Vo_dazzle_dazz_spawn_04.mp3/revision/latest?cb=20201010210238"
-      },
-      {
-        "text": "Take a care when my shadow falls upon the foe.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/4/44/Vo_dazzle_dazz_spawn_05.mp3/revision/latest?cb=20201010210240"
-      },
-      {
-        "text": "I cast a long shadow.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/8/8b/Vo_dazzle_dazz_level_05.mp3/revision/latest?cb=20201010205911"
-      },
-      {
         "text": "From shadow to shallow.",
         "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/4/4c/Vo_dazzle_dazz_move_09.mp3/revision/latest?cb=20201010205946"
       },
@@ -1178,20 +488,12 @@
         "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/c/c6/Vo_dazzle_dazz_kill_04.mp3/revision/latest?cb=20201010205750"
       },
       {
-        "text": "Up to my old tricks again.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/4/43/Vo_dazzle_dazz_respawn_04.mp3/revision/latest?cb=20201010210154"
-      },
-      {
         "text": "Who needs healing?",
         "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/f/f3/Vo_dazzle_dazz_move_17.mp3/revision/latest?cb=20201010210007"
       },
       {
         "text": "My shadow shall darken all creation.",
         "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/f/fe/Vo_dazzle_dazz_win_03.mp3/revision/latest?cb=20201010210256"
-      },
-      {
-        "text": "Dazzle!",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/a/aa/Vo_dazzle_dazz_ability_sfx_14.mp3/revision/latest?cb=20201010205329"
       }
     ]
   },
@@ -1199,32 +501,12 @@
     "name": "Death_Prophet",
     "responses": [
       {
-        "text": "Death Prophet.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/e/ed/Vo_death_prophet_dpro_spawn_01.mp3/revision/latest?cb=20201010212132"
-      },
-      {
         "text": "What I've seen goes far beyond death.",
         "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/b/bd/Vo_death_prophet_dpro_spawn_02.mp3/revision/latest?cb=20201010212134"
       },
       {
         "text": "Who dares recall me from the grave?",
         "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/d/de/Vo_death_prophet_dpro_spawn_03.mp3/revision/latest?cb=20201010212136"
-      },
-      {
-        "text": "I have been here many times in my dreams.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/9/97/Vo_death_prophet_dpro_spawn_04.mp3/revision/latest?cb=20201010212138"
-      },
-      {
-        "text": "You brought me back?",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/d/df/Vo_death_prophet_dpro_spawn_05.mp3/revision/latest?cb=20201010212139"
-      },
-      {
-        "text": "You'll be the death of me.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/5/59/Vo_death_prophet_dpro_spawn_06.mp3/revision/latest?cb=20201010212141"
-      },
-      {
-        "text": "Death calls your name.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/d/d9/Vo_death_prophet_dpro_cast_03.mp3/revision/latest?cb=20201010211006"
       },
       {
         "text": "The doors of death open wide.",
@@ -1235,16 +517,8 @@
         "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/f/f9/Vo_death_prophet_dpro_levelup_04.mp3/revision/latest?cb=20201010211554"
       },
       {
-        "text": "Death calls and my enemies come!",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/f/fb/Vo_death_prophet_dpro_levelup_05.mp3/revision/latest?cb=20201010211556"
-      },
-      {
         "text": "I see a dark future for us all!",
         "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/2/25/Vo_death_prophet_dpro_levelup_06.mp3/revision/latest?cb=20201010211559"
-      },
-      {
-        "text": "Let me tell your fate.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/4/40/Vo_death_prophet_dpro_attack_06.mp3/revision/latest?cb=20201010210940"
       }
     ]
   },
@@ -1252,52 +526,20 @@
     "name": "Disruptor",
     "responses": [
       {
-        "text": "Disruptor.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/2/20/Vo_disruptor_dis_spawn_01.mp3/revision/latest?cb=20201010213710"
-      },
-      {
-        "text": "The Stormcrafter comes!",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/6/64/Vo_disruptor_dis_spawn_02.mp3/revision/latest?cb=20201010213713"
-      },
-      {
         "text": "The days of fair weather are over.",
         "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/1/19/Vo_disruptor_dis_spawn_03.mp3/revision/latest?cb=20201010213716"
-      },
-      {
-        "text": "War is an equation, death the solution.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/a/a5/Vo_disruptor_dis_spawn_04.mp3/revision/latest?cb=20201010213719"
       },
       {
         "text": "The war storm is upon us.",
         "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/c/c5/Vo_disruptor_dis_begin_01.mp3/revision/latest?cb=20201010212650"
       },
       {
-        "text": "From Upland Druud, I ride.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/1/14/Vo_disruptor_dis_move_10.mp3/revision/latest?cb=20201010213337"
-      },
-      {
-        "text": "I'll ride you down.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/0/01/Vo_disruptor_dis_cast_01.mp3/revision/latest?cb=20201010212708"
-      },
-      {
         "text": "Thunder approaches.",
         "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/6/69/Vo_disruptor_dis_cast_03.mp3/revision/latest?cb=20201010212713"
       },
       {
-        "text": "Such storms I'll shape.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/c/c0/Vo_disruptor_dis_levelup_03.mp3/revision/latest?cb=20201010213237"
-      },
-      {
-        "text": "My enemy crumbles!",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/b/b1/Vo_disruptor_dis_win_03.mp3/revision/latest?cb=20201010213821"
-      },
-      {
         "text": "By stormcraft, I shall lay my enemies low.",
         "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/c/cd/Vo_disruptor_dis_rare_01.mp3/revision/latest?cb=20201010213507"
-      },
-      {
-        "text": "I'm well-practiced in my craft.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/5/59/Vo_disruptor_dis_levelup_05.mp3/revision/latest?cb=20201010213243"
       }
     ]
   },
@@ -1305,32 +547,8 @@
     "name": "Doom",
     "responses": [
       {
-        "text": "Doom.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/1/11/Vo_doom_bringer_doom_spawn_01.mp3/revision/latest?cb=20201010214907"
-      },
-      {
         "text": "The Seven Hells' hunger.",
         "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/c/c4/Vo_doom_bringer_doom_spawn_03.mp3/revision/latest?cb=20201010214909"
-      },
-      {
-        "text": "Damnation rises!",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/1/17/Vo_doom_bringer_doom_spawn_04.mp3/revision/latest?cb=20201010214912"
-      },
-      {
-        "text": "Face your demons.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/7/78/Vo_doom_bringer_doom_battlebegins_01.mp3/revision/latest?cb=20201010214145"
-      },
-      {
-        "text": "The fire starts now.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/c/cf/Vo_doom_bringer_doom_battlebegins_02.mp3/revision/latest?cb=20201010214147"
-      },
-      {
-        "text": "Ahhh, my flame burns brighter",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/3/30/Vo_doom_bringer_doom_level_01.mp3/revision/latest?cb=20201010214512"
-      },
-      {
-        "text": "Ah, my sword flares!",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/f/f1/Vo_doom_bringer_doom_level_02.mp3/revision/latest?cb=20201010214515"
       },
       {
         "text": "The Inferno blazes.",
@@ -1347,10 +565,6 @@
       {
         "text": "Time to paint the battlefield red.",
         "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/2/2f/Vo_doom_bringer_doom_respawn_10.mp3/revision/latest?cb=20201010214818"
-      },
-      {
-        "text": "I am the midnight of your soul.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/f/f1/Vo_doom_bringer_doom_move_11.mp3/revision/latest?cb=20201010214610"
       }
     ]
   },
@@ -1358,48 +572,12 @@
     "name": "Dragon_Knight",
     "responses": [
       {
-        "text": "Dragon Knight.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/e/ec/Vo_dragon_knight_drag_spawn_01.mp3/revision/latest?cb=20210625204109"
-      },
-      {
-        "text": "The dragon comes for war.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/9/96/Vo_dragon_knight_drag_spawn_02.mp3/revision/latest?cb=20210625204106"
-      },
-      {
-        "text": "I unsheathe the Wyrmblade.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/b/b9/Vo_dragon_knight_drag_spawn_03.mp3/revision/latest?cb=20210625204104"
-      },
-      {
-        "text": "A Knight in dragon's armor.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/e/ec/Vo_dragon_knight_drag_spawn_04.mp3/revision/latest?cb=20210625204102"
-      },
-      {
-        "text": "On your guard.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/6/6c/Vo_dragon_knight_drag_battlebegins_01.mp3/revision/latest?cb=20210625204713"
-      },
-      {
-        "text": "Compelled to battle.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/9/9c/Vo_dragon_knight_drag_move_04.mp3/revision/latest?cb=20210625204320"
-      },
-      {
         "text": "The dragon wakes.",
         "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/d/d5/Vo_dragon_knight_drag_move_09.mp3/revision/latest?cb=20210625204309"
       },
       {
-        "text": "Who calls the dragon knight?",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/b/bf/Vo_dragon_knight_drag_move_10.mp3/revision/latest?cb=20210625204307"
-      },
-      {
         "text": "Dragon to the fray.",
         "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/1/1b/Vo_dragon_knight_drag_move_11.mp3/revision/latest?cb=20210625204304"
-      },
-      {
-        "text": "By the honor of the ancients.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/0/08/Vo_dragon_knight_drag_attack_02.mp3/revision/latest?cb=20210625204735"
-      },
-      {
-        "text": "Our shields shall clash.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/2/28/Vo_dragon_knight_drag_attack_06.mp3/revision/latest?cb=20210625204725"
       },
       {
         "text": "In strength is victory.",
@@ -1411,18 +589,6 @@
     "name": "Drow_Ranger",
     "responses": [
       {
-        "text": "Traxex!",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/9/94/Vo_drowranger_dro_spawn_01.mp3/revision/latest?cb=20211226111220"
-      },
-      {
-        "text": "Traxex here.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/f/f6/Vo_drowranger_dro_spawn_02.mp3/revision/latest?cb=20211226111222"
-      },
-      {
-        "text": "Drow Ranger!",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/9/9c/Vo_drowranger_dro_spawn_03.mp3/revision/latest?cb=20211226111223"
-      },
-      {
         "text": "My quiver and bow are ready!",
         "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/d/da/Vo_drowranger_dro_spawn_04.mp3/revision/latest?cb=20211226111225"
       },
@@ -1431,46 +597,14 @@
         "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/9/90/Vo_drowranger_dro_spawn_05.mp3/revision/latest?cb=20211226111227"
       },
       {
-        "text": "Beware the bite of frost.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/3/3a/Vo_drowranger_dro_spawn_06.mp3/revision/latest?cb=20211226111228"
-      },
-      {
-        "text": "Let the battle begin!",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/1/17/Vo_drowranger_dro_spawn_07.mp3/revision/latest?cb=20211226111230"
-      },
-      {
-        "text": "I go in silence.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/b/bf/Vo_drowranger_dro_move_02.mp3/revision/latest?cb=20211226111119"
-      },
-      {
-        "text": "My bow is drawn!",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/d/d7/Vo_drowranger_dro_move_03.mp3/revision/latest?cb=20211226111121"
-      },
-      {
         "text": "Arrow, find your target!",
         "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/4/40/Vo_drowranger_dro_attack_03.mp3/revision/latest?cb=20211226110929"
-      },
-      {
-        "text": "Death comes silently.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/5/52/Vo_drowranger_dro_attack_04.mp3/revision/latest?cb=20211226110930"
-      },
-      {
-        "text": "Pride of the Drow!",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/6/6c/Vo_drowranger_drow_levelup_03.mp3/revision/latest?cb=20211226113019"
       }
     ]
   },
   {
     "name": "Earth_Spirit",
     "responses": [
-      {
-        "text": "Kaolin!",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/9/9d/Vo_earth_spirit_earthspi_spawn_01.mp3/revision/latest?cb=20201011105843"
-      },
-      {
-        "text": "Earth Spirit!",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/a/ac/Vo_earth_spirit_earthspi_spawn_02.mp3/revision/latest?cb=20201011105844"
-      },
       {
         "text": "The terrestrial sphere imbues my spirit.",
         "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/f/ff/Vo_earth_spirit_earthspi_spawn_03.mp3/revision/latest?cb=20201011105846"
@@ -1482,64 +616,12 @@
       {
         "text": "That which is arises from that which is not.",
         "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/1/11/Vo_earth_spirit_earthspi_spawn_05.mp3/revision/latest?cb=20201011105850"
-      },
-      {
-        "text": "And so my legend begins.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/4/49/Vo_earth_spirit_earthspi_spawn_06.mp3/revision/latest?cb=20201011105852"
-      },
-      {
-        "text": "Kaolin!",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/8/89/Vo_earth_spirit_earthspi_spawn_07.mp3/revision/latest?cb=20201011105854"
-      },
-      {
-        "text": "This beginning marks their end.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/b/b5/Vo_earth_spirit_earthspi_battlebegins_02.mp3/revision/latest?cb=20201011104859"
-      },
-      {
-        "text": "I am shaped to a higher order.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/d/d6/Vo_earth_spirit_earthspi_levelup_05.mp3/revision/latest?cb=20201011105345"
-      },
-      {
-        "text": "Body is flesh, but spirit immortal.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/2/22/Vo_earth_spirit_earthspi_respawn_10.mp3/revision/latest?cb=20201011105637"
-      },
-      {
-        "text": "Through conflict, one's nature is revealed.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/9/97/Vo_earth_spirit_earthspi_battlebegins_01.mp3/revision/latest?cb=20201011104857"
-      },
-      {
-        "text": "All paths are one.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/4/4c/Vo_earth_spirit_earthspi_move_11.mp3/revision/latest?cb=20201011105432"
       }
     ]
   },
   {
     "name": "Earthshaker",
     "responses": [
-      {
-        "text": "Earthshaker!",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/7/72/Vo_earthshaker_erth_spawn_01.mp3/revision/latest?cb=20201011122006"
-      },
-      {
-        "text": "Earthshaker here!",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/4/48/Vo_earthshaker_erth_spawn_02.mp3/revision/latest?cb=20201011122007"
-      },
-      {
-        "text": "Feel the earth shake!",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/a/ae/Vo_earthshaker_erth_spawn_03.mp3/revision/latest?cb=20201011122009"
-      },
-      {
-        "text": "Quiver and quake!",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/7/7f/Vo_earthshaker_erth_spawn_04.mp3/revision/latest?cb=20201011122011"
-      },
-      {
-        "text": "Shake it!",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/3/3a/Vo_earthshaker_erth_spawn_05.mp3/revision/latest?cb=20201011122013"
-      },
-      {
-        "text": "Grounded!",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/b/b9/Vo_earthshaker_erth_spawn_06.mp3/revision/latest?cb=20201011122014"
-      },
       {
         "text": "Time to shake things up and see where they settle.",
         "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/5/51/Vo_earthshaker_erth_battlebegins_01.mp3/revision/latest?cb=20201011121438"
@@ -1551,18 +633,6 @@
       {
         "text": "The earth moves under my feet!",
         "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/9/9b/Vo_earthshaker_erth_move_09.mp3/revision/latest?cb=20201011121755"
-      },
-      {
-        "text": "Shake it and take it!",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/2/2c/Vo_earthshaker_erth_attack_03.mp3/revision/latest?cb=20201011121428"
-      },
-      {
-        "text": "Feel the Earth move!",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/3/34/Vo_earthshaker_erth_attack_07.mp3/revision/latest?cb=20201011121435"
-      },
-      {
-        "text": "I'm gonna pound you!",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/c/c1/Vo_earthshaker_erth_attack_08.mp3/revision/latest?cb=20201011121437"
       }
     ]
   },
@@ -1570,32 +640,12 @@
     "name": "Elder_Titan",
     "responses": [
       {
-        "text": "Elder Titan!",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/9/94/Vo_elder_titan_elder_spawn_01.mp3/revision/latest?cb=20201011124734"
-      },
-      {
         "text": "It is only right that I am cast into this world, for I had a hand in breaking it.",
         "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/8/88/Vo_elder_titan_elder_spawn_02.mp3/revision/latest?cb=20201011124736"
       },
       {
-        "text": "The Great Symmetry lies shattered.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/d/d1/Vo_elder_titan_elder_spawn_03.mp3/revision/latest?cb=20201011124739"
-      },
-      {
-        "text": "I step at last onto the terrene plane.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/5/56/Vo_elder_titan_elder_spawn_04.mp3/revision/latest?cb=20201011124740"
-      },
-      {
         "text": "I was the hammer at the Founding.",
         "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/4/42/Vo_elder_titan_elder_spawn_05.mp3/revision/latest?cb=20201011124742"
-      },
-      {
-        "text": "The Worldsmith wakes!",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/0/09/Vo_elder_titan_elder_spawn_06.mp3/revision/latest?cb=20201011124744"
-      },
-      {
-        "text": "From perfect unity, I come.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/0/08/Vo_elder_titan_elder_spawn_07.mp3/revision/latest?cb=20201011124746"
       },
       {
         "text": "On this alone of seven planes the final war is fought.",
@@ -1606,38 +656,14 @@
         "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/d/d7/Vo_elder_titan_elder_battlebegins_02.mp3/revision/latest?cb=20201011123803"
       },
       {
-        "text": "The battle is joined, like the pieces of a broken world.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/6/6b/Vo_elder_titan_elder_battlebegins_03.mp3/revision/latest?cb=20201011123805"
-      },
-      {
         "text": "New strength to shoulder the burden of a broken world.",
         "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/c/c1/Vo_elder_titan_elder_levelup_01.mp3/revision/latest?cb=20201011124405"
-      },
-      {
-        "text": "Strong as a world new-formed.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/8/87/Vo_elder_titan_elder_levelup_12.mp3/revision/latest?cb=20201011124435"
       }
     ]
   },
   {
     "name": "Ember_Spirit",
     "responses": [
-      {
-        "text": "Ember Spirit!",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/c/c1/Vo_ember_spirit_embr_spawn_01.mp3/revision/latest?cb=20201011130226"
-      },
-      {
-        "text": "I am Ember Spirit.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/e/e1/Vo_ember_spirit_embr_spawn_02.mp3/revision/latest?cb=20201011130228"
-      },
-      {
-        "text": "Call me Ember Spirit.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/1/1d/Vo_ember_spirit_embr_spawn_03.mp3/revision/latest?cb=20201011130230"
-      },
-      {
-        "text": "Some call me Xin.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/6/63/Vo_ember_spirit_embr_spawn_04.mp3/revision/latest?cb=20201011130231"
-      },
       {
         "text": "Guardian of the Flame.",
         "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/d/d5/Vo_ember_spirit_embr_spawn_05.mp3/revision/latest?cb=20201011130233"
@@ -1659,14 +685,6 @@
         "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/2/25/Vo_ember_spirit_embr_begin_02.mp3/revision/latest?cb=20201011125141"
       },
       {
-        "text": "From knowledge comes skill.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/7/71/Vo_ember_spirit_embr_levelup_02.mp3/revision/latest?cb=20201011125729"
-      },
-      {
-        "text": "Destiny awaits us all.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/d/dc/Vo_ember_spirit_embr_move_01.mp3/revision/latest?cb=20201011125807"
-      },
-      {
         "text": "A journey without end.",
         "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/3/34/Vo_ember_spirit_embr_move_13.mp3/revision/latest?cb=20201011125827"
       }
@@ -1676,18 +694,6 @@
     "name": "Enchantress",
     "responses": [
       {
-        "text": "Enchantress!",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/e/e2/Vo_enchantress_ench_spawn_01.mp3/revision/latest?cb=20201011131400"
-      },
-      {
-        "text": "Light of foot, light of heart!",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/6/6e/Vo_enchantress_ench_spawn_02.mp3/revision/latest?cb=20201011131403"
-      },
-      {
-        "text": "Enchanted, I'm sure!",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/8/83/Vo_enchantress_ench_spawn_03.mp3/revision/latest?cb=20201011131406"
-      },
-      {
         "text": "Shady lanes and sunny glades await!",
         "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/c/cb/Vo_enchantress_ench_spawn_04.mp3/revision/latest?cb=20201011131408"
       },
@@ -1696,32 +702,8 @@
         "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/5/55/Vo_enchantress_ench_spawn_05.mp3/revision/latest?cb=20201011131411"
       },
       {
-        "text": "Enchanting.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/1/10/Vo_enchantress_ench_move_08.mp3/revision/latest?cb=20201011131105"
-      },
-      {
-        "text": "Here I come!",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/c/c9/Vo_enchantress_ench_move_10.mp3/revision/latest?cb=20201011131110"
-      },
-      {
-        "text": "There they are!",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/0/0c/Vo_enchantress_ench_attack_10.mp3/revision/latest?cb=20201011130618"
-      },
-      {
-        "text": "I'll trample you.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/6/66/Vo_enchantress_ench_attack_11.mp3/revision/latest?cb=20201011130621"
-      },
-      {
         "text": "This fawn's afternoon is looking up!",
         "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/8/8a/Vo_enchantress_ench_respawn_02.mp3/revision/latest?cb=20201011131325"
-      },
-      {
-        "text": "Charmed, I'm sure!",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/b/b9/Vo_enchantress_ench_ability_enchant_02.mp3/revision/latest?cb=20201011131435"
-      },
-      {
-        "text": "How enchanting.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/1/1a/Vo_enchantress_ench_ability_enchant_03.mp3/revision/latest?cb=20201011131437"
       }
     ]
   },
@@ -1729,24 +711,8 @@
     "name": "Enigma",
     "responses": [
       {
-        "text": "Enigma.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/9/9d/Vo_enigma_enig_spawn_01.mp3/revision/latest?cb=20201011133019"
-      },
-      {
-        "text": "I am the Enigma.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/e/ef/Vo_enigma_enig_spawn_02.mp3/revision/latest?cb=20201011133021"
-      },
-      {
-        "text": "My current incarnation.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/d/da/Vo_enigma_enig_spawn_03.mp3/revision/latest?cb=20201011133023"
-      },
-      {
         "text": "My form collapses into being.",
         "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/5/5c/Vo_enigma_enig_spawn_04.mp3/revision/latest?cb=20201011133025"
-      },
-      {
-        "text": "My pattern emerges.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/3/3e/Vo_enigma_enig_spawn_05.mp3/revision/latest?cb=20201011133027"
       },
       {
         "text": "I take form, consumer of worlds.",
@@ -1761,16 +727,8 @@
         "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/c/cb/Vo_enigma_enig_spawn_08.mp3/revision/latest?cb=20201011133032"
       },
       {
-        "text": "I am.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/2/26/Vo_enigma_enig_spawn_09.mp3/revision/latest?cb=20201011133033"
-      },
-      {
         "text": "Reality is illusion.",
         "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/e/ec/Vo_enigma_enig_move_13.mp3/revision/latest?cb=20201011132810"
-      },
-      {
-        "text": "I stare also into you.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/1/11/Vo_enigma_enig_attack_08.mp3/revision/latest?cb=20201011132440"
       },
       {
         "text": "I am a universal constant.",
@@ -1782,40 +740,8 @@
     "name": "Faceless_Void",
     "responses": [
       {
-        "text": "Faceless Void.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/f/f8/Vo_faceless_void_face_spawn_01.mp3/revision/latest?cb=20201011143816"
-      },
-      {
-        "text": "I have seen how this war ends.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/e/ed/Vo_faceless_void_face_spawn_02.mp3/revision/latest?cb=20201011143818"
-      },
-      {
-        "text": "I am the elder one.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/e/e8/Vo_faceless_void_face_spawn_03.mp3/revision/latest?cb=20201011143820"
-      },
-      {
         "text": "From a place beyond time, and time beyond counting.",
         "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/0/04/Vo_faceless_void_face_spawn_04.mp3/revision/latest?cb=20201011143821"
-      },
-      {
-        "text": "Your fate approaches.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/c/c2/Vo_faceless_void_face_cast_02.mp3/revision/latest?cb=20201011143338"
-      },
-      {
-        "text": "Feel my mace!",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/5/58/Vo_faceless_void_face_attack_03.mp3/revision/latest?cb=20201011143309"
-      },
-      {
-        "text": "Face your doom.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/4/4e/Vo_faceless_void_face_attack_04.mp3/revision/latest?cb=20201011143310"
-      },
-      {
-        "text": "Time is the cruelest cut.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/e/e1/Vo_faceless_void_face_attack_08.mp3/revision/latest?cb=20201011143317"
-      },
-      {
-        "text": "Your end comes.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/d/d9/Vo_faceless_void_face_attack_09.mp3/revision/latest?cb=20201011143319"
       },
       {
         "text": "Time tells, the mace fells.",
@@ -1824,10 +750,6 @@
       {
         "text": "I have seen the end of time.",
         "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/7/7e/Vo_faceless_void_face_respawn_03.mp3/revision/latest?cb=20201011143755"
-      },
-      {
-        "text": "Foreseen is forearmed.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/6/64/Vo_faceless_void_face_move_12.mp3/revision/latest?cb=20201011143640"
       }
     ]
   },
@@ -1837,6 +759,14 @@
       {
         "text": "I'll paint this world as I see fit.",
         "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/2/21/Vo_grimstroke_grimstroke_spawn_11.mp3/revision/latest?cb=20201011153132"
+      },
+      {
+        "text": " The battlefield is merely a canvas, waiting for my brush.",
+        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/9/99/Vo_grimstroke_grimstroke_spawn_13.mp3/revision/latest?cb=20201011153135"
+      },
+      {
+        "text": " The strokes of my brush mark your fate.",
+        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/b/b2/Vo_grimstroke_grimstroke_spawn_08.mp3/revision/latest?cb=20201011153127"
       }
     ]
   },
@@ -1844,24 +774,8 @@
     "name": "Gyrocopter",
     "responses": [
       {
-        "text": "Gyrocopter!",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/0/03/Vo_gyrocopter_gyro_spawn_01.mp3/revision/latest?cb=20201011160437"
-      },
-      {
-        "text": "Let's go for a spin!",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/2/2b/Vo_gyrocopter_gyro_spawn_02.mp3/revision/latest?cb=20201011160439"
-      },
-      {
         "text": "Got 'er oiled up and loaded!",
         "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/2/24/Vo_gyrocopter_gyro_spawn_03.mp3/revision/latest?cb=20201011160440"
-      },
-      {
-        "text": "I'll start the checklist.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/f/fc/Vo_gyrocopter_gyro_spawn_04.mp3/revision/latest?cb=20201011160442"
-      },
-      {
-        "text": "Spin 'em up!",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/d/da/Vo_gyrocopter_gyro_spawn_05.mp3/revision/latest?cb=20201011160444"
       },
       {
         "text": "Get yer rotors running!",
@@ -1872,30 +786,26 @@
         "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/0/07/Vo_gyrocopter_gyro_move_08.mp3/revision/latest?cb=20201011160145"
       },
       {
-        "text": "C'mon you whippersnapper!",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/b/b8/Vo_gyrocopter_gyro_attack_04.mp3/revision/latest?cb=20201011155510"
-      },
-      {
         "text": "Expect some turbulence.",
         "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/f/f1/Vo_gyrocopter_gyro_attack_06.mp3/revision/latest?cb=20201011155514"
-      },
-      {
-        "text": "Locked and loaded!",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/f/fe/Vo_gyrocopter_gyro_attack_14.mp3/revision/latest?cb=20201011155529"
-      },
-      {
-        "text": "Gonna break your beak!",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/6/65/Vo_gyrocopter_gyro_cast_01.mp3/revision/latest?cb=20201011155621"
-      },
-      {
-        "text": "Flying the friendly skies.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/4/4d/Vo_gyrocopter_gyro_level_03.mp3/revision/latest?cb=20201011160104"
       }
     ]
   },
   {
     "name": "Hoodwink",
     "responses": [
+      {
+        "text": " Let's not get squirrely now, it'd be a shame to have to kill you.",
+        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/6/6e/Vo_hoodwink_hoodwink_intro_10_02.mp3/revision/latest?cb=20201220005227"
+      },
+      {
+        "text": " You ever hear the one about the tortoise and the hare and the squirrel that shot 'em both?",
+        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/9/92/Vo_hoodwink_hoodwink_spawn_24.mp3/revision/latest?cb=20201220011623"
+      },
+      {
+        "text": " The wood teaches one rule: step fast or you're snack meat.",
+        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/5/54/Vo_hoodwink_hoodwink_spawn_07.mp3/revision/latest?cb=20201220011534"
+      },
       {
         "text": "Who said you could stroll in my woods?",
         "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/8/82/Vo_hoodwink_hoodwink_intro_16_03.mp3/revision/latest?cb=20201220005237"
@@ -1906,26 +816,6 @@
     "name": "Huskar",
     "responses": [
       {
-        "text": "Huskar!",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/c/c3/Vo_huskar_husk_spawn_01.mp3/revision/latest?cb=20201011163106"
-      },
-      {
-        "text": "I know what life is worth.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/2/20/Vo_huskar_husk_spawn_02.mp3/revision/latest?cb=20201011163108"
-      },
-      {
-        "text": "It's a sacred trust.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/f/f0/Vo_huskar_husk_spawn_03.mp3/revision/latest?cb=20201011163110"
-      },
-      {
-        "text": "My life is in your hands.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/8/8e/Vo_huskar_husk_spawn_04.mp3/revision/latest?cb=20201011163112"
-      },
-      {
-        "text": "To the Nothl Realm, I give my all.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/5/5d/Vo_huskar_husk_spawn_05.mp3/revision/latest?cb=20201011163113"
-      },
-      {
         "text": "Ah, the potential for sacrifice is great!",
         "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/3/3a/Vo_huskar_husk_level_02.mp3/revision/latest?cb=20201011162820"
       },
@@ -1934,46 +824,14 @@
         "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/8/8a/Vo_huskar_husk_kill_01.mp3/revision/latest?cb=20201011162718"
       },
       {
-        "text": "Great honors await you in the Nothl Realm.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/7/7a/Vo_huskar_husk_kill_11.mp3/revision/latest?cb=20201011162736"
-      },
-      {
-        "text": "I'll give it my all.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/f/f8/Vo_huskar_husk_move_12.mp3/revision/latest?cb=20201011162904"
-      },
-      {
-        "text": "The hunt is on.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/7/76/Vo_huskar_husk_attack_07.mp3/revision/latest?cb=20201011162524"
-      },
-      {
         "text": "There can never be too much sacrifice.",
         "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/a/a9/Vo_huskar_husk_level_09.mp3/revision/latest?cb=20201011162833"
-      },
-      {
-        "text": "I walk the sacred path to my promised destiny.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/6/69/Vo_huskar_husk_rare_01.mp3/revision/latest?cb=20201011163007"
       }
     ]
   },
   {
     "name": "Invoker",
     "responses": [
-      {
-        "text": "Invoker!",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/8/86/Vo_invoker_invo_spawn_02.mp3/revision/latest?cb=20210625232648"
-      },
-      {
-        "text": "Glorious invocation!",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/2/23/Vo_invoker_invo_spawn_03.mp3/revision/latest?cb=20210625232650"
-      },
-      {
-        "text": "What joy it is beholding me!",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/6/69/Vo_invoker_invo_spawn_04.mp3/revision/latest?cb=20210625232653"
-      },
-      {
-        "text": "Thus I invoke myself!",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/8/89/Vo_invoker_invo_spawn_05.mp3/revision/latest?cb=20210625232655"
-      },
       {
         "text": "So begins a new age of knowledge.",
         "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/b/b9/Vo_invoker_invo_begin_01.mp3/revision/latest?cb=20210625231839"
@@ -1983,16 +841,8 @@
         "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/2/26/Vo_invoker_invo_move_13.mp3/revision/latest?cb=20210625232422"
       },
       {
-        "text": "Fight me!",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/8/8d/Vo_invoker_invo_attack_05.mp3/revision/latest?cb=20210625231820"
-      },
-      {
         "text": "Knowledge is power!",
         "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/8/8f/Vo_invoker_invo_attack_08.mp3/revision/latest?cb=20210625231826"
-      },
-      {
-        "text": "The learned one strikes.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/0/05/Vo_invoker_invo_attack_09.mp3/revision/latest?cb=20210625231829"
       },
       {
         "text": "Who threatens my concentration?",
@@ -2008,40 +858,8 @@
     "name": "Jakiro",
     "responses": [
       {
-        "text": "Jakiro!",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/3/3c/Vo_jakiro_jak_spawn_01.mp3/revision/latest?cb=20210326221256"
-      },
-      {
         "text": "With ice and fire!",
         "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/9/96/Vo_jakiro_jak_spawn_02.mp3/revision/latest?cb=20210326221258"
-      },
-      {
-        "text": "Enter the dragons.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/f/f0/Vo_jakiro_jak_spawn_03.mp3/revision/latest?cb=20210326221300"
-      },
-      {
-        "text": "We leave the nest.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/e/e6/Vo_jakiro_jak_spawn_04.mp3/revision/latest?cb=20210326221301"
-      },
-      {
-        "text": "Two sides of the same coin.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/4/4c/Vo_jakiro_jak_spawn_05.mp3/revision/latest?cb=20210326221303"
-      },
-      {
-        "text": "Our war starts now.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/2/26/Vo_jakiro_jak_battlebegins_02.mp3/revision/latest?cb=20210326220718"
-      },
-      {
-        "text": "Double trouble.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/a/a6/Vo_jakiro_jak_move_18.mp3/revision/latest?cb=20210326221119"
-      },
-      {
-        "text": "The twins return.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/0/0f/Vo_jakiro_jak_respawn_06.mp3/revision/latest?cb=20210326221220"
-      },
-      {
-        "text": "By thrust of wing!",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/c/cf/Vo_jakiro_jak_move_12.mp3/revision/latest?cb=20210326221109"
       },
       {
         "text": "We blow hot and cold.",
@@ -2061,51 +879,11 @@
     "name": "Juggernaut",
     "responses": [
       {
-        "text": "Link Yurnero here.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/9/92/Vo_juggernaut_jug_spawn_01.mp3/revision/latest?cb=20201013211709"
-      },
-      {
-        "text": "Link I am Yurnero.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/4/4b/Vo_juggernaut_jugsc_arc_spawn_01.mp3/revision/latest?cb=20201013212834"
-      },
-      {
-        "text": "Link Juggernaut.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/9/98/Vo_juggernaut_jug_spawn_02.mp3/revision/latest?cb=20201013211710"
-      },
-      {
-        "text": "Link Call me Juggernaut.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/1/10/Vo_juggernaut_jugsc_arc_spawn_02.mp3/revision/latest?cb=20201013212836"
-      },
-      {
-        "text": "Link Juggernaut stands ready.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/a/ab/Vo_juggernaut_jug_spawn_03.mp3/revision/latest?cb=20201013211712"
-      },
-      {
-        "text": "Link You have summoned Juggernaut.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/8/86/Vo_juggernaut_jugsc_arc_spawn_03.mp3/revision/latest?cb=20201013212837"
-      },
-      {
-        "text": "Link Oh, it's the Juggernaut.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/5/58/Vo_juggernaut_jug_spawn_04.mp3/revision/latest?cb=20201013211716"
-      },
-      {
-        "text": "Link Oh, it's the Juggernaut.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/c/cd/Vo_juggernaut_jugsc_arc_spawn_04.mp3/revision/latest?cb=20201013212839"
-      },
-      {
-        "text": "Link I bring my blade.",
+        "text": "I bring my blade.",
         "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/5/53/Vo_juggernaut_jug_spawn_05.mp3/revision/latest?cb=20201013211717"
       },
       {
-        "text": "Link Stand and face me!",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/f/fa/Vo_juggernaut_jugsc_arc_spawn_05.mp3/revision/latest?cb=20201013212841"
-      },
-      {
-        "text": "Link To die at my hand is an honor.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/a/ac/Vo_juggernaut_jug_spawn_06.mp3/revision/latest?cb=20201013211719"
-      },
-      {
-        "text": "Link Each blow sharpens my blade!",
+        "text": "Each blow sharpens my blade!",
         "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/6/62/Vo_juggernaut_jugsc_arc_spawn_06.mp3/revision/latest?cb=20201013212842"
       }
     ]
@@ -2114,36 +892,12 @@
     "name": "Keeper_of_the_Light",
     "responses": [
       {
-        "text": "Keeper of the Light.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/c/c7/Vo_keeper_of_the_light_keep_spawn_01.mp3/revision/latest?cb=20201013215353"
-      },
-      {
-        "text": "Ezalor.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/a/ac/Vo_keeper_of_the_light_keep_spawn_02.mp3/revision/latest?cb=20201013215355"
-      },
-      {
         "text": "I ride with the light.",
         "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/e/e9/Vo_keeper_of_the_light_keep_spawn_03.mp3/revision/latest?cb=20201013215357"
       },
       {
         "text": "The Light guides me on my quest.",
         "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/c/cf/Vo_keeper_of_the_light_keep_spawn_04.mp3/revision/latest?cb=20201013215400"
-      },
-      {
-        "text": "From Light's Keep, Light's Keeper rides!",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/2/2d/Vo_keeper_of_the_light_keep_spawn_05.mp3/revision/latest?cb=20201013215402"
-      },
-      {
-        "text": "A leading light.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/a/a1/Vo_keeper_of_the_light_keep_move_03.mp3/revision/latest?cb=20201013215109"
-      },
-      {
-        "text": "I am honored.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/d/d8/Vo_keeper_of_the_light_keep_move_04.mp3/revision/latest?cb=20201013215111"
-      },
-      {
-        "text": "The light shines.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/1/1d/Vo_keeper_of_the_light_keep_move_13.mp3/revision/latest?cb=20201013215128"
       },
       {
         "text": "I bring dark's banishment.",
@@ -2156,10 +910,6 @@
       {
         "text": "It's a new age of magic!",
         "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/5/5a/Vo_keeper_of_the_light_keep_chakramagic_01.mp3/revision/latest?cb=20201013214543"
-      },
-      {
-        "text": "I am the keeper of the light!",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/3/37/Vo_keeper_of_the_light_keep_respawn_15.mp3/revision/latest?cb=20201013215316"
       }
     ]
   },
@@ -2167,48 +917,16 @@
     "name": "Kunkka",
     "responses": [
       {
-        "text": "Kunkka is my name.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/0/06/Vo_kunkka_kunk_spawn_01.mp3/revision/latest?cb=20201013225738"
-      },
-      {
         "text": "An old vessel, but more than seaworthy.",
         "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/d/d8/Vo_kunkka_kunk_spawn_02.mp3/revision/latest?cb=20201013225740"
-      },
-      {
-        "text": "Admiral Kunkka here.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/e/e6/Vo_kunkka_kunk_spawn_03.mp3/revision/latest?cb=20201013225741"
-      },
-      {
-        "text": "Admiral of the fleet.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/6/63/Vo_kunkka_kunk_spawn_04.mp3/revision/latest?cb=20201013225743"
       },
       {
         "text": "Step lively now, your Admiral is on board!",
         "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/c/c8/Vo_kunkka_kunk_spawn_05.mp3/revision/latest?cb=20201013225745"
       },
       {
-        "text": "I step ashore.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/a/a0/Vo_kunkka_kunk_spawn_06.mp3/revision/latest?cb=20201013225747"
-      },
-      {
-        "text": "We're all in the same boat.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/b/b0/Vo_kunkka_kunk_spawn_07.mp3/revision/latest?cb=20201013225749"
-      },
-      {
-        "text": "My ship has come in!",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/1/1f/Vo_kunkka_kunk_spawn_08.mp3/revision/latest?cb=20201013225751"
-      },
-      {
-        "text": "Time to shove off.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/6/6f/Vo_kunkka_kunk_spawn_09.mp3/revision/latest?cb=20201013225754"
-      },
-      {
         "text": "Worth my salt and more.",
         "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/7/71/Vo_kunkka_kunk_spawn_10.mp3/revision/latest?cb=20201013225756"
-      },
-      {
-        "text": "Batten the hatches!",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/0/0f/Vo_kunkka_kunk_attack_10.mp3/revision/latest?cb=20201013224900"
       },
       {
         "text": "Full sail ahead!",
@@ -2220,75 +938,23 @@
     "name": "Legion_Commander",
     "responses": [
       {
-        "text": "Link Legion Commander!",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/1/17/Vo_legion_commander_legcom_spawn_01.mp3/revision/latest?cb=20201013233214"
-      },
-      {
-        "text": "Link Ten hut!",
+        "text": "Ten hut!",
         "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/7/7c/Vo_legion_commander_legcom_dem_spawn_01.mp3/revision/latest?cb=20201013231938"
       },
       {
-        "text": "Link As you were.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/1/10/Vo_legion_commander_legcom_spawn_02.mp3/revision/latest?cb=20201013233216"
-      },
-      {
-        "text": "Link It's Commander Tresdin to you.",
+        "text": "It's Commander Tresdin to you.",
         "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/2/29/Vo_legion_commander_legcom_dem_spawn_02.mp3/revision/latest?cb=20201013231940"
       },
       {
-        "text": "Link Whatever they brought, it won't be enough.",
+        "text": "Whatever they brought, it won't be enough.",
         "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/4/4c/Vo_legion_commander_legcom_spawn_03.mp3/revision/latest?cb=20201013233218"
-      },
-      {
-        "text": "u This land will burn.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/1/17/Vo_legion_commander_legcom_dem_spawn_03.mp3/revision/latest?cb=20201013231941"
-      },
-      {
-        "text": "This land will burn.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/e/ea/Vo_legion_commander_legcom_spawn_04.mp3/revision/latest?cb=20201013233220"
-      },
-      {
-        "text": "u I've come to put an end to hope.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/0/04/Vo_legion_commander_legcom_dem_spawn_04.mp3/revision/latest?cb=20201013231943"
       },
       {
         "text": "I've come to put an end to hope.",
         "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/c/c1/Vo_legion_commander_legcom_spawn_05.mp3/revision/latest?cb=20201013233221"
       },
       {
-        "text": "Link To battle!",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/0/0d/Vo_legion_commander_legcom_dem_spawn_05.mp3/revision/latest?cb=20201013231945"
-      },
-      {
-        "text": "Link To the vanguard!",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/0/08/Vo_legion_commander_legcom_econ_spawn_01.mp3/revision/latest?cb=20201013232322"
-      },
-      {
-        "text": "Link Victory is assured.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/c/cb/Vo_legion_commander_legcom_dem_econ_spawn_01.mp3/revision/latest?cb=20201013231202"
-      },
-      {
-        "text": "I challenge you!",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/4/4f/Vo_legion_commander_legcom_econ_spawn_02.mp3/revision/latest?cb=20201013232325"
-      },
-      {
-        "text": "u I challenge you!",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/4/45/Vo_legion_commander_legcom_dem_econ_spawn_02.mp3/revision/latest?cb=20201013231205"
-      },
-      {
-        "text": "Let's brawl!",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/4/4e/Vo_legion_commander_legcom_attack_06.mp3/revision/latest?cb=20201013230328"
-      },
-      {
-        "text": "u Let's brawl!",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/e/e1/Vo_legion_commander_legcom_dem_attack_06.mp3/revision/latest?cb=20201013230623"
-      },
-      {
-        "text": "Link Fight for your honor!",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/8/84/Vo_legion_commander_legcom_attack_15.mp3/revision/latest?cb=20201013230347"
-      },
-      {
-        "text": "Link Ah! The rush of battle!",
+        "text": "Ah! The rush of battle!",
         "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/a/aa/Vo_legion_commander_legcom_dem_attack_15.mp3/revision/latest?cb=20201013230642"
       }
     ]
@@ -2297,28 +963,8 @@
     "name": "Leshrac",
     "responses": [
       {
-        "text": "Leshrac.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/1/18/Vo_leshrac_lesh_spawn_01.mp3/revision/latest?cb=20201013235111"
-      },
-      {
-        "text": "I kneel to no one.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/5/5f/Vo_leshrac_lesh_spawn_02.mp3/revision/latest?cb=20201013235113"
-      },
-      {
-        "text": "By the Impurities, I come.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/b/bf/Vo_leshrac_lesh_spawn_03.mp3/revision/latest?cb=20201013235115"
-      },
-      {
         "text": "The elements of my nature are in torment.",
         "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/4/47/Vo_leshrac_lesh_spawn_04.mp3/revision/latest?cb=20201013235121"
-      },
-      {
-        "text": "To the fight.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/7/7f/Vo_leshrac_lesh_move_05.mp3/revision/latest?cb=20201013234920"
-      },
-      {
-        "text": "Desolation!",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/8/80/Vo_leshrac_lesh_move_09.mp3/revision/latest?cb=20201013234928"
       },
       {
         "text": "By the impure powers of nature.",
@@ -2327,36 +973,12 @@
       {
         "text": "Stronger than the brittle earth.",
         "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/e/ec/Vo_leshrac_lesh_level_07.mp3/revision/latest?cb=20201013234903"
-      },
-      {
-        "text": "I shall restore the imbalance.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/d/d7/Vo_leshrac_lesh_respawn_09.mp3/revision/latest?cb=20201013235058"
-      },
-      {
-        "text": "I come to tip the balance!",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/5/50/Vo_leshrac_lesh_battlebegins_01.mp3/revision/latest?cb=20201013234606"
-      },
-      {
-        "text": "I blast the land.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/c/c0/Vo_leshrac_lesh_attack_12.mp3/revision/latest?cb=20201013234604"
-      },
-      {
-        "text": "Share my torment!",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/3/34/Vo_leshrac_lesh_ability_edict_01.mp3/revision/latest?cb=20201013235136"
       }
     ]
   },
   {
     "name": "Lich",
     "responses": [
-      {
-        "text": "Lich!",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/6/6e/Vo_lich_lich_spawn_01.mp3/revision/latest?cb=20201017001614"
-      },
-      {
-        "text": "I am Lich!",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/e/ee/Vo_lich_lich_spawn_02.mp3/revision/latest?cb=20201017001616"
-      },
       {
         "text": "I am the dead of winter!",
         "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/f/f1/Vo_lich_lich_spawn_03.mp3/revision/latest?cb=20201017001617"
@@ -2374,14 +996,6 @@
         "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/0/04/Vo_lich_lich_move_13.mp3/revision/latest?cb=20201017001343"
       },
       {
-        "text": "My power rises!",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/c/c0/Vo_lich_lich_level_02.mp3/revision/latest?cb=20201017001149"
-      },
-      {
-        "text": "From frozen waters I rise!",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/2/27/Vo_lich_lich_respawn_05.mp3/revision/latest?cb=20201017001542"
-      },
-      {
         "text": "From cold death, I rise again.",
         "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/d/dc/Vo_lich_lich_respawn_08.mp3/revision/latest?cb=20201017001549"
       },
@@ -2392,32 +1006,12 @@
       {
         "text": "A killing frost!",
         "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/a/a9/Vo_lich_lich_ability_chain_01.mp3/revision/latest?cb=20201017001703"
-      },
-      {
-        "text": "To the cold grave!",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/e/e8/Vo_lich_lich_kill_01.mp3/revision/latest?cb=20201017001020"
       }
     ]
   },
   {
     "name": "Lifestealer",
     "responses": [
-      {
-        "text": "Lifestealer!",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/4/46/Vo_life_stealer_lifest_spawn_01.mp3/revision/latest?cb=20201017002848"
-      },
-      {
-        "text": "My bonds are broken!",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/b/b7/Vo_life_stealer_lifest_spawn_02.mp3/revision/latest?cb=20201017002850"
-      },
-      {
-        "text": "Unleashed at last!",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/9/95/Vo_life_stealer_lifest_spawn_03.mp3/revision/latest?cb=20201017002852"
-      },
-      {
-        "text": "A thief in the fight!",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/d/d4/Vo_life_stealer_lifest_spawn_04.mp3/revision/latest?cb=20201017002854"
-      },
       {
         "text": "No chains can hold me.",
         "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/e/e2/Vo_life_stealer_lifest_move_10.mp3/revision/latest?cb=20201017002551"
@@ -2441,14 +1035,6 @@
       {
         "text": "My rage burns bright!",
         "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/8/89/Vo_life_stealer_lifest_levelup_06.mp3/revision/latest?cb=20201017002439"
-      },
-      {
-        "text": "Your life is mine.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/6/68/Vo_life_stealer_lifest_lasthit_04.mp3/revision/latest?cb=20201017002344"
-      },
-      {
-        "text": "Wait until I get my claws in you!",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/3/36/Vo_life_stealer_lifest_cast_01.mp3/revision/latest?cb=20201017002010"
       }
     ]
   },
@@ -2456,24 +1042,8 @@
     "name": "Lina",
     "responses": [
       {
-        "text": "Lina!",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/2/22/Vo_lina_lina_spawn_01.mp3/revision/latest?cb=20201017003708"
-      },
-      {
-        "text": "Lina here.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/8/80/Vo_lina_lina_spawn_02.mp3/revision/latest?cb=20201017003710"
-      },
-      {
-        "text": "Let it burn!",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/1/14/Vo_lina_lina_spawn_04.mp3/revision/latest?cb=20201017003715"
-      },
-      {
         "text": "Let's get a fire going!",
         "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/9/92/Vo_lina_lina_spawn_05.mp3/revision/latest?cb=20201017003718"
-      },
-      {
-        "text": "I'm on fire!",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/7/77/Vo_lina_lina_spawn_06.mp3/revision/latest?cb=20201017003721"
       },
       {
         "text": "I've got fire in my eyes!",
@@ -2494,28 +1064,12 @@
       {
         "text": "Let's heat things up.",
         "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/b/b3/Vo_lina_lina_respawn_04.mp3/revision/latest?cb=20201017003541"
-      },
-      {
-        "text": "I bring the heat.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/3/36/Vo_lina_lina_respawn_09.mp3/revision/latest?cb=20201017003556"
       }
     ]
   },
   {
     "name": "Lion",
     "responses": [
-      {
-        "text": "Lion.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/a/a5/Vo_lion_lion_spawn_01.mp3/revision/latest?cb=20201017004457"
-      },
-      {
-        "text": "I am Lion.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/c/c5/Vo_lion_lion_spawn_02.mp3/revision/latest?cb=20201017004459"
-      },
-      {
-        "text": "Demon Witch.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/6/61/Vo_lion_lion_spawn_03.mp3/revision/latest?cb=20201017004501"
-      },
       {
         "text": "You summon the Demon Witch.",
         "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/c/cd/Vo_lion_lion_spawn_04.mp3/revision/latest?cb=20201017004503"
@@ -2529,62 +1083,14 @@
         "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/a/a8/Vo_lion_lion_spawn_06.mp3/revision/latest?cb=20201017004506"
       },
       {
-        "text": "Where's the fight?",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/a/a9/Vo_lion_lion_move_11.mp3/revision/latest?cb=20201017004333"
-      },
-      {
-        "text": "Oh, hell yes.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/c/cc/Vo_lion_lion_move_12.mp3/revision/latest?cb=20201017004335"
-      },
-      {
         "text": "To Hell and back.",
         "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/4/41/Vo_lion_lion_move_10.mp3/revision/latest?cb=20201017004331"
-      },
-      {
-        "text": "Hell's fury burns!",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/7/77/Vo_lion_lion_attack_10.mp3/revision/latest?cb=20201017003950"
-      },
-      {
-        "text": "Battle rages!",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/4/41/Vo_lion_lion_attack_11.mp3/revision/latest?cb=20201017003953"
-      },
-      {
-        "text": "Feel my claw!",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/7/74/Vo_lion_lion_attack_12.mp3/revision/latest?cb=20201017003955"
       }
     ]
   },
   {
     "name": "Lone_Druid",
     "responses": [
-      {
-        "text": "Lone Druid!",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/6/65/Vo_lone_druid_lone_druid_spawn_01.mp3/revision/latest?cb=20201017010439"
-      },
-      {
-        "text": "From exile, I emerge!",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/b/b2/Vo_lone_druid_lone_druid_spawn_02.mp3/revision/latest?cb=20201017010441"
-      },
-      {
-        "text": "I will suffer no threat to my purpose.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/7/72/Vo_lone_druid_lone_druid_spawn_03.mp3/revision/latest?cb=20201017010443"
-      },
-      {
-        "text": "The Seed shall be sown.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/d/da/Vo_lone_druid_lone_druid_spawn_04.mp3/revision/latest?cb=20201017010445"
-      },
-      {
-        "text": "Sylla of the Bear Clan!",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/4/41/Vo_lone_druid_lone_druid_spawn_05.mp3/revision/latest?cb=20201017010446"
-      },
-      {
-        "text": "Taste this sharpness!",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/1/10/Vo_lone_druid_lone_druid_attack_09.mp3/revision/latest?cb=20201017004730"
-      },
-      {
-        "text": "No threat shall stand!",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/f/f5/Vo_lone_druid_lone_druid_cast_01.mp3/revision/latest?cb=20201017005728"
-      },
       {
         "text": "My spirit is hungry.",
         "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/8/89/Vo_lone_druid_lone_druid_ability_spiritbear_02.mp3/revision/latest?cb=20201017004635"
@@ -2596,32 +1102,12 @@
       {
         "text": "Nature is not for the weak.",
         "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/1/15/Vo_lone_druid_lone_druid_kill_02.mp3/revision/latest?cb=20201017005951"
-      },
-      {
-        "text": "The cycle shall be complete!",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/a/aa/Vo_lone_druid_lone_druid_win_03.mp3/revision/latest?cb=20201017010513"
-      },
-      {
-        "text": "I feel the wild in me.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/b/b1/Vo_lone_druid_lone_druid_cast_03.mp3/revision/latest?cb=20201017005732"
       }
     ]
   },
   {
     "name": "Luna",
     "responses": [
-      {
-        "text": "Luna!",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/1/1a/Vo_luna_luna_spawn_01.mp3/revision/latest?cb=20201017011427"
-      },
-      {
-        "text": "The Moon Rider has arrived.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/4/49/Vo_luna_luna_spawn_02.mp3/revision/latest?cb=20201017011429"
-      },
-      {
-        "text": "In the service of Selemene.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/b/b3/Vo_luna_luna_spawn_03.mp3/revision/latest?cb=20201017011431"
-      },
       {
         "text": "Nova could use a snack.",
         "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/9/9b/Vo_luna_luna_spawn_04.mp3/revision/latest?cb=20201017011433"
@@ -2631,42 +1117,18 @@
         "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/9/92/Vo_luna_luna_battlebegins_01.mp3/revision/latest?cb=20201017010830"
       },
       {
-        "text": "The night sees all.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/d/dc/Vo_luna_luna_move_13.mp3/revision/latest?cb=20201017011215"
-      },
-      {
-        "text": "Selemene commands.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/d/dd/Vo_luna_luna_move_15.mp3/revision/latest?cb=20201017011219"
-      },
-      {
         "text": "Blessings upon a loyal warrior.",
         "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/1/12/Vo_luna_luna_levelup_03.mp3/revision/latest?cb=20201017011137"
       },
       {
         "text": "They will find my blade sharp, and cruel.",
         "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/2/22/Vo_luna_luna_levelup_08.mp3/revision/latest?cb=20201017011146"
-      },
-      {
-        "text": "Oh they will rue this day.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/f/ff/Vo_luna_luna_respawn_06.mp3/revision/latest?cb=20201017011337"
-      },
-      {
-        "text": "On the prowl.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/6/6a/Vo_luna_luna_move_17.mp3/revision/latest?cb=20201017011222"
-      },
-      {
-        "text": "They will fear me.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/7/7b/Vo_luna_luna_levelup_07.mp3/revision/latest?cb=20201017011144"
       }
     ]
   },
   {
     "name": "Lycan",
     "responses": [
-      {
-        "text": "Lycan!",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/a/a4/Vo_lycan_lycan_spawn_01.mp3/revision/latest?cb=20201017012503"
-      },
       {
         "text": "A wolf in man's clothing.",
         "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/a/a8/Vo_lycan_lycan_spawn_02.mp3/revision/latest?cb=20201017012505"
@@ -2676,50 +1138,18 @@
         "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/1/18/Vo_lycan_lycan_spawn_03.mp3/revision/latest?cb=20201017012506"
       },
       {
-        "text": "The rogue wolf comes.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/8/81/Vo_lycan_lycan_spawn_04.mp3/revision/latest?cb=20201017012508"
-      },
-      {
-        "text": "The trails will run red.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/b/bf/Vo_lycan_lycan_battlebegins_02.mp3/revision/latest?cb=20201017011846"
-      },
-      {
         "text": "In the company of wolves.",
         "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/e/e3/Vo_lycan_lycan_ability_summon_04.mp3/revision/latest?cb=20201017011740"
       },
       {
         "text": "I am the alpha wolf.",
         "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/2/2f/Vo_lycan_lycan_level_05.mp3/revision/latest?cb=20201017012152"
-      },
-      {
-        "text": "The wolf rises.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/a/a5/Vo_lycan_lycan_respawn_06.mp3/revision/latest?cb=20201017012353"
-      },
-      {
-        "text": "I lope to battle.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/7/7a/Vo_lycan_lycan_wolf_move_11.mp3/revision/latest?cb=20201017012600"
-      },
-      {
-        "text": "Fealty to none.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/7/78/Vo_lycan_lycan_wolf_move_12.mp3/revision/latest?cb=20201017012602"
-      },
-      {
-        "text": "Called to battle.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/5/57/Vo_lycan_lycan_wolf_move_14.mp3/revision/latest?cb=20201017012606"
-      },
-      {
-        "text": "Beware the wolf.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/b/bc/Vo_lycan_lycan_wolf_move_18.mp3/revision/latest?cb=20201017012612"
       }
     ]
   },
   {
     "name": "Magnus",
     "responses": [
-      {
-        "text": "Let them try and stop me.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/2/23/Vo_magnataur_magn_spawn_02.mp3/revision/latest?cb=20201017013916"
-      },
       {
         "text": "My horn is sharp, my pike is sharper still.",
         "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/5/5c/Vo_magnataur_magn_spawn_04.mp3/revision/latest?cb=20201017013919"
@@ -2729,40 +1159,8 @@
         "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/9/95/Vo_magnataur_magn_spawn_05.mp3/revision/latest?cb=20201017013920"
       },
       {
-        "text": "Behold the horn of Magnus!",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/5/53/Vo_magnataur_magn_spawn_06.mp3/revision/latest?cb=20201017013922"
-      },
-      {
-        "text": "They cannot hide.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/5/5e/Vo_magnataur_magn_move_10.mp3/revision/latest?cb=20201017013607"
-      },
-      {
-        "text": "Stand aside!",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/9/9f/Vo_magnataur_magn_move_12.mp3/revision/latest?cb=20201017013610"
-      },
-      {
-        "text": "By the gleam of my horn!",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/d/d2/Vo_magnataur_magn_move_14.mp3/revision/latest?cb=20201017013613"
-      },
-      {
         "text": "Under my hoof you will find your fate.",
         "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/b/b0/Vo_magnataur_magn_attack_01.mp3/revision/latest?cb=20201017013048"
-      },
-      {
-        "text": "I'll trample them.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/2/2d/Vo_magnataur_magn_attack_04.mp3/revision/latest?cb=20201017013053"
-      },
-      {
-        "text": "Who stands against me?",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/b/b4/Vo_magnataur_magn_attack_07.mp3/revision/latest?cb=20201017013056"
-      },
-      {
-        "text": "I shall find them.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/a/a8/Vo_magnataur_magn_move_09.mp3/revision/latest?cb=20201017013605"
-      },
-      {
-        "text": "My hooves are mighty.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/8/8f/Vo_magnataur_magn_levelup_08.mp3/revision/latest?cb=20201017013529"
       }
     ]
   },
@@ -2770,8 +1168,16 @@
     "name": "Mars",
     "responses": [
       {
-        "text": "Let the name Mars ring across the battlefield, and bear witness to my enemy's flight.",
+        "text": "Spreading enlightenment at the tip of my spear.",
         "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/2/2f/Vo_mars_mars_hero_intro_04.mp3/revision/latest?cb=20201017100117"
+      },
+      {
+        "text": " To war! And glorious conquest! Yaaahh!",
+        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/e/ed/Vo_mars_mars_spawn_02.mp3/revision/latest?cb=20201017102809"
+      },
+      {
+        "text": " To those behind, rally! To those ahead... Kneel!",
+        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/a/a7/Vo_mars_mars_spawn_03.mp3/revision/latest?cb=20201017102811"
       }
     ]
   },
@@ -2779,32 +1185,8 @@
     "name": "Medusa",
     "responses": [
       {
-        "text": "Medusa!",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/0/04/Vo_medusa_medus_spawn_01.mp3/revision/latest?cb=20201017104903"
-      },
-      {
-        "text": "The Gorgon!",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/8/8d/Vo_medusa_medus_spawn_02.mp3/revision/latest?cb=20201017104905"
-      },
-      {
-        "text": "Unblinking, I rise.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/c/c2/Vo_medusa_medus_spawn_03.mp3/revision/latest?cb=20201017104906"
-      },
-      {
         "text": "Gorgons, I'll avenge you!",
         "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/4/41/Vo_medusa_medus_spawn_04.mp3/revision/latest?cb=20201017104908"
-      },
-      {
-        "text": "Sharpening my fangs.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/a/ac/Vo_medusa_medus_spawn_05.mp3/revision/latest?cb=20201017104910"
-      },
-      {
-        "text": "Gaze upon Medusa's beauty, and despair!",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/b/bc/Vo_medusa_medus_begin_03.mp3/revision/latest?cb=20201017104036"
-      },
-      {
-        "text": "None can resist!",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/0/0e/Vo_medusa_medus_attack_05.mp3/revision/latest?cb=20201017104016"
       },
       {
         "text": "Look me in the eye.",
@@ -2817,14 +1199,6 @@
       {
         "text": "There is no heart colder than mine.",
         "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/1/1f/Vo_medusa_medus_kill_08.mp3/revision/latest?cb=20201017104336"
-      },
-      {
-        "text": "There will be a reckoning.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/1/12/Vo_medusa_medus_respawn_08.mp3/revision/latest?cb=20201017104812"
-      },
-      {
-        "text": "Fall before me!",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/1/13/Vo_medusa_medus_attack_04.mp3/revision/latest?cb=20201017104014"
       }
     ]
   },
@@ -2832,52 +1206,16 @@
     "name": "Meepo",
     "responses": [
       {
-        "text": "Meepo!",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/b/b7/Vo_meepo_meepo_spawn_01.mp3/revision/latest?cb=20200424165433"
-      },
-      {
-        "text": "Meepo the Geomancer!",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/e/ec/Vo_meepo_meepo_spawn_02.mp3/revision/latest?cb=20200424165435"
-      },
-      {
         "text": "A digger's gotta dig!",
         "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/c/ca/Vo_meepo_meepo_spawn_03.mp3/revision/latest?cb=20200424165436"
-      },
-      {
-        "text": "Name's Meepo. Geomancer. Pleased to meet ya.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/4/41/Vo_meepo_meepo_spawn_04.mp3/revision/latest?cb=20200424165438"
       },
       {
         "text": "Hey, what's cookin'?",
         "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/b/b0/Vo_meepo_meepo_spawn_05.mp3/revision/latest?cb=20200424165439"
       },
       {
-        "text": "Aw yeah!",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/4/42/Vo_meepo_meepo_move_16.mp3/revision/latest?cb=20200424165214"
-      },
-      {
         "text": "Mischief for mischief!",
         "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/a/a2/Vo_meepo_meepo_move_28.mp3/revision/latest?cb=20200424165231"
-      },
-      {
-        "text": "Let's go to work!",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/0/01/Vo_meepo_meepo_move_37.mp3/revision/latest?cb=20200424165244"
-      },
-      {
-        "text": "Come out and play!",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/b/b8/Vo_meepo_meepo_attack_13.mp3/revision/latest?cb=20200424164727"
-      },
-      {
-        "text": "Comin' for ya!",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/3/3b/Vo_meepo_meepo_cast_01.mp3/revision/latest?cb=20200424164754"
-      },
-      {
-        "text": "Ain't nothing gonna stop me now!",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/6/63/Vo_meepo_meepo_levelup_03.mp3/revision/latest?cb=20200424165127"
-      },
-      {
-        "text": "Oh now that's what I'm talking about!",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/a/a9/Vo_meepo_meepo_levelup_15.mp3/revision/latest?cb=20200424165146"
       }
     ]
   },
@@ -2885,44 +1223,12 @@
     "name": "Mirana",
     "responses": [
       {
-        "text": "Mirana.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/0/09/Vo_mirana_mir_spawn_01.mp3/revision/latest?cb=20211226114114"
-      },
-      {
-        "text": "Mirana and Sagan!",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/9/95/Vo_mirana_mir_spawn_02.mp3/revision/latest?cb=20211226114116"
-      },
-      {
-        "text": "Priestess!",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/b/b0/Vo_mirana_mir_spawn_03.mp3/revision/latest?cb=20211226114117"
-      },
-      {
-        "text": "Your Priestess has arrived!",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/1/17/Vo_mirana_mir_spawn_04.mp3/revision/latest?cb=20211226114119"
-      },
-      {
-        "text": "On the prowl…",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/4/4e/Vo_mirana_mir_move_02.mp3/revision/latest?cb=20211226113859"
-      },
-      {
         "text": "The moon lights my way!",
         "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/1/1b/Vo_mirana_mir_move_14.mp3/revision/latest?cb=20211226113918"
       },
       {
         "text": "We ride in perfect union.",
         "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/e/e5/Vo_mirana_mir_levelup_04.mp3/revision/latest?cb=20211226113846"
-      },
-      {
-        "text": "Mirana and Mount, attending.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/e/ef/Vo_mirana_mir_spawn_08.mp3/revision/latest?cb=20211226114125"
-      },
-      {
-        "text": "Let the battle commence.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/a/a6/Vo_mirana_mir_spawn_09.mp3/revision/latest?cb=20211226114127"
-      },
-      {
-        "text": "Tonight, we ride.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/5/51/Vo_mirana_mir_spawn_10.mp3/revision/latest?cb=20211226114128"
       },
       {
         "text": "Look, my pet. Prey!",
@@ -2938,18 +1244,22 @@
     "name": "Monkey_King",
     "responses": [
       {
-        "text": "Looks like I've got some new stories to tell.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/9/91/Vo_monkey_king_mk_takeover_vo.mp3/revision/latest?cb=20201017114509"
+        "text": "None can stand against Sun Wukong.",
+        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/6/6b/Vo_monkey_king_monkey_spawn_09.mp3/revision/latest?cb=20201017125624"
+      },
+       {
+        "text": " I've outwitted gods. Smashing a glowing rock should be no problem.",
+        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/b/b3/Vo_monkey_king_monkey_spawn_07.mp3/revision/latest?cb=20201017125619"
+      },
+       {
+        "text": "Don't look so surprised, human. My arrival was foretold.",
+        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/f/f8/Vo_monkey_king_mk_hero_intro_04.mp3/revision/latest?cb=20201017114505"
       }
     ]
   },
   {
     "name": "Morphling",
     "responses": [
-      {
-        "text": "Morphling.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/e/e6/Vo_morphling_mrph_spawn_01.mp3/revision/latest?cb=20201017131936"
-      },
       {
         "text": "My waters rise.",
         "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/3/30/Vo_morphling_mrph_spawn_04.mp3/revision/latest?cb=20201017131939"
@@ -2959,36 +1269,8 @@
         "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/c/cb/Vo_morphling_mrph_spawn_05.mp3/revision/latest?cb=20201017131941"
       },
       {
-        "text": "Beware the riptide.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/d/d7/Vo_morphling_mrph_spawn_06.mp3/revision/latest?cb=20201017131943"
-      },
-      {
         "text": "Time to test the waters.",
         "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/9/90/Vo_morphling_mrph_spawn_08.mp3/revision/latest?cb=20201017131944"
-      },
-      {
-        "text": "Dangerous waters.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/5/5f/Vo_morphling_mrph_attack_03a.mp3/revision/latest?cb=20201017131159"
-      },
-      {
-        "text": "Waters rising.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/f/fd/Vo_morphling_mrph_level_02a.mp3/revision/latest?cb=20201017131603"
-      },
-      {
-        "text": "I flow.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/1/17/Vo_morphling_mrph_move_07.mp3/revision/latest?cb=20201017131658"
-      },
-      {
-        "text": "The wave breaks.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/e/ec/Vo_morphling_mrph_move_12.mp3/revision/latest?cb=20201017131711"
-      },
-      {
-        "text": "Raging waters!",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/9/9a/Vo_morphling_mrph_attack_02.mp3/revision/latest?cb=20201017131151"
-      },
-      {
-        "text": "My power flows!",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/e/ea/Vo_morphling_mrph_cast_02.mp3/revision/latest?cb=20201017131231"
       },
       {
         "text": "The waters are teeming!",
@@ -3000,106 +1282,38 @@
     "name": "Muerta",
     "responses": [
       {
-        "text": "Link r  How do you put up with these fools?",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/d/db/Vo_muerta_ally_035.mp3/revision/latest?cb=20230308063928"
-      },
-      {
-        "text": "Link r  Valora, how long have you been on this world?",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/d/d1/Vo_eth_muerta_ally_035.mp3/revision/latest?cb=20230308091010"
-      },
-      {
-        "text": "Link r  A grim end awaits you, friend.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/5/5f/Vo_muerta_ally_045.mp3/revision/latest?cb=20230308063929"
-      },
-      {
-        "text": "Link r  Your existence is proof that justice is only a myth.",
+        "text": "Your existence is proof that justice is only a myth.",
         "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/e/e1/Vo_eth_muerta_ally_045.mp3/revision/latest?cb=20230308091010"
       },
       {
-        "text": "Link r  You're an enigma, Marci. Universally liked AND feared.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/9/97/Vo_muerta_ally_073.mp3/revision/latest?cb=20230308063929"
-      },
-      {
-        "text": "Link r  You make me sick.",
+        "text": "You make me sick.",
         "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/0/00/Vo_eth_muerta_ally_073.mp3/revision/latest?cb=20230308091010"
       },
       {
-        "text": "Link r  A true reaper is never so petty as you.",
+        "text": "A true reaper is never so petty as you.",
         "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/d/db/Vo_muerta_ally_074.mp3/revision/latest?cb=20230308063929"
       },
       {
-        "text": "Link r  It's all I can do to keep my pistols at my side...",
+        "text": "It's all I can do to keep my pistols at my side...",
         "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/7/7a/Vo_eth_muerta_ally_074.mp3/revision/latest?cb=20230308091011"
       },
       {
-        "text": "Link r  Is this why my daughter died? So I could help you eons later in a meaningless fight?",
+        "text": "Is this why my daughter died? So I could help you eons later in a meaningless fight?",
         "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/c/c2/Vo_muerta_ally_113.mp3/revision/latest?cb=20230308063930"
       },
       {
-        "text": "Link r  Are you sure this world deserves your help?",
+        "text": "Are you sure this world deserves your help?",
         "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/6/67/Vo_eth_muerta_ally_113.mp3/revision/latest?cb=20230308091011"
       },
       {
-        "text": "Link r  An amusing fool, but a fool nonetheless.",
+        "text": "An amusing fool, but a fool nonetheless.",
         "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/e/e1/Vo_muerta_ally_131.mp3/revision/latest?cb=20230308063930"
-      },
-      {
-        "text": "Link r  Repent, Assassin. I'll hold until the moment this battle ends.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/e/ed/Vo_eth_muerta_ally_131.mp3/revision/latest?cb=20230308091011"
-      },
-      {
-        "text": "Link r  Do I care if you die, Assassin? Never. But I do care that we win.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/7/75/Vo_muerta_ally_132.mp3/revision/latest?cb=20230308063930"
-      },
-      {
-        "text": "Link r  I just want to say... I approve of your methods.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/a/a9/Vo_eth_muerta_ally_132.mp3/revision/latest?cb=20230308091011"
-      },
-      {
-        "text": "Link r  I envy you, Undying. You've long forgotten what you've lost.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/b/b6/Vo_muerta_ally_141.mp3/revision/latest?cb=20230308063930"
-      },
-      {
-        "text": "Link r  Tell me, Visage... Am I famous?",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/7/7e/Vo_eth_muerta_ally_141.mp3/revision/latest?cb=20230308091011"
-      },
-      {
-        "text": "Link r  I'm more freelance, Visage. You're the one with the masters.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/f/f5/Vo_muerta_ally_142.mp3/revision/latest?cb=20230308063931"
-      },
-      {
-        "text": "Link r  I'll never take a knee. Coward.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/1/1b/Vo_eth_muerta_ally_142.mp3/revision/latest?cb=20230308091012"
-      },
-      {
-        "text": "Link r  You're far too happy for this dark work.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/2/23/Vo_muerta_ally_143.mp3/revision/latest?cb=20230308063931"
-      },
-      {
-        "text": "Link r  Destroy the Ancient and your real enemy won't stand a chance.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/9/91/Vo_eth_muerta_ally_143.mp3/revision/latest?cb=20230308091012"
       }
     ]
   },
   {
     "name": "Naga_Siren",
     "responses": [
-      {
-        "text": "Siren rises from the deeps.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/1/1e/Vo_naga_siren_naga_spawn_01.mp3/revision/latest?cb=20201017145936"
-      },
-      {
-        "text": "Naga Siren.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/5/54/Vo_naga_siren_naga_spawn_02.mp3/revision/latest?cb=20201017145938"
-      },
-      {
-        "text": "Siren.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/0/0a/Vo_naga_siren_naga_spawn_03.mp3/revision/latest?cb=20201017145941"
-      },
-      {
-        "text": "The great disabler comes.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/2/27/Vo_naga_siren_naga_spawn_04.mp3/revision/latest?cb=20201017145944"
-      },
       {
         "text": "I sing the Siren song of war.",
         "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/9/90/Vo_naga_siren_naga_spawn_05.mp3/revision/latest?cb=20201017145946"
@@ -3119,10 +1333,6 @@
       {
         "text": "My song grows sweeter.",
         "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/2/21/Vo_naga_siren_naga_levelup_04.mp3/revision/latest?cb=20201017145320"
-      },
-      {
-        "text": "I rise against the tide.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/f/f1/Vo_naga_siren_naga_respawn_03.mp3/revision/latest?cb=20201017145648"
       }
     ]
   },
@@ -3142,10 +1352,6 @@
         "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/6/64/Vo_furion_furi_spawn_03.mp3/revision/latest?cb=20201011150337"
       },
       {
-        "text": "Nature calls.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/5/5c/Vo_furion_furi_move_10.mp3/revision/latest?cb=20201011150141"
-      },
-      {
         "text": "I answer the wild's call!",
         "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/b/b1/Vo_furion_furi_cast_03.mp3/revision/latest?cb=20201011144605"
       },
@@ -3160,22 +1366,6 @@
       {
         "text": "Ah, the sun in my leaves.",
         "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/3/39/Vo_furion_furi_level_02.mp3/revision/latest?cb=20201011150100"
-      },
-      {
-        "text": "Nature's guardian returns.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/d/d6/Vo_furion_furi_respawn_11.mp3/revision/latest?cb=20201011150307"
-      },
-      {
-        "text": "With a wild spirit.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/7/7a/Vo_furion_furi_move_11.mp3/revision/latest?cb=20201011150142"
-      },
-      {
-        "text": "For the trees!",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/d/dd/Vo_furion_furi_attack_02.mp3/revision/latest?cb=20201011150500"
-      },
-      {
-        "text": "Nature's ferocity.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/1/10/Vo_furion_furi_attack_07.mp3/revision/latest?cb=20201011144540"
       }
     ]
   },
@@ -3183,16 +1373,8 @@
     "name": "Necrophos",
     "responses": [
       {
-        "text": "Necrophos.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/0/02/Vo_necrolyte_necr_spawn_01.mp3/revision/latest?cb=20201017151152"
-      },
-      {
         "text": "I am the Plague Mage.",
         "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/5/50/Vo_necrolyte_necr_spawn_02.mp3/revision/latest?cb=20201017151154"
-      },
-      {
-        "text": "Comes the Dark Rot.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/4/43/Vo_necrolyte_necr_spawn_03.mp3/revision/latest?cb=20201017151157"
       },
       {
         "text": "Behold the Pope of Pestilence.",
@@ -3213,36 +1395,12 @@
       {
         "text": "Spread the contagion!",
         "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/2/28/Vo_necrolyte_necr_level_05.mp3/revision/latest?cb=20201017150726"
-      },
-      {
-        "text": "I'll plague you.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/5/56/Vo_necrolyte_necr_move_14.mp3/revision/latest?cb=20201017150828"
-      },
-      {
-        "text": "Affliction.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/c/cd/Vo_necrolyte_necr_move_15.mp3/revision/latest?cb=20201017150830"
-      },
-      {
-        "text": "Sweet spoilage.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/c/c3/Vo_necrolyte_necr_attack_09.mp3/revision/latest?cb=20201017150332"
-      },
-      {
-        "text": "Spoiling for a fight.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/2/2e/Vo_necrolyte_necr_attack_10.mp3/revision/latest?cb=20201017150335"
       }
     ]
   },
   {
     "name": "Night_Stalker",
     "responses": [
-      {
-        "text": "Night Stalker.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/a/a8/Vo_night_stalker_nstalk_spawn_01.mp3/revision/latest?cb=20201017155257"
-      },
-      {
-        "text": "Night-time is my time.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/c/ca/Vo_night_stalker_nstalk_spawn_02.mp3/revision/latest?cb=20201017155300"
-      },
       {
         "text": "I'm the beast of bedtime tales.",
         "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/c/c8/Vo_night_stalker_nstalk_spawn_03.mp3/revision/latest?cb=20201017155303"
@@ -3260,28 +1418,8 @@
         "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/8/86/Vo_night_stalker_nstalk_battlebegins_02.mp3/revision/latest?cb=20201017154602"
       },
       {
-        "text": "Day walker, night stalker.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/0/03/Vo_night_stalker_nstalk_move_07.mp3/revision/latest?cb=20201017155022"
-      },
-      {
-        "text": "On the hunt.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/3/33/Vo_night_stalker_nstalk_move_09.mp3/revision/latest?cb=20201017155027"
-      },
-      {
-        "text": "I come to feed.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/a/ab/Vo_night_stalker_nstalk_attack_02.mp3/revision/latest?cb=20201017154523"
-      },
-      {
         "text": "I'll feast tonight.",
         "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/0/05/Vo_night_stalker_nstalk_attack_03.mp3/revision/latest?cb=20201017154526"
-      },
-      {
-        "text": "None can stand against me.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/2/23/Vo_night_stalker_nstalk_attack_08.mp3/revision/latest?cb=20201017154539"
-      },
-      {
-        "text": "There's no escape.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/0/07/Vo_night_stalker_nstalk_cast_01.mp3/revision/latest?cb=20201017154621"
       }
     ]
   },
@@ -3289,20 +1427,8 @@
     "name": "Nyx_Assassin",
     "responses": [
       {
-        "text": "Nyx Assassin.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/9/97/Vo_nyx_assassin_nyx_spawn_01.mp3/revision/latest?cb=20201017160847"
-      },
-      {
-        "text": "Nyx Assassin.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/4/44/Vo_nyx_assassin_nyx_spawn_02.mp3/revision/latest?cb=20201017160850"
-      },
-      {
         "text": "Five targets marked for death.",
         "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/7/76/Vo_nyx_assassin_nyx_spawn_03.mp3/revision/latest?cb=20201017160853"
-      },
-      {
-        "text": "I will fulfill my purpose.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/b/b6/Vo_nyx_assassin_nyx_spawn_04.mp3/revision/latest?cb=20201017160858"
       },
       {
         "text": "Assassination is inevitable.",
@@ -3311,38 +1437,6 @@
       {
         "text": "My purpose is clear, my targets doomed.",
         "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/7/72/Vo_nyx_assassin_nyx_begin_01.mp3/revision/latest?cb=20201017155640"
-      },
-      {
-        "text": "Ah, Nyx, Nyx, Nyx, Nyx.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/5/5c/Vo_nyx_assassin_nyx_nyx_10.mp3/revision/latest?cb=20201017160552"
-      },
-      {
-        "text": "I see your fears.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/e/ed/Vo_nyx_assassin_nyx_attack_16.mp3/revision/latest?cb=20201017155639"
-      },
-      {
-        "text": "Soon you shall perish.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/c/cd/Vo_nyx_assassin_nyx_burn_03.mp3/revision/latest?cb=20201017155659"
-      },
-      {
-        "text": "I am the pride of Nyx.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/4/4e/Vo_nyx_assassin_nyx_levelup_05.mp3/revision/latest?cb=20201017160318"
-      },
-      {
-        "text": "Nyx welcomes you.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/b/be/Vo_nyx_assassin_nyx_kill_14.mp3/revision/latest?cb=20201017160152"
-      },
-      {
-        "text": "Nyx, Nyx, Nyx, Nyx.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/c/ca/Vo_nyx_assassin_nyx_levelup_10.mp3/revision/latest?cb=20201017160331"
-      },
-      {
-        "text": "u ?",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/a/a7/Vo_nyx_assassin_nyx_levelup_12.mp3/revision/latest?cb=20201017160337"
-      },
-      {
-        "text": "u To better to kill them with.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/8/83/Vo_nyx_assassin_nyx_levelup_13.mp3/revision/latest?cb=20201017160339"
       }
     ]
   },
@@ -3350,36 +1444,8 @@
     "name": "Ogre_Magi",
     "responses": [
       {
-        "text": "Ogre Magi!",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/a/a8/Vo_ogre_magi_ogmag_spawn_01.mp3/revision/latest?cb=20191220000843"
-      },
-      {
-        "text": "Ogre Magi! The very same.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/c/ca/Vo_ogre_magi_ogmag_spawn_02.mp3/revision/latest?cb=20191220000845"
-      },
-      {
-        "text": "Ogre Magi! I wanted to say that.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/c/c7/Vo_ogre_magi_ogmag_spawn_03.mp3/revision/latest?cb=20191220000847"
-      },
-      {
-        "text": "They picked me! No one ever picks me.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/1/1c/Vo_ogre_magi_ogmag_spawn_04.mp3/revision/latest?cb=20191220000849"
-      },
-      {
-        "text": "I'm the Ogre Magi! No, you are!",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/3/3f/Vo_ogre_magi_ogmag_spawn_05.mp3/revision/latest?cb=20191220000850"
-      },
-      {
         "text": "After you. No, me first!",
         "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/7/72/Vo_ogre_magi_ogmag_spawn_06.mp3/revision/latest?cb=20191220000852"
-      },
-      {
-        "text": "Yeah!",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/7/75/Vo_ogre_magi_ogmag_move_01.mp3/revision/latest?cb=20191220000644"
-      },
-      {
-        "text": "Here we go!",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/6/68/Vo_ogre_magi_ogmag_attack_02.mp3/revision/latest?cb=20191220000353"
       },
       {
         "text": "I like this part! Me too.",
@@ -3403,36 +1469,12 @@
     "name": "Omniknight",
     "responses": [
       {
-        "text": "Omniknight.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/3/37/Vo_omniknight_omni_spawn_01.mp3/revision/latest?cb=20201018113701"
-      },
-      {
-        "text": "By virtue, by strength.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/9/9a/Vo_omniknight_omni_spawn_02.mp3/revision/latest?cb=20201018113703"
-      },
-      {
-        "text": "By the Omniscience.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/7/7d/Vo_omniknight_omni_spawn_03.mp3/revision/latest?cb=20201018113705"
-      },
-      {
         "text": "My hammer is ready in the service of the All-knowing One.",
         "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/7/7d/Vo_omniknight_omni_spawn_04.mp3/revision/latest?cb=20201018113706"
       },
       {
         "text": "Where piety fails, my hammer falls.",
         "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/7/78/Vo_omniknight_omni_spawn_05.mp3/revision/latest?cb=20201018113708"
-      },
-      {
-        "text": "Strength guides me.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/6/66/Vo_omniknight_omni_move_03.mp3/revision/latest?cb=20201018114228"
-      },
-      {
-        "text": "Omniscient light!",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/a/ac/Vo_omniknight_omni_move_04.mp3/revision/latest?cb=20201018114230"
-      },
-      {
-        "text": "I stand for the light.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/5/56/Vo_omniknight_omni_move_05.mp3/revision/latest?cb=20201018114231"
       },
       {
         "text": "The All-knowing One guides me.",
@@ -3456,28 +1498,8 @@
     "name": "Oracle",
     "responses": [
       {
-        "text": "Oracle.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/2/28/Vo_oracle_orac_spawn_01.mp3/revision/latest?cb=20201018120343"
-      },
-      {
-        "text": "The Oracle sees all.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/8/8f/Vo_oracle_orac_spawn_02.mp3/revision/latest?cb=20201018120344"
-      },
-      {
-        "text": "Let if be all that we see or seem.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/5/52/Vo_oracle_orac_spawn_03.mp3/revision/latest?cb=20201018120346"
-      },
-      {
-        "text": "The odds are with us. Or are they?",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/a/a5/Vo_oracle_orac_battlebegins_01.mp3/revision/latest?cb=20201018115114"
-      },
-      {
         "text": "Like those odds, do you, hmm?",
         "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/e/e3/Vo_oracle_orac_move_18.mp3/revision/latest?cb=20201018115750"
-      },
-      {
-        "text": "So many paths to choose.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/c/c5/Vo_oracle_orac_move_23.mp3/revision/latest?cb=20201018115759"
       },
       {
         "text": "I must harm to heal.",
@@ -3488,18 +1510,6 @@
         "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/f/fb/Vo_oracle_orac_purifyingflames_03.mp3/revision/latest?cb=20201018120244"
       },
       {
-        "text": "Prepare for your fate.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/2/2a/Vo_oracle_orac_attack_02.mp3/revision/latest?cb=20201018115052"
-      },
-      {
-        "text": "More wisdom, more danger.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/4/48/Vo_oracle_orac_levelup_05.mp3/revision/latest?cb=20201018115658"
-      },
-      {
-        "text": "Trust in the Oracle!",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/a/a7/Vo_oracle_orac_fatesedict_06.mp3/revision/latest?cb=20201018115329"
-      },
-      {
         "text": "Beware what you wish for.",
         "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/8/80/Vo_oracle_orac_falsepromise_04.mp3/revision/latest?cb=20201018115249"
       }
@@ -3508,10 +1518,6 @@
   {
     "name": "Outworld_Destroyer",
     "responses": [
-      {
-        "text": "Outworld Devourer.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/2/21/Vo_outworld_destroyer_odest_spawn_02.mp3/revision/latest?cb=20201018121425"
-      },
       {
         "text": "From the outer dark I come.",
         "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/0/09/Vo_outworld_destroyer_odest_spawn_04.mp3/revision/latest?cb=20201018121428"
@@ -3527,34 +1533,6 @@
       {
         "text": "Their sanity I'll shatter, their dreams of conquest I'll destroy.",
         "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/c/c0/Vo_outworld_destroyer_odest_begin_01.mp3/revision/latest?cb=20201018120809"
-      },
-      {
-        "text": "From the world on the rim.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/e/e0/Vo_outworld_destroyer_odest_move_06.mp3/revision/latest?cb=20201018121154"
-      },
-      {
-        "text": "The blood sun rises.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/1/15/Vo_outworld_destroyer_odest_move_07.mp3/revision/latest?cb=20201018121155"
-      },
-      {
-        "text": "Darkness advances.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/4/46/Vo_outworld_destroyer_odest_move_08.mp3/revision/latest?cb=20201018121157"
-      },
-      {
-        "text": "Path of destruction.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/b/bf/Vo_outworld_destroyer_odest_move_10.mp3/revision/latest?cb=20201018121200"
-      },
-      {
-        "text": "Darkness advances.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/3/30/Vo_outworld_destroyer_odest_move_16.mp3/revision/latest?cb=20201018121211"
-      },
-      {
-        "text": "I bring destruction.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/8/88/Vo_outworld_destroyer_odest_attack_03.mp3/revision/latest?cb=20201018120753"
-      },
-      {
-        "text": "I'll overshadow you.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/f/fd/Vo_outworld_destroyer_odest_ability_eclipse_04.mp3/revision/latest?cb=20201018121452"
       }
     ]
   },
@@ -3564,6 +1542,14 @@
       {
         "text": "The honorable Donté Panlin, at your service.",
         "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/d/d2/Vo_pangolin_pangolin_spawn_01.mp3/revision/latest?cb=20200524132426"
+      },
+       {
+        "text": "Please, please. Hold your applause until the end.",
+        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/1/12/Vo_pangolin_pangolin_spawn_06.mp3/revision/latest?cb=20200524132432"
+      },
+       {
+        "text": "I have never run from a fight. But sometimes I do roll.",
+        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/6/66/Vo_pangolin_pangolin_ability4_11.mp3/revision/latest?cb=20200524130848"
       }
     ]
   },
@@ -3571,51 +1557,31 @@
     "name": "Phantom_Assassin",
     "responses": [
       {
-        "text": "Link Phantom Assassin!",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/6/6a/Vo_phantom_assassin_phass_spawn_01.mp3/revision/latest?cb=20201018133554"
-      },
-      {
-        "text": "Link Unseen and unheard.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/7/73/Vo_phantom_assassin_phass_arc_spawn_01.mp3/revision/latest?cb=20201018132658"
-      },
-      {
-        "text": "Link The Phantom creeps in.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/b/b4/Vo_phantom_assassin_phass_spawn_02.mp3/revision/latest?cb=20201018133557"
-      },
-      {
-        "text": "Link The Veiled Sisters sent me.",
+        "text": "The Veiled Sisters sent me.",
         "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/b/b1/Vo_phantom_assassin_phass_arc_spawn_02.mp3/revision/latest?cb=20201018132701"
       },
       {
-        "text": "Link I'm here to blur the line between life and death.",
+        "text": "I'm here to blur the line between life and death.",
         "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/d/d7/Vo_phantom_assassin_phass_spawn_03.mp3/revision/latest?cb=20201018133559"
       },
       {
-        "text": "Link Where falls my shadow, fells my blade.",
+        "text": "Where falls my shadow, fells my blade.",
         "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/e/e3/Vo_phantom_assassin_phass_arc_spawn_03.mp3/revision/latest?cb=20201018132703"
       },
       {
-        "text": "Link Don't blink, or you'll miss me.",
+        "text": "Don't blink, or you'll miss me.",
         "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/0/0c/Vo_phantom_assassin_phass_spawn_04.mp3/revision/latest?cb=20201018133602"
       },
       {
-        "text": "Link In the blink of an eye.",
+        "text": "In the blink of an eye.",
         "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/a/ad/Vo_phantom_assassin_phass_arc_spawn_04.mp3/revision/latest?cb=20201018132706"
       },
       {
-        "text": "Link Marked for death!",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/a/af/Vo_phantom_assassin_phass_spawn_05.mp3/revision/latest?cb=20201018133604"
-      },
-      {
-        "text": "Link I sting from the shadows.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/3/37/Vo_phantom_assassin_phass_arc_spawn_05.mp3/revision/latest?cb=20201018132708"
-      },
-      {
-        "text": "Link Death at my hands is an honor.",
+        "text": "Death at my hands is an honor.",
         "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/6/60/Vo_phantom_assassin_phass_move_14.mp3/revision/latest?cb=20201018133308"
       },
       {
-        "text": "Link The Veiled Oracle chose you.",
+        "text": "The Veiled Oracle chose you.",
         "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/5/52/Vo_phantom_assassin_phass_arc_move_14.mp3/revision/latest?cb=20201018132411"
       }
     ]
@@ -3624,36 +1590,12 @@
     "name": "Phantom_Lancer",
     "responses": [
       {
-        "text": "Phantom Lancer!",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/8/8e/Vo_phantom_lancer_plance_spawn_01.mp3/revision/latest?cb=20201018134622"
-      },
-      {
-        "text": "For home. For peace.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/e/ea/Vo_phantom_lancer_plance_spawn_02.mp3/revision/latest?cb=20201018134624"
-      },
-      {
-        "text": "We are but a simple servant.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/8/8b/Vo_phantom_lancer_plance_spawn_03.mp3/revision/latest?cb=20201018134625"
-      },
-      {
-        "text": "We will do as needed.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/3/35/Vo_phantom_lancer_plance_spawn_04.mp3/revision/latest?cb=20201018134627"
-      },
-      {
         "text": "From one: an army.",
         "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/3/3a/Vo_phantom_lancer_plance_spawn_05.mp3/revision/latest?cb=20201018134628"
       },
       {
         "text": "We are coiled, ready to strike.",
         "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/1/1e/Vo_phantom_lancer_plance_battlebegins_01.mp3/revision/latest?cb=20201018134020"
-      },
-      {
-        "text": "We shall strike.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/7/7f/Vo_phantom_lancer_plance_attack_06.mp3/revision/latest?cb=20201018133919"
-      },
-      {
-        "text": "They cannot hide from us!",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/f/f4/Vo_phantom_lancer_plance_attack_07.mp3/revision/latest?cb=20201018133921"
       },
       {
         "text": "Our lance is ready.",
@@ -3666,85 +1608,12 @@
       {
         "text": "Nothing can stop our march!",
         "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/2/24/Vo_phantom_lancer_plance_levelup_05.mp3/revision/latest?cb=20201018134322"
-      },
-      {
-        "text": "We will set things to right.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/2/2c/Vo_phantom_lancer_plance_levelup_06.mp3/revision/latest?cb=20201018134324"
-      }
-    ]
-  },
-  {
-    "name": "Primal_Beast",
-    "responses": [
-      {
-        "text": "Raawr",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/9/99/Vo_primal_beast_primal_attack_01.mp3/revision/latest?cb=20220618200344"
-      },
-      {
-        "text": "Raawr",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/2/27/Vo_primal_beast_primal_attack_02.mp3/revision/latest?cb=20220618200345"
-      },
-      {
-        "text": "Raawr",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/2/2e/Vo_primal_beast_primal_attack_03.mp3/revision/latest?cb=20220618200346"
-      },
-      {
-        "text": "Raawr",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/5/5b/Vo_primal_beast_primal_attack_big_01.mp3/revision/latest?cb=20220618200354"
-      },
-      {
-        "text": "Raawr",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/7/7c/Vo_primal_beast_primal_attack_big_02.mp3/revision/latest?cb=20220618200355"
-      },
-      {
-        "text": "Raawr",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/1/1b/Vo_primal_beast_primal_attack_big_03.mp3/revision/latest?cb=20220618200356"
-      },
-      {
-        "text": "Raawr",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/7/79/Vo_primal_beast_primal_attack_big_04.mp3/revision/latest?cb=20220618200357"
-      },
-      {
-        "text": "Raawr",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/4/49/Vo_primal_beast_primal_attack_small_01.mp3/revision/latest?cb=20220618200359"
-      },
-      {
-        "text": "Raawr",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/9/99/Vo_primal_beast_primal_attack_small_02.mp3/revision/latest?cb=20220618200400"
-      },
-      {
-        "text": "Raawr",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/0/00/Vo_primal_beast_primal_attack_small_03.mp3/revision/latest?cb=20220618200401"
-      },
-      {
-        "text": "Raawr",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/b/bc/Vo_primal_beast_primal_attack_small_05.mp3/revision/latest?cb=20220618200403"
-      },
-      {
-        "text": "Raawr",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/c/c6/Vo_primal_beast_primal_pain_05.mp3/revision/latest?cb=20220618200709"
       }
     ]
   },
   {
     "name": "Puck",
     "responses": [
-      {
-        "text": "Puck!",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/6/67/Vo_puck_puck_spawn_01.mp3/revision/latest?cb=20201018140626"
-      },
-      {
-        "text": "In your tongue, I am known as Puck.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/0/06/Vo_puck_puck_spawn_02.mp3/revision/latest?cb=20201018140628"
-      },
-      {
-        "text": "This might prove a sport of some interest.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/6/69/Vo_puck_puck_spawn_03.mp3/revision/latest?cb=20201018140631"
-      },
-      {
-        "text": "Interesting.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/4/41/Vo_puck_puck_spawn_04.mp3/revision/latest?cb=20201018140634"
-      },
       {
         "text": "What is this, a game of some sort?",
         "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/5/5e/Vo_puck_puck_spawn_05.mp3/revision/latest?cb=20201018140636"
@@ -3760,22 +1629,6 @@
       {
         "text": "This should be less tiresome than another age in chrysalis.",
         "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/6/6d/Vo_puck_puck_spawn_08.mp3/revision/latest?cb=20201018140644"
-      },
-      {
-        "text": "With alacrity.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/e/e7/Vo_puck_puck_move_08.mp3/revision/latest?cb=20201018140331"
-      },
-      {
-        "text": "Stay and amuse me!",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/3/36/Vo_puck_puck_attack_11.mp3/revision/latest?cb=20201018135900"
-      },
-      {
-        "text": "Here I am!",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/d/d8/Vo_puck_puck_ability_orb_01.mp3/revision/latest?cb=20201018135723"
-      },
-      {
-        "text": "A metamorphosis!",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/6/60/Vo_puck_puck_level_01.mp3/revision/latest?cb=20201018140235"
       }
     ]
   },
@@ -3783,40 +1636,8 @@
     "name": "Pudge",
     "responses": [
       {
-        "text": "Pudge!",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/6/68/Vo_pudge_pud_spawn_01.mp3/revision/latest?cb=20200821222340"
-      },
-      {
-        "text": "The Butcher!",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/9/9c/Vo_pudge_pud_spawn_02.mp3/revision/latest?cb=20200821222342"
-      },
-      {
-        "text": "They call me the Butcher.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/2/20/Vo_pudge_pud_spawn_03.mp3/revision/latest?cb=20200821222344"
-      },
-      {
-        "text": "Pudge is here.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/1/1c/Vo_pudge_pud_spawn_04.mp3/revision/latest?cb=20200821222346"
-      },
-      {
-        "text": "Someone needed a Butcher?",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/1/15/Vo_pudge_pud_spawn_06.mp3/revision/latest?cb=20200821222348"
-      },
-      {
-        "text": "Make room for Pudge!",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/5/57/Vo_pudge_pud_spawn_07.mp3/revision/latest?cb=20200821222350"
-      },
-      {
         "text": "Butcher's in business.",
         "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/4/4f/Vo_pudge_pud_spawn_08.mp3/revision/latest?cb=20200821222352"
-      },
-      {
-        "text": "Pudge!",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/e/e9/Vo_pudge_pud_spawn_10.mp3/revision/latest?cb=20200821222355"
-      },
-      {
-        "text": "Make room!",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/7/7e/Vo_pudge_pud_spawn_11.mp3/revision/latest?cb=20200821222356"
       },
       {
         "text": "Time for a little butchery!",
@@ -3836,36 +1657,8 @@
     "name": "Pugna",
     "responses": [
       {
-        "text": "Pugna!",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/1/19/Vo_pugna_pugna_spawn_01.mp3/revision/latest?cb=20201018145841"
-      },
-      {
-        "text": "I'll take all you have and more.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/0/0a/Vo_pugna_pugna_spawn_02.mp3/revision/latest?cb=20201018145843"
-      },
-      {
-        "text": "Who dare cross my path?",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/8/8a/Vo_pugna_pugna_spawn_03.mp3/revision/latest?cb=20201018145844"
-      },
-      {
-        "text": "I bring oblivion.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/3/3c/Vo_pugna_pugna_spawn_04.mp3/revision/latest?cb=20201018145846"
-      },
-      {
         "text": "I channel the power of the Nether Reaches.",
         "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/c/cd/Vo_pugna_pugna_spawn_05.mp3/revision/latest?cb=20201018145848"
-      },
-      {
-        "text": "Time to earn myself a bad reputation.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/b/b3/Vo_pugna_pugna_battlebegins_01.mp3/revision/latest?cb=20201018145308"
-      },
-      {
-        "text": "By the Nether Reaches.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/7/76/Vo_pugna_pugna_move_09.mp3/revision/latest?cb=20201018145631"
-      },
-      {
-        "text": "Oblivion's power infuses.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/3/3b/Vo_pugna_pugna_level_02.mp3/revision/latest?cb=20201018145556"
       },
       {
         "text": "Who needs a blade when you have oblivion?",
@@ -3874,24 +1667,12 @@
       {
         "text": "A new age of dark magic starts now.",
         "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/3/3d/Vo_pugna_pugna_respawn_06.mp3/revision/latest?cb=20201018145800"
-      },
-      {
-        "text": "Oblivion comes.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/c/cb/Vo_pugna_pugna_move_17.mp3/revision/latest?cb=20201018145645"
-      },
-      {
-        "text": "Nether sorceries.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/2/2f/Vo_pugna_pugna_attack_13.mp3/revision/latest?cb=20201018145301"
       }
     ]
   },
   {
     "name": "Queen_of_Pain",
     "responses": [
-      {
-        "text": "Queendom come!",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/7/75/Vo_queenofpain_pain_spawn_01.mp3/revision/latest?cb=20200612092322"
-      },
       {
         "text": "There will be pain, there will be screaming.",
         "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/d/d0/Vo_queenofpain_pain_spawn_02.mp3/revision/latest?cb=20200612092323"
@@ -3901,36 +1682,8 @@
         "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/4/48/Vo_queenofpain_pain_spawn_03.mp3/revision/latest?cb=20200612092324"
       },
       {
-        "text": "Queen of Pain.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/7/77/Vo_queenofpain_pain_spawn_04.mp3/revision/latest?cb=20200612092325"
-      },
-      {
-        "text": "Make way for your Queen.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/a/a1/Vo_queenofpain_pain_begin_01.mp3/revision/latest?cb=20200612091946"
-      },
-      {
-        "text": "Pain is the best teacher.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/d/d5/Vo_queenofpain_pain_kill_04.mp3/revision/latest?cb=20200612092048"
-      },
-      {
-        "text": "Sweet pain.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/f/fb/Vo_queenofpain_pain_attack_08.mp3/revision/latest?cb=20200612091942"
-      },
-      {
-        "text": "Agony awaits!",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/e/ee/Vo_queenofpain_pain_cast_03.mp3/revision/latest?cb=20200612091954"
-      },
-      {
         "text": "I'm a pain specialist.",
         "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/1/12/Vo_queenofpain_pain_kill_03.mp3/revision/latest?cb=20200612092046"
-      },
-      {
-        "text": "Long live your Queen!",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/9/91/Vo_queenofpain_pain_respawn_01.mp3/revision/latest?cb=20200612092252"
-      },
-      {
-        "text": "Bringing the pain!",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/5/50/Vo_queenofpain_pain_respawn_08.mp3/revision/latest?cb=20200612092259"
       },
       {
         "text": "Pain builds character.",
@@ -3942,40 +1695,8 @@
     "name": "Razor",
     "responses": [
       {
-        "text": "Razor.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/1/14/Vo_razor_raz_spawn_01.mp3/revision/latest?cb=20201018152950"
-      },
-      {
-        "text": "I am Razor.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/3/34/Vo_razor_raz_spawn_02.mp3/revision/latest?cb=20201018152952"
-      },
-      {
-        "text": "I bring the spark of death.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/e/e4/Vo_razor_raz_spawn_03.mp3/revision/latest?cb=20201018152954"
-      },
-      {
-        "text": "I will raze my enemies.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/4/4c/Vo_razor_raz_spawn_04.mp3/revision/latest?cb=20201018152957"
-      },
-      {
-        "text": "I enter the fray.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/9/9f/Vo_razor_raz_spawn_05.mp3/revision/latest?cb=20201018152959"
-      },
-      {
         "text": "The Lightning Revenant lives!",
         "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/4/4c/Vo_razor_raz_spawn_06.mp3/revision/latest?cb=20201018153002"
-      },
-      {
-        "text": "The Lightning Revenant lives!",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/d/d8/Vo_razor_raz_spawn_07.mp3/revision/latest?cb=20201018153005"
-      },
-      {
-        "text": "From the Underscape, I rise.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/b/bd/Vo_razor_raz_spawn_08.mp3/revision/latest?cb=20201018153008"
-      },
-      {
-        "text": "With Razor, you get the edge.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/6/60/Vo_razor_raz_spawn_09.mp3/revision/latest?cb=20201018153010"
       },
       {
         "text": "Your ashes will fall like rain.",
@@ -3995,30 +1716,6 @@
     "name": "Riki",
     "responses": [
       {
-        "text": "Riki",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/6/67/Vo_riki_riki_spawn_01.mp3/revision/latest?cb=20201018154358"
-      },
-      {
-        "text": "Riki here.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/e/ed/Vo_riki_riki_spawn_02.mp3/revision/latest?cb=20201018154401"
-      },
-      {
-        "text": "Rikimaru.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/d/d6/Vo_riki_riki_spawn_03.mp3/revision/latest?cb=20201018154403"
-      },
-      {
-        "text": "I am Riki.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/4/4c/Vo_riki_riki_spawn_04.mp3/revision/latest?cb=20201018154406"
-      },
-      {
-        "text": "At your service.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/2/20/Vo_riki_riki_spawn_05.mp3/revision/latest?cb=20201018154408"
-      },
-      {
-        "text": "Rikimaru, at your service.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/6/6b/Vo_riki_riki_spawn_06.mp3/revision/latest?cb=20201018154411"
-      },
-      {
         "text": "My trade is deathcraft.",
         "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/0/02/Vo_riki_riki_spawn_07.mp3/revision/latest?cb=20201018154413"
       },
@@ -4027,20 +1724,12 @@
         "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/8/80/Vo_riki_riki_spawn_08.mp3/revision/latest?cb=20201018154416"
       },
       {
-        "text": "Whom shall I kill?",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/1/17/Vo_riki_riki_move_09.mp3/revision/latest?cb=20201018154117"
-      },
-      {
         "text": "Heh-ho, you didn't see that coming.",
         "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/3/3d/Vo_riki_riki_kill_03.mp3/revision/latest?cb=20201018153854"
       },
       {
         "text": "Cloaked and daggered.",
         "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/8/8d/Vo_riki_riki_kill_08.mp3/revision/latest?cb=20201018153907"
-      },
-      {
-        "text": "Rikimaru comes for you.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/d/d0/Vo_riki_riki_respawn_10.mp3/revision/latest?cb=20201018154345"
       }
     ]
   },
@@ -4048,47 +1737,23 @@
     "name": "Rubick",
     "responses": [
       {
-        "text": "Link My thirst for knowledge cannot be quenched.",
+        "text": "My thirst for knowledge cannot be quenched.",
         "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/0/0b/Vo_rubick_rubick_spawn_01.mp3/revision/latest?cb=20201018160852"
       },
       {
-        "text": "Link I shall see what they have in store.",
+        "text": "I shall see what they have in store.",
         "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/d/da/Vo_rubick_rub_arc_spawn_01.mp3/revision/latest?cb=20201018155759"
       },
       {
-        "text": "Link What wonders will I see this day?",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/7/7b/Vo_rubick_rubick_spawn_02.mp3/revision/latest?cb=20201018160853"
-      },
-      {
-        "text": "Link Rubick!",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/3/33/Vo_rubick_rub_arc_spawn_02.mp3/revision/latest?cb=20201018155801"
-      },
-      {
-        "text": "Link I am Rubick, the Grand Magus.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/c/cd/Vo_rubick_rubick_spawn_03.mp3/revision/latest?cb=20201018160855"
-      },
-      {
-        "text": "Link Grand Magus!",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/b/b9/Vo_rubick_rub_arc_spawn_03.mp3/revision/latest?cb=20201018155804"
-      },
-      {
-        "text": "Link Such fascinating energies!",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/d/d6/Vo_rubick_rubick_spawn_04.mp3/revision/latest?cb=20201018160857"
-      },
-      {
-        "text": "Link No sorcery lies beyond my grasp.",
+        "text": "No sorcery lies beyond my grasp.",
         "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/3/38/Vo_rubick_rub_arc_spawn_04.mp3/revision/latest?cb=20201018155805"
       },
       {
-        "text": "Link Face the Magus!",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/b/bb/Vo_rubick_rubick_spawn_05.mp3/revision/latest?cb=20201018160859"
-      },
-      {
-        "text": "Link I am no thief. I merely borrow.",
+        "text": "I am no thief. I merely borrow.",
         "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/d/d8/Vo_rubick_rub_arc_spawn_05.mp3/revision/latest?cb=20201018155807"
       },
       {
-        "text": "Link There are none who cannot be mimicked.",
+        "text": "There are none who cannot be mimicked.",
         "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/4/49/Vo_rubick_rubick_spawn_06.mp3/revision/latest?cb=20201018160901"
       }
     ]
@@ -4097,44 +1762,12 @@
     "name": "Sand_King",
     "responses": [
       {
-        "text": "Sand King is here.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/0/0c/Vo_sandking_skg_spawn_01.mp3/revision/latest?cb=20201018174639"
-      },
-      {
-        "text": "Sand King.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/6/62/Vo_sandking_skg_spawn_02.mp3/revision/latest?cb=20201018174643"
-      },
-      {
-        "text": "I am Sand King.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/2/2e/Vo_sandking_skg_spawn_03.mp3/revision/latest?cb=20201018174646"
-      },
-      {
-        "text": "Some call me Crixalis.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/6/6b/Vo_sandking_skg_spawn_04.mp3/revision/latest?cb=20201018174648"
-      },
-      {
-        "text": "Crixalis!",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/7/7a/Vo_sandking_skg_spawn_05.mp3/revision/latest?cb=20201018174651"
-      },
-      {
-        "text": "I am your liege…",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/5/5c/Vo_sandking_skg_spawn_06.mp3/revision/latest?cb=20201018174654"
-      },
-      {
         "text": "King of the Desert.",
         "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/9/99/Vo_sandking_skg_spawn_07.mp3/revision/latest?cb=20201018174656"
       },
       {
-        "text": "The time has come.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/1/1d/Vo_sandking_skg_move_17.mp3/revision/latest?cb=20201018174411"
-      },
-      {
         "text": "I shift like the sands.",
         "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/f/ff/Vo_sandking_skg_move_22.mp3/revision/latest?cb=20201018174425"
-      },
-      {
-        "text": "Sand King cometh.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/c/c6/Vo_sandking_skg_move_23.mp3/revision/latest?cb=20201018174428"
       },
       {
         "text": "By the Djinn of Qaldin!",
@@ -4150,48 +1783,12 @@
     "name": "Shadow_Demon",
     "responses": [
       {
-        "text": "Shadow Demon!",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/3/3e/Vo_shadow_demon_shadow_demon_spawn_01.mp3/revision/latest?cb=20201018180606"
-      },
-      {
-        "text": "Your old master has returned!",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/8/8c/Vo_shadow_demon_shadow_demon_spawn_02.mp3/revision/latest?cb=20201018180609"
-      },
-      {
-        "text": "Heed me, and it will go better for you.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/2/2f/Vo_shadow_demon_shadow_demon_spawn_03.mp3/revision/latest?cb=20201018180616"
-      },
-      {
-        "text": "Sa nith icha gluth.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/c/c9/Vo_shadow_demon_shadow_demon_spawn_04.mp3/revision/latest?cb=20201018180619"
-      },
-      {
         "text": "This time it is the demon who will do the summoning!",
         "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/0/05/Vo_shadow_demon_shadow_demon_spawn_05.mp3/revision/latest?cb=20201018180621"
       },
       {
         "text": "I will scatter all who gather here today.",
         "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/a/a2/Vo_shadow_demon_shadow_demon_battlebegins_01.mp3/revision/latest?cb=20201018175558"
-      },
-      {
-        "text": "Dominion is mine!",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/6/6f/Vo_shadow_demon_shadow_demon_attack_02.mp3/revision/latest?cb=20201018175518"
-      },
-      {
-        "text": "Fall before me!",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/e/ef/Vo_shadow_demon_shadow_demon_attack_03.mp3/revision/latest?cb=20201018175523"
-      },
-      {
-        "text": "By my shadow!",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/9/9b/Vo_shadow_demon_shadow_demon_attack_04.mp3/revision/latest?cb=20201018175529"
-      },
-      {
-        "text": "Come into my dominion!",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/e/e2/Vo_shadow_demon_shadow_demon_attack_07.mp3/revision/latest?cb=20201018175537"
-      },
-      {
-        "text": "How my shadow darkens.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/d/dc/Vo_shadow_demon_shadow_demon_level_up_02.mp3/revision/latest?cb=20201018180058"
       },
       {
         "text": "Fearsome energies invoked!",
@@ -4203,52 +1800,16 @@
     "name": "Shadow_Fiend",
     "responses": [
       {
-        "text": "Link Nevermore…",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/e/e6/Vo_nevermore_nev_spawn_01.mp3/revision/latest?cb=20201017153253"
-      },
-      {
-        "text": "Link Nevermore is here.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/a/a4/Vo_nevermore_nev_arc_spawn_01.mp3/revision/latest?cb=20201017152356"
-      },
-      {
-        "text": "Link I come for souls.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/f/fa/Vo_nevermore_nev_spawn_02.mp3/revision/latest?cb=20201017153255"
-      },
-      {
-        "text": "Link I sense the proximity of souls…",
+        "text": "I sense the proximity of souls…",
         "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/5/58/Vo_nevermore_nev_arc_spawn_02.mp3/revision/latest?cb=20201017152359"
       },
       {
-        "text": "Link It's now or Nevermore.",
+        "text": "It's now or Nevermore.",
         "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/6/6d/Vo_nevermore_nev_spawn_03.mp3/revision/latest?cb=20201017153257"
-      },
-      {
-        "text": "Link It's now or never.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/3/32/Vo_nevermore_nev_arc_spawn_03.mp3/revision/latest?cb=20201017152402"
       },
       {
         "text": "Link Never say Nevermore….",
         "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/3/3c/Vo_nevermore_nev_spawn_04.mp3/revision/latest?cb=20201017153300"
-      },
-      {
-        "text": "Link Souls await!",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/b/b9/Vo_nevermore_nev_arc_spawn_04.mp3/revision/latest?cb=20201017152405"
-      },
-      {
-        "text": "Link Fear my presence.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/6/6e/Vo_nevermore_nev_spawn_05.mp3/revision/latest?cb=20201017153302"
-      },
-      {
-        "text": "Link Souls!",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/d/d1/Vo_nevermore_nev_arc_spawn_05.mp3/revision/latest?cb=20201017152407"
-      },
-      {
-        "text": "Link Shadow Fiend.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/f/ff/Vo_nevermore_nev_spawn_06.mp3/revision/latest?cb=20201017153304"
-      },
-      {
-        "text": "Link Your soul is mine.",
-        "audioLink": "https://static.wikia.nocookie.net/dota2_gamepedia/images/d/d5/Vo_nevermore_nev_arc_spawn_06.mp3/revision/latest?cb=20201017152410"
       }
     ]
   },
