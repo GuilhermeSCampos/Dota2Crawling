@@ -4,7 +4,7 @@ const { addHeroes } = require('./scripts/addHeroes')
 
 const update = async () => {
   await addHeroes();
-  // addGenderToHeroes('./heroesInfo/heroes.json');
+  addGenderToHeroes('./heroesInfo/heroes.json');
   // await addAudios();
 }
 

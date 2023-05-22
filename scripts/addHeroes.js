@@ -36,6 +36,8 @@ const addHeroes = async () => {
       })
     }
 
+
+
     let img = await page.evaluate(() => {
       return document.querySelector('.heropage_Portrait_CR-Bb')?.src
     })
@@ -67,6 +69,20 @@ const addHeroes = async () => {
     let moveSpeed = await page.evaluate(() => {
       return document.querySelector('#dota_react_root > div > div > div.heropage_DetailsBarContainer_2v_HD > div > div.heropage_DetailsStats_22x6X > div.heropage_StatsList_3z1y6 > div:nth-child(3) > div:nth-child(2)')?.innerText
     })
+
+    let strength = await page.evaluate(() => {
+      return document.querySelector('#dota_react_root > div > div > div.heropage_DetailsBarContainer_2v_HD > div > div.heropage_DetailsAttributes_SW4jL > div.heropage_TopAttributesSection_3GFuR > div.heropage_AttributesContainer_3rZsO > div:nth-child(1) > div.heropage_AttributeValue_3Gsgg')?.innerText
+    })
+
+    let agility = await page.evaluate(() => {
+      return document.querySelector('#dota_react_root > div > div > div.heropage_DetailsBarContainer_2v_HD > div > div.heropage_DetailsAttributes_SW4jL > div.heropage_TopAttributesSection_3GFuR > div.heropage_AttributesContainer_3rZsO > div:nth-child(2) > div.heropage_AttributeValue_3Gsgg')?.innerText
+    })
+
+    let intelligence = await page.evaluate(() => {
+      return document.querySelector('#dota_react_root > div > div > div.heropage_DetailsBarContainer_2v_HD > div > div.heropage_DetailsAttributes_SW4jL > div.heropage_TopAttributesSection_3GFuR > div.heropage_AttributesContainer_3rZsO > div:nth-child(3) > div.heropage_AttributeValue_3Gsgg')?.innerText
+    })
+
+
 
     const skills = []
 
@@ -110,10 +126,27 @@ const addHeroes = async () => {
 
     console.log(name)
 
+    if (primaryAttr === "Universal") {
+      let sumAtt = (Number(strength) + Number(agility) + Number(intelligence)) * 0.7;
+      const splitedBaseAttack = baseAttack.split("-")
+      if (splitedBaseAttack[1] === '3') {
+        splitedBaseAttack[0] = Math.round(sumAtt) - 3;
+        splitedBaseAttack[1] = Math.round(sumAtt) + 3;
+        baseAttack = splitedBaseAttack.join('-');
+      } else {
+        splitedBaseAttack[0] = Number(splitedBaseAttack[0]) + Math.round(sumAtt);
+        splitedBaseAttack[1] = Number(splitedBaseAttack[1]) + Math.round(sumAtt);
+        baseAttack = splitedBaseAttack.join('-');
+      }
+    }
+
     const newHero = {
       name,
       primaryAttr,
       attackType,
+      strength,
+      agility,
+      intelligence,
       img,
       baseHp,
       baseMp,
