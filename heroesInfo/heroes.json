@@ -240,7 +240,7 @@
     "img": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/batrider.png",
     "baseHp": "736",
     "baseMp": "339",
-    "baseAttack": "4294967338-46",
+    "baseAttack": "41-45",
     "baseDefense": "4.5",
     "moveSpeed": "330",
     "skills": [
@@ -337,11 +337,11 @@
     "name": "Bounty Hunter",
     "primaryAttr": "Agility",
     "attackType": "Melee",
-    "strength": "20",
+    "strength": "19",
     "agility": "21",
     "intelligence": "22",
     "img": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/bounty_hunter.png",
-    "baseHp": "560",
+    "baseHp": "538",
     "baseMp": "339",
     "baseAttack": "54-62",
     "baseDefense": "8.5",
@@ -376,7 +376,7 @@
     "img": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/brewmaster.png",
     "baseHp": "626",
     "baseMp": "255",
-    "baseAttack": "49-56",
+    "baseAttack": "48-55",
     "baseDefense": "2.2",
     "moveSpeed": "310",
     "skills": [
@@ -442,7 +442,7 @@
     "img": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/broodmother.png",
     "baseHp": "516",
     "baseMp": "291",
-    "baseAttack": "47-53",
+    "baseAttack": "46-52",
     "baseDefense": "3.0",
     "moveSpeed": "285",
     "skills": [
@@ -541,7 +541,7 @@
     "img": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/chen.png",
     "baseHp": "626",
     "baseMp": "303",
-    "baseAttack": "49-56",
+    "baseAttack": "48-55",
     "baseDefense": "1.5",
     "moveSpeed": "305",
     "skills": [
@@ -607,7 +607,7 @@
     "img": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/rattletrap.png",
     "baseHp": "714",
     "baseMp": "291",
-    "baseAttack": "49-51",
+    "baseAttack": "48-50",
     "baseDefense": "3.2",
     "moveSpeed": "310",
     "skills": [
@@ -842,7 +842,7 @@
     "img": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/disruptor.png",
     "baseHp": "582",
     "baseMp": "315",
-    "baseAttack": "49-53",
+    "baseAttack": "47-51",
     "baseDefense": "2.5",
     "moveSpeed": "295",
     "skills": [
@@ -876,7 +876,7 @@
     "baseHp": "648",
     "baseMp": "255",
     "baseAttack": "58-68",
-    "baseDefense": "5.5",
+    "baseDefense": "4.5",
     "moveSpeed": "285",
     "skills": [
       {
@@ -1147,7 +1147,7 @@
     "img": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/enigma.png",
     "baseHp": "582",
     "baseMp": "303",
-    "baseAttack": "45-51",
+    "baseAttack": "44-50",
     "baseDefense": "3.3",
     "moveSpeed": "290",
     "skills": [
@@ -1402,7 +1402,7 @@
     "img": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/wisp.png",
     "baseHp": "494",
     "baseMp": "351",
-    "baseAttack": "42-48",
+    "baseAttack": "41-47",
     "baseDefense": "3.3",
     "moveSpeed": "320",
     "skills": [
@@ -1583,7 +1583,7 @@
     "img": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/legion_commander.png",
     "baseHp": "670",
     "baseMp": "315",
-    "baseAttack": "60-64",
+    "baseAttack": "58-62",
     "baseDefense": "3.0",
     "moveSpeed": "330",
     "skills": [
@@ -1651,7 +1651,7 @@
     "baseMp": "363",
     "baseAttack": "48-57",
     "baseDefense": "1.8",
-    "moveSpeed": "295",
+    "moveSpeed": "290",
     "skills": [
       {
         "skillImg": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/lich_frost_nova.png",
@@ -1781,7 +1781,7 @@
     "img": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/lone_druid.png",
     "baseHp": "516",
     "baseMp": "231",
-    "baseAttack": "37-41",
+    "baseAttack": "36-40",
     "baseDefense": "1.3",
     "moveSpeed": "325",
     "skills": [
@@ -1847,7 +1847,7 @@
     "img": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/lycan.png",
     "baseHp": "692",
     "baseMp": "351",
-    "baseAttack": "50-55",
+    "baseAttack": "49-54",
     "baseDefense": "2.7",
     "moveSpeed": "305",
     "skills": [
@@ -1875,13 +1875,13 @@
     "primaryAttr": "Universal",
     "attackType": "Melee",
     "strength": "25",
-    "agility": "15",
+    "agility": "9",
     "intelligence": "19",
     "img": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/magnataur.png",
     "baseHp": "670",
     "baseMp": "303",
-    "baseAttack": "50-58",
-    "baseDefense": "3.5",
+    "baseAttack": "46-54",
+    "baseDefense": "2.5",
     "moveSpeed": "305",
     "skills": [
       {
@@ -2045,7 +2045,7 @@
     "img": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/mirana.png",
     "baseHp": "560",
     "baseMp": "339",
-    "baseAttack": "4294967337-4294967341",
+    "baseAttack": "41-45",
     "baseDefense": "2.0",
     "moveSpeed": "290",
     "skills": [
@@ -2488,7 +2488,7 @@
     "baseMp": "267",
     "baseAttack": "45-51",
     "baseDefense": "5.0",
-    "moveSpeed": "300",
+    "moveSpeed": "295",
     "skills": [
       {
         "skillImg": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/abilities/pangolier_swashbuckle.png",
@@ -2585,7 +2585,7 @@
     "img": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/phoenix.png",
     "baseHp": "626",
     "baseMp": "267",
-    "baseAttack": "45-55",
+    "baseAttack": "44-54",
     "baseDefense": "1.0",
     "moveSpeed": "280",
     "skills": [
@@ -2778,13 +2778,13 @@
     "primaryAttr": "Agility",
     "attackType": "Ranged",
     "strength": "22",
-    "agility": "22",
+    "agility": "24",
     "intelligence": "21",
     "img": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/razor.png",
     "baseHp": "604",
     "baseMp": "327",
-    "baseAttack": "45-47",
-    "baseDefense": "3.7",
+    "baseAttack": "47-49",
+    "baseDefense": "4.0",
     "moveSpeed": "280",
     "skills": [
       {
@@ -3146,7 +3146,7 @@
     "img": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/snapfire.png",
     "baseHp": "582",
     "baseMp": "327",
-    "baseAttack": "45-51",
+    "baseAttack": "44-50",
     "baseDefense": "3.7",
     "moveSpeed": "300",
     "skills": [
@@ -3246,7 +3246,7 @@
     "baseHp": "736",
     "baseMp": "243",
     "baseAttack": "59-69",
-    "baseDefense": "4.8",
+    "baseDefense": "3.8",
     "moveSpeed": "295",
     "skills": [
       {
@@ -3344,7 +3344,7 @@
     "img": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/techies.png",
     "baseHp": "538",
     "baseMp": "375",
-    "baseAttack": "47-49",
+    "baseAttack": "46-48",
     "baseDefense": "5.3",
     "moveSpeed": "300",
     "skills": [
@@ -3480,7 +3480,7 @@
     "img": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/shredder.png",
     "baseHp": "670",
     "baseMp": "351",
-    "baseAttack": "52-56",
+    "baseAttack": "51-55",
     "baseDefense": "2.7",
     "moveSpeed": "290",
     "skills": [
@@ -3830,7 +3830,7 @@
     "img": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/venomancer.png",
     "baseHp": "538",
     "baseMp": "303",
-    "baseAttack": "4294967338-45",
+    "baseAttack": "42-45",
     "baseDefense": "4.0",
     "moveSpeed": "280",
     "skills": [
@@ -3896,7 +3896,7 @@
     "img": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/visage.png",
     "baseHp": "604",
     "baseMp": "339",
-    "baseAttack": "43-53",
+    "baseAttack": "42-52",
     "baseDefense": "0.8",
     "moveSpeed": "285",
     "skills": [
@@ -3923,13 +3923,13 @@
     "name": "Void Spirit",
     "primaryAttr": "Universal",
     "attackType": "Melee",
-    "strength": "22",
+    "strength": "21",
     "agility": "19",
     "intelligence": "24",
     "img": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/void_spirit.png",
-    "baseHp": "604",
+    "baseHp": "582",
     "baseMp": "363",
-    "baseAttack": "50-54",
+    "baseAttack": "48-52",
     "baseDefense": "2.2",
     "moveSpeed": "290",
     "skills": [
@@ -4055,13 +4055,13 @@
     "name": "Winter Wyvern",
     "primaryAttr": "Universal",
     "attackType": "Ranged",
-    "strength": "22",
+    "strength": "20",
     "agility": "16",
     "intelligence": "26",
     "img": "https://cdn.cloudflare.steamstatic.com/apps/dota2/images/dota_react/heroes/winter_wyvern.png",
-    "baseHp": "604",
+    "baseHp": "560",
     "baseMp": "387",
-    "baseAttack": "42-48",
+    "baseAttack": "39-44",
     "baseDefense": "2.7",
     "moveSpeed": "285",
     "skills": [

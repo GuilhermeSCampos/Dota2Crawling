@@ -126,19 +126,24 @@ const addHeroes = async () => {
 
     console.log(name)
 
-    if (primaryAttr === "Universal") {
-      let sumAtt = (Number(strength) + Number(agility) + Number(intelligence)) * 0.7;
-      const splitedBaseAttack = baseAttack.split("-")
-      if (splitedBaseAttack[1] === '3') {
-        splitedBaseAttack[0] = Math.round(sumAtt) - 3;
-        splitedBaseAttack[1] = Math.round(sumAtt) + 3;
-        baseAttack = splitedBaseAttack.join('-');
-      } else {
-        splitedBaseAttack[0] = Number(splitedBaseAttack[0]) + Math.round(sumAtt);
-        splitedBaseAttack[1] = Number(splitedBaseAttack[1]) + Math.round(sumAtt);
-        baseAttack = splitedBaseAttack.join('-');
-      }
-    }
+    // if (primaryAttr === "Universal") {
+    //   let sumAtt = (Number(strength) + Number(agility) + Number(intelligence)) * 0.7;
+    //   const splitedBaseAttack = baseAttack.split("-")
+    //   if (splitedBaseAttack[1] === '3') {
+    //     splitedBaseAttack[0] = Math.floor(sumAtt) - 3;
+    //     splitedBaseAttack[1] = Math.floor(sumAtt) + 3;
+    //     baseAttack = (Number(splitedBaseAttack[0]) + Number(splitedBaseAttack[1])) / 2
+    //   } else {
+    //     splitedBaseAttack[0] = Number(splitedBaseAttack[0]) + Math.floor(sumAtt);
+    //     splitedBaseAttack[1] = Number(splitedBaseAttack[1]) + Math.floor(sumAtt);
+    //     baseAttack = (Number(splitedBaseAttack[0]) + Number(splitedBaseAttack[1])) / 2
+    //   }
+    // }
+
+    // if (primaryAttr !== "Universal") {
+    //   const splitedBaseAttack = baseAttack.split("-")
+    //   baseAttack = (Number(splitedBaseAttack[0]) + Number(splitedBaseAttack[1])) / 2
+    // }
 
     const newHero = {
       name,

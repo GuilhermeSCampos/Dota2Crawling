@@ -8,4 +8,4 @@ const update = async () => {
   // await addAudios();
 }
 
-update()
+update();
