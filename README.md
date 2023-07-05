@@ -5,13 +5,13 @@
 <h4 align="start">Repositório contendo scripts de raspagem de dados utilizados para a criação do site Dota2Guess</h4>
 <br/>
 
-### Sites utilizados para raspagem
+### - Sites utilizados para raspagem
   - [Site Oficial do Dota 2](https://www.dota2.com)
   - [Dota2Wiki](https://dota2.fandom.com/wiki/Dota_2_Wiki)
 
 <br/>
 
-###  Tecnologias utilizadas
+###  - Tecnologias utilizadas
 
 
 - JavaScript
@@ -19,7 +19,7 @@
 
 <br/>
 
-### Como utilizar
+### - Como utilizar
 
 **Clone o projeto e acesse o diretório**
 
