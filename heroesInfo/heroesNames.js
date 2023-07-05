@@ -14,7 +14,7 @@ const heroesNames = [
   'Terrorblade', 'Tidehunter', 'Timbersaw', 'Tinker', 'Tiny', 'Treant Protector',
   'Troll Warlord', 'Tusk', 'Underlord', 'Undying', 'Ursa', 'Venomancer', 'Viper',
   'Visage', 'Void Spirit', 'Warlock', 'Weaver', 'Witch Doctor', 'Wraith King', 'Zeus',
-  'Primal Beast', 'Ancient Apparition', 'Arc Warden', 'Bane', 'Enigma', 'Morphling', 'Puck',
+  'Ancient Apparition', 'Arc Warden', 'Bane', 'Enigma', 'Morphling', 'Puck',
   'Crystal Maiden', 'Dark Willow', 'Drow Ranger', 'Enchantress', 'Lina',
   'Medusa', 'Mirana', 'Naga Siren', 'Queen of Pain', 'Templar Assassin',
   'Vengeful Spirit', 'Windranger', 'Winter Wyvern', 'Phantom Assassin', 'Spectre',

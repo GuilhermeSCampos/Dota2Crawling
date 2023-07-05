@@ -34,7 +34,7 @@ const addAudios = async () => {
     deviceScaleFactor: 1,
   });
 
-  for (let i = 0; i < 1; i++) {
+  for (let i = 0; i < attHeroes.length; i++) {
 
     await page.goto(`https://dota2.fandom.com/wiki/${attHeroes[i]}/Responses`, {
       waitUntil: "networkidle2",
@@ -42,9 +42,9 @@ const addAudios = async () => {
 
     console.log(attHeroes[i]) //Hero Name
 
-    let ulHandle = await page.$('#mw-content-text > div > ul:nth-child(5)') || 
-    await page.$('#mw-content-text > div > ul:nth-child(6)') ||
-    await page.$('#mw-content-text > div > ul:nth-child(7)')
+    let ulHandle = await page.$('#mw-content-text > div > ul:nth-child(5)') ||
+      await page.$('#mw-content-text > div > ul:nth-child(6)') ||
+      await page.$('#mw-content-text > div > ul:nth-child(7)')
 
     const audioLinks = await page.evaluate(ul => {
       const lis = ul.querySelectorAll('source');
