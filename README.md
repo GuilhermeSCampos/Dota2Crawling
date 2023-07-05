@@ -24,15 +24,15 @@
 **Clone o projeto e acesse o diretório**
 
 ```bash
-$ git clone git@github.com:GuilhermeSCampos/Dota2Crawling.git && cd Dota2Crawling
+ git clone git@github.com:GuilhermeSCampos/Dota2Crawling.git && cd Dota2Crawling
 ```
 
 **Agora basta rodar o script para obter os dados de todos os campeões assim como suas falas da tela de seleção de heróis**
 
 ```bash
 # Instale as Dependências
-$ npm install
+ npm install
 
 # Rode o script
-$ node update.js
+ node update.js
 ```
