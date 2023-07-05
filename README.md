@@ -27,7 +27,7 @@
  git clone git@github.com:GuilhermeSCampos/Dota2Crawling.git && cd Dota2Crawling
 ```
 
-**Agora basta rodar o script e aguardar alguns minutos para obter os dados de todos os campeões assim como suas falas da tela de seleção de heróis**
+**Agora basta rodar o script e aguardar alguns minutos para obter os dados de todos os campeões assim como suas falas da tela de seleção de heróis. Os dados estarão armazenados na pasta heroesInfo.**
 
 ```bash
 # Instale as Dependências
