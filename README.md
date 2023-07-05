@@ -13,7 +13,7 @@
 
 ###  - Tecnologias utilizadas
 
-
+- [Node](https://nodejs.org/en/about)
 - JavaScript
 - [Puppeteer](https://pptr.dev/)
 
