@@ -39,7 +39,7 @@ Agora basta rodar o script e aguardar alguns minutos para obter os dados de todo
 
 <br/>
 
-### - Exemplo
+### - Exemplos
 Dados do Abaddon:
 ```json
 {
